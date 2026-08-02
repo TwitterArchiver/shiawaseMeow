@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2001245225688420352"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "2001245287835426875",
+    "created_at": "2025-12-17T10:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T11:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001245287835426875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DFLKAji1BU",
+          "end": 34,
+          "expanded_url": "https://x.com/shiawaseMeow/status/2001245287835426875/video/1",
+          "media_key": "13_2001245225688420352",
+          "start": 11,
+          "url": "https://t.co/DFLKAji1BU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001245287835426875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去年冬天来着，幸福哦 https://t.co/DFLKAji1BU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4433,
+        "height": 1200,
+        "media_key": "13_2001245225688420352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001245225688420352/img/9qhB_xadcj1uWl0x.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001245225688420352/vid/avc1/320x532/_OypoObrANPOrciy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001245225688420352/vid/avc1/480x800/v9VMXv0ZnTDKDg-V.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001245225688420352/vid/avc1/720x1200/Dn81mbAo--YLYtHE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001245225688420352/pl/Vggrv_K5NWNDNImF.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001245225688420352"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "2001245287835426875",
+        "created_at": "2025-12-17T10:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T11:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001245287835426875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DFLKAji1BU",
+              "end": 34,
+              "expanded_url": "https://x.com/shiawaseMeow/status/2001245287835426875/video/1",
+              "media_key": "13_2001245225688420352",
+              "start": 11,
+              "url": "https://t.co/DFLKAji1BU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001245287835426875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去年冬天来着，幸福哦 https://t.co/DFLKAji1BU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1958534397021565120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15452,
+          "following_count": 147,
+          "like_count": 1976,
+          "listed_count": 31,
+          "media_count": 314,
+          "tweet_count": 1372
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

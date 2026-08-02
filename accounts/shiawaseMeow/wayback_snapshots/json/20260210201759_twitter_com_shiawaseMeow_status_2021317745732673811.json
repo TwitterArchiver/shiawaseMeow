@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2016446960035868940",
+    "created_at": "2026-02-10T20:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T21:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021317745732673811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1885599215084331008",
+          "start": 0,
+          "username": "uvoEbN3iX051797"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021317745732673811",
+    "in_reply_to_user_id": "1885599215084331008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021311583444431245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uvoEbN3iX051797 他是偷我照片的人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2016446960035868940",
+        "created_at": "2026-02-10T20:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T21:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021317745732673811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1885599215084331008",
+              "start": 0,
+              "username": "uvoEbN3iX051797"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021317745732673811",
+        "in_reply_to_user_id": "1885599215084331008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021311583444431245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uvoEbN3iX051797 他是偷我照片的人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885599215084331008",
+        "conversation_id": "2016446960035868940",
+        "created_at": "2026-02-10T19:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T20:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021311583444431245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021311583444431245",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016446960035868940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 小琥珀？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫备用唯一小号@hiyorinnosekai 永远19岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  🥺谢谢你喜欢我",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15390,
+          "following_count": 148,
+          "like_count": 1997,
+          "listed_count": 28,
+          "media_count": 341,
+          "tweet_count": 1429
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T08:01:27.000Z",
+        "description": "",
+        "id": "1885599215084331008",
+        "name": "愚痴さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885599330817761283/8X4ggab0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 474,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 279
+        },
+        "username": "uvoEbN3iX051797",
+        "verified": false
+      }
+    ]
+  }
+}

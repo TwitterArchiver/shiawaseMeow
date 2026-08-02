@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2023683812753109197",
+    "created_at": "2026-02-17T08:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T09:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023683812753109197"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2023683812753109197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "县城妹从小到大都没有什么压岁钱，下辈子好想当大城市的大小姐。。哎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2023683812753109197",
+        "created_at": "2026-02-17T08:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T09:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023683812753109197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023683812753109197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "县城妹从小到大都没有什么压岁钱，下辈子好想当大城市的大小姐。。哎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫备用唯一小号@hiyorinnosekai 永远19岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "好友位88🚪188/288/520/1314🥺",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15374,
+          "following_count": 146,
+          "like_count": 2008,
+          "listed_count": 28,
+          "media_count": 342,
+          "tweet_count": 1443
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1925892829080908188",
+    "created_at": "2025-05-23T13:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T14:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925899801754784230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1717801628487815168",
+          "start": 0,
+          "username": "awmbwt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925899801754784230",
+    "in_reply_to_user_id": "1717801628487815168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925892829080908188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@awmbwt 我也是QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1925892829080908188",
+        "created_at": "2025-05-23T13:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T14:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925899801754784230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1717801628487815168",
+              "start": 0,
+              "username": "awmbwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925899801754784230",
+        "in_reply_to_user_id": "1717801628487815168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925892829080908188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@awmbwt 我也是QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717801628487815168",
+        "conversation_id": "1925892829080908188",
+        "created_at": "2025-05-23T12:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T13:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925892829080908188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925892829080908188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我消息通知能看到有人发私信，上推就看不到，推特把私信都吞了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11347,
+          "following_count": 142,
+          "like_count": 1801,
+          "listed_count": 21,
+          "media_count": 229,
+          "tweet_count": 1031
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T07:13:26.000Z",
+        "description": "晚安",
+        "id": "1717801628487815168",
+        "name": "菠萝吹吹吹雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771582243879915520/GeEioa9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3423,
+          "following_count": 445,
+          "like_count": 44213,
+          "listed_count": 8,
+          "media_count": 94,
+          "tweet_count": 1192
+        },
+        "username": "awmbwt",
+        "verified": false
+      }
+    ]
+  }
+}

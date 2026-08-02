@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1867111847150883182",
+    "created_at": "2024-12-12T07:38:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T08:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867111847150883182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1711357619867410432",
+          "start": 3,
+          "username": "ruirui041999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867111847150883182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866528449567105255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ruirui041999: 虽然你是破碎的，\n但总有人愿意捡起你，\n把你拼成只属于他的，\n飞机杯或者提款机。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1867111847150883182",
+        "created_at": "2024-12-12T07:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T08:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867111847150883182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1711357619867410432",
+              "start": 3,
+              "username": "ruirui041999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867111847150883182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866528449567105255",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ruirui041999: 虽然你是破碎的，\n但总有人愿意捡起你，\n把你拼成只属于他的，\n飞机杯或者提款机。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711357619867410432",
+        "conversation_id": "1866528449567105255",
+        "created_at": "2024-12-10T17:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T18:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866528449567105255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866528449567105255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 22374,
+          "like_count": 313,
+          "quote_count": 3,
+          "reply_count": 36,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "虽然你是破碎的，\n但总有人愿意捡起你，\n把你拼成只属于他的，\n飞机杯或者提款机。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "ノンブレス・オブリージュ\n另一個我 @hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2158,
+          "following_count": 94,
+          "like_count": 966,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 588
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T12:27:21.000Z",
+        "description": "挥手告别过去/高中生/ intj-t /可以叫我布布！！！！！/小布👉🏻@pa_xiao77👈🏻关评为推广请自辨内容/欢迎私信过🚪：288/520/1314/5200提问箱👉🏻 https://t.co/UVbOYLWzRF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "pa_xiao77"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youda.pro/368626",
+                "end": 112,
+                "expanded_url": "https://youda.pro/368626",
+                "start": 89,
+                "url": "https://t.co/UVbOYLWzRF"
+              }
+            ]
+          }
+        },
+        "id": "1711357619867410432",
+        "location": "1.4km",
+        "name": "K.4iLeNt",
+        "pinned_tweet_id": "1867089455301239117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776912107348602880/JcdkzcPY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29882,
+          "following_count": 461,
+          "like_count": 9123,
+          "listed_count": 65,
+          "media_count": 46,
+          "tweet_count": 8010
+        },
+        "username": "ruirui041999",
+        "verified": false
+      }
+    ]
+  }
+}

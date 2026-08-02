@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1869696651591557228",
+    "created_at": "2024-12-19T11:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T12:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869703801219043817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1547158970019840001",
+          "start": 0,
+          "username": "Pierrotlefouu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869703801219043817",
+    "in_reply_to_user_id": "1547158970019840001",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869696651591557228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pierrotlefouu_ 我也爱嚼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1869696651591557228",
+        "created_at": "2024-12-19T11:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T12:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869703801219043817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1547158970019840001",
+              "start": 0,
+              "username": "Pierrotlefouu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869703801219043817",
+        "in_reply_to_user_id": "1547158970019840001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869696651591557228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pierrotlefouu_ 我也爱嚼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547158970019840001",
+        "conversation_id": "1869696651591557228",
+        "created_at": "2024-12-19T10:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T11:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869696651591557228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869696651591557228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嚼冰块确实是个很酷的爱好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "ノンブレス・オブリージュ\n另一個我 @hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "纯绿🚪288/520/1314",
+        "name": "hiyorin🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2356,
+          "following_count": 97,
+          "like_count": 1043,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 630
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T10:00:29.000Z",
+        "description": "老派刺客",
+        "id": "1547158970019840001",
+        "name": "我們時代的愛無能",
+        "pinned_tweet_id": "1868607652886175989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858141372848705536/_Z0_PlE__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 324,
+          "like_count": 9424,
+          "listed_count": 4,
+          "media_count": 69,
+          "tweet_count": 798
+        },
+        "username": "Pierrotlefouu_",
+        "verified": false
+      }
+    ]
+  }
+}

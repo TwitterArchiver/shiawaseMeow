@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1909453532643955114",
+    "created_at": "2025-04-08T06:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T07:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909486495544885260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596489618429562882",
+          "start": 0,
+          "username": "plzjustluvmeqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909486495544885260",
+    "in_reply_to_user_id": "1596489618429562882",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909453532643955114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plzjustluvmeqwq 我也是😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1909453532643955114",
+        "created_at": "2025-04-08T06:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T07:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909486495544885260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596489618429562882",
+              "start": 0,
+              "username": "plzjustluvmeqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909486495544885260",
+        "in_reply_to_user_id": "1596489618429562882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909453532643955114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plzjustluvmeqwq 我也是😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596489618429562882",
+        "conversation_id": "1909453532643955114",
+        "created_at": "2025-04-08T03:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T04:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909453532643955114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909453532643955114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不明白我上网到底是为了什么 我不仅流量不好 而且也没交到过朋友 也没圈到米 现在还发现这么多人拉黑我 互联网还总是给我这个穷人推有钱人的生活让我难受 但是只要不上网出去玩我心情就很好 不过我也没钱天天出去玩 我发现网络你真的害死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 绝望的neet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1899788877399023877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5743,
+          "following_count": 129,
+          "like_count": 1584,
+          "listed_count": 11,
+          "media_count": 178,
+          "tweet_count": 861
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T13:03:22.000Z",
+        "description": "我是纱奈｜推文内容多为自拍和一些碎碎念｜清水推有对象不接线下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "on.soundcloud.com/PfLhC",
+                "end": 23,
+                "expanded_url": "https://on.soundcloud.com/PfLhC",
+                "start": 0,
+                "url": "https://t.co/E7iOTLMJj5"
+              }
+            ]
+          }
+        },
+        "id": "1596489618429562882",
+        "location": "my soundcloud👇🏻",
+        "name": "流泪猫猫头",
+        "pinned_tweet_id": "1870080741184507963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909455569213423616/mUbzVF7R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2677,
+          "following_count": 192,
+          "like_count": 6564,
+          "listed_count": 3,
+          "media_count": 287,
+          "tweet_count": 2654
+        },
+        "url": "https://t.co/E7iOTLMJj5",
+        "username": "plzjustluvmeqwq",
+        "verified": false
+      }
+    ]
+  }
+}

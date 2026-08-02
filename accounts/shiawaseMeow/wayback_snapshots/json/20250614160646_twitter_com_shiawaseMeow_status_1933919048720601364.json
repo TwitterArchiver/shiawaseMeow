@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933919039342206976",
+        "3_1933919039312809984"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1933919048720601364",
+    "created_at": "2025-06-14T16:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T17:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933919048720601364"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hGvFA3zmAr",
+          "end": 48,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1933919048720601364/photo/1",
+          "media_key": "3_1933919039342206976",
+          "start": 25,
+          "url": "https://t.co/hGvFA3zmAr"
+        },
+        {
+          "display_url": "pic.x.com/hGvFA3zmAr",
+          "end": 48,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1933919048720601364/photo/1",
+          "media_key": "3_1933919039312809984",
+          "start": 25,
+          "url": "https://t.co/hGvFA3zmAr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933919048720601364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哇塞小姐姐你很自信啊，说话像个男的下辈子重开吧🤣 https://t.co/hGvFA3zmAr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1933919039342206976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtapHrRbYAA_yjI.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1933919039312809984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtapHrKa0AAAsf3.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933919039342206976",
+            "3_1933919039312809984"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1933919048720601364",
+        "created_at": "2025-06-14T16:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T17:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933919048720601364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hGvFA3zmAr",
+              "end": 48,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1933919048720601364/photo/1",
+              "media_key": "3_1933919039342206976",
+              "start": 25,
+              "url": "https://t.co/hGvFA3zmAr"
+            },
+            {
+              "display_url": "pic.x.com/hGvFA3zmAr",
+              "end": 48,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1933919048720601364/photo/1",
+              "media_key": "3_1933919039312809984",
+              "start": 25,
+              "url": "https://t.co/hGvFA3zmAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933919048720601364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇塞小姐姐你很自信啊，说话像个男的下辈子重开吧🤣 https://t.co/hGvFA3zmAr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13262,
+          "following_count": 142,
+          "like_count": 1882,
+          "listed_count": 29,
+          "media_count": 258,
+          "tweet_count": 1122
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2055179871878623324",
+    "created_at": "2026-05-15T07:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T08:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055186099862221059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1815833833461424129",
+          "start": 0,
+          "username": "TokaiTeio1967"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055186099862221059",
+    "in_reply_to_user_id": "1815833833461424129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055183498563256710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TokaiTeio1967 已经关服了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2055179871878623324",
+        "created_at": "2026-05-15T07:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055186099862221059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815833833461424129",
+              "start": 0,
+              "username": "TokaiTeio1967"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055186099862221059",
+        "in_reply_to_user_id": "1815833833461424129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055183498563256710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TokaiTeio1967 已经关服了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815833833461424129",
+        "conversation_id": "2055179871878623324",
+        "created_at": "2026-05-15T07:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055183498563256710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055183498563256710",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055179871878623324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 啥游戏啊，感觉有点意思。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫姬和酱只有X和🍠，抖音发我照片的全是盗图狗nmsl",
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位只要88感谢投喂",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15346,
+          "following_count": 161,
+          "like_count": 2078,
+          "listed_count": 31,
+          "media_count": 345,
+          "tweet_count": 1482
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T19:38:33.000Z",
+        "description": "奇迹无时无刻不在发生，只是太过平常。",
+        "id": "1815833833461424129",
+        "location": "Berlin, Deutschland",
+        "name": "人是机器",
+        "pinned_tweet_id": "2053969365943390534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053255485042618369/JWK4xUOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 566,
+          "like_count": 1222,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 1872
+        },
+        "username": "TokaiTeio1967",
+        "verified": false
+      }
+    ]
+  }
+}

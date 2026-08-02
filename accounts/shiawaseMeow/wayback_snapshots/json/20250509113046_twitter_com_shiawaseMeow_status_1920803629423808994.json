@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1920412972037415296",
+    "created_at": "2025-05-09T11:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T12:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920803629423808994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1212312646910824448",
+          "start": 0,
+          "username": "damngunn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920803629423808994",
+    "in_reply_to_user_id": "1212312646910824448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920784505398342050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damngunn yuka日代那里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1920412972037415296",
+        "created_at": "2025-05-09T11:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T12:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920803629423808994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1212312646910824448",
+              "start": 0,
+              "username": "damngunn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920803629423808994",
+        "in_reply_to_user_id": "1212312646910824448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920784505398342050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damngunn yuka日代那里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1212312646910824448",
+        "conversation_id": "1920412972037415296",
+        "created_at": "2025-05-09T10:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T11:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920784505398342050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920784505398342050",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920412972037415296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 唐企鹅和美乐蒂的Tee是哪里买的🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11177,
+          "following_count": 139,
+          "like_count": 1727,
+          "listed_count": 21,
+          "media_count": 223,
+          "tweet_count": 1009
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-01T10:00:41.000Z",
+        "description": "无人在意",
+        "id": "1212312646910824448",
+        "name": "永遠年輕美麗不會清醒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650217684855046145/KaKCS3eU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 37
+        },
+        "username": "damngunn",
+        "verified": false
+      }
+    ]
+  }
+}

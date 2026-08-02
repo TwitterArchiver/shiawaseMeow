@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1904206387170951168"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1904206528997105771",
+    "created_at": "2025-03-24T16:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T17:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904206528997105771"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZO8NuiPqYh",
+          "end": 28,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1904206528997105771/video/1",
+          "media_key": "7_1904206387170951168",
+          "start": 5,
+          "url": "https://t.co/ZO8NuiPqYh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904206528997105771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想你了 https://t.co/ZO8NuiPqYh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4418,
+        "height": 1566,
+        "media_key": "7_1904206387170951168",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1904206387170951168/pu/img/MFJVXfrtsRa42_hp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904206387170951168/pu/vid/avc1/320x532/r2Xi9bEalFNBAmFB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904206387170951168/pu/vid/avc1/480x798/gloQs9MFVS1jfOO_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1904206387170951168/pu/vid/avc1/720x1198/2lphmhhpUGLp0Njk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1904206387170951168/pu/pl/6xWWyeET1Q-U01x1.m3u8?tag=12"
+          }
+        ],
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1904206387170951168"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1904206528997105771",
+        "created_at": "2025-03-24T16:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T17:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904206528997105771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZO8NuiPqYh",
+              "end": 28,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1904206528997105771/video/1",
+              "media_key": "7_1904206387170951168",
+              "start": 5,
+              "url": "https://t.co/ZO8NuiPqYh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904206528997105771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想你了 https://t.co/ZO8NuiPqYh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 绝望的neet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪288/520/1314 ",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1899788877399023877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5446,
+          "following_count": 127,
+          "like_count": 1498,
+          "listed_count": 9,
+          "media_count": 160,
+          "tweet_count": 799
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

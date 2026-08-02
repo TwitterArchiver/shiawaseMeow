@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1907867468204585389",
+    "created_at": "2025-04-04T09:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T10:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908086587289911592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767620769004359682",
+          "start": 0,
+          "username": "hateu4ever4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908086587289911592",
+    "in_reply_to_user_id": "1767620769004359682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907867468204585389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hateu4ever4 我有这个用三个月就掉皮好多TAT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907867460331778049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnobWMuaMAEImNY.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1907867468204585389",
+        "created_at": "2025-04-04T09:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T10:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908086587289911592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767620769004359682",
+              "start": 0,
+              "username": "hateu4ever4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908086587289911592",
+        "in_reply_to_user_id": "1767620769004359682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907867468204585389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hateu4ever4 我有这个用三个月就掉皮好多TAT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907867460331778049"
+          ]
+        },
+        "author_id": "1767620769004359682",
+        "conversation_id": "1907867468204585389",
+        "created_at": "2025-04-03T18:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T19:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907867468204585389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NIUpdVRpPA",
+              "end": 35,
+              "expanded_url": "https://x.com/hateu4ever4/status/1907867468204585389/photo/1",
+              "media_key": "3_1907867460331778049",
+              "start": 12,
+              "url": "https://t.co/NIUpdVRpPA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907867468204585389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 27912,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "送给我买我给他操一个月 https://t.co/NIUpdVRpPA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 绝望的neet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1899788877399023877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5703,
+          "following_count": 129,
+          "like_count": 1560,
+          "listed_count": 11,
+          "media_count": 175,
+          "tweet_count": 845
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T18:37:02.000Z",
+        "description": "06///各种问题请看置顶❤️170 120//过🚪不退//ip陕 可✈️ ：///希望得到互相尊重的关系🫶盗图死妈妈",
+        "id": "1767620769004359682",
+        "location": "0.1km",
+        "name": "杉",
+        "pinned_tweet_id": "1893333622309978185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888616491790303233/d__1pxJx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9237,
+          "following_count": 55,
+          "like_count": 137,
+          "listed_count": 23,
+          "media_count": 188,
+          "tweet_count": 943
+        },
+        "username": "hateu4ever4",
+        "verified": false
+      }
+    ]
+  }
+}

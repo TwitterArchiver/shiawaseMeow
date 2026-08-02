@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2066475772261642646",
+    "created_at": "2026-06-15T11:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T12:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066478048401363216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1347773306922000384",
+          "start": 0,
+          "username": "NerveCulture"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066478048401363216",
+    "in_reply_to_user_id": "1347773306922000384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066477764782223589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NerveCulture 因为我重新化妆了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2066475772261642646",
+        "created_at": "2026-06-15T11:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066478048401363216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1347773306922000384",
+              "start": 0,
+              "username": "NerveCulture"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066478048401363216",
+        "in_reply_to_user_id": "1347773306922000384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066477764782223589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NerveCulture 因为我重新化妆了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1347773306922000384",
+        "conversation_id": "2066475772261642646",
+        "created_at": "2026-06-15T11:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066477764782223589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066477764782223589",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066475772261642646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow are you blushing or is that a filter? you look much brighter than before"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫只有X和🍠",
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位只要88感谢投喂",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15406,
+          "following_count": 163,
+          "like_count": 2093,
+          "listed_count": 31,
+          "media_count": 351,
+          "tweet_count": 1501
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-09T05:13:21.000Z",
+        "description": "I love my cats, and you should too.\nhttps://t.co/I3qYTPXybi\nhttps://t.co/SAvEoMJMeU\nhttps://t.co/VHkL7EY7gA\nhttps://t.co/SJmrmfpyAm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.com/nerveculture",
+                "end": 59,
+                "expanded_url": "http://twitch.com/nerveculture",
+                "start": 36,
+                "url": "https://t.co/I3qYTPXybi"
+              },
+              {
+                "display_url": "youtube.com/@nerveculture",
+                "end": 83,
+                "expanded_url": "https://youtube.com/@nerveculture",
+                "start": 60,
+                "url": "https://t.co/SAvEoMJMeU"
+              },
+              {
+                "display_url": "nerveculture.com",
+                "end": 107,
+                "expanded_url": "http://nerveculture.com",
+                "start": 84,
+                "url": "https://t.co/VHkL7EY7gA"
+              },
+              {
+                "display_url": "discord.gg/d9j8jwvQqF",
+                "end": 131,
+                "expanded_url": "https://discord.gg/d9j8jwvQqF",
+                "start": 108,
+                "url": "https://t.co/SJmrmfpyAm"
+              }
+            ]
+          }
+        },
+        "id": "1347773306922000384",
+        "name": "Nerveculture",
+        "pinned_tweet_id": "1697821247428542679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762608988456194049/9LKcAbYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 6575,
+          "like_count": 26084,
+          "listed_count": 0,
+          "media_count": 422,
+          "tweet_count": 764
+        },
+        "username": "NerveCulture",
+        "verified": false
+      }
+    ]
+  }
+}

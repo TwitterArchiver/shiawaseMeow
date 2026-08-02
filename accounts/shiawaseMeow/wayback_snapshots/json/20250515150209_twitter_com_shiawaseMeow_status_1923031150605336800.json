@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1922942172573131002",
+    "created_at": "2025-05-15T15:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T16:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923031150605336800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596489618429562882",
+          "start": 0,
+          "username": "plzjustluvmeqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923031150605336800",
+    "in_reply_to_user_id": "1596489618429562882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922942172573131002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plzjustluvmeqwq 男朋友好好哦，要是他不想麻烦就算了，报警感觉其实没什么用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1922942172573131002",
+        "created_at": "2025-05-15T15:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T16:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923031150605336800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596489618429562882",
+              "start": 0,
+              "username": "plzjustluvmeqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923031150605336800",
+        "in_reply_to_user_id": "1596489618429562882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922942172573131002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plzjustluvmeqwq 男朋友好好哦，要是他不想麻烦就算了，报警感觉其实没什么用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596489618429562882",
+        "conversation_id": "1922942172573131002",
+        "created_at": "2025-05-15T09:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T10:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922942172573131002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922942172573131002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 356,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在网上和人吵架我对象替我说话于是被人开盒了 那个人把他姓名和学校都开出来了 还加他QQ给他打电话 我报警了但是警察说要被开盒的本人报才行 我感觉他不是很想追究这事 因为他平时生活很忙 但是他是因为我才被开的 我该怎么办啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11250,
+          "following_count": 139,
+          "like_count": 1772,
+          "listed_count": 21,
+          "media_count": 235,
+          "tweet_count": 1038
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T13:03:22.000Z",
+        "description": "你好我叫纱奈｜清水推｜推文内容多为自拍和一些碎碎念｜有时会发我画的画｜我不是地雷女只是喜欢穿地雷系的衣服｜异性勿扰有男朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "on.soundcloud.com/PfLhC",
+                "end": 23,
+                "expanded_url": "https://on.soundcloud.com/PfLhC",
+                "start": 0,
+                "url": "https://t.co/E7iOTLMJj5"
+              }
+            ]
+          }
+        },
+        "id": "1596489618429562882",
+        "location": "my soundcloud👇🏻",
+        "name": "Lollipop",
+        "pinned_tweet_id": "1918495745256325232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918366389150334976/MDEnwIqk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2842,
+          "following_count": 204,
+          "like_count": 7113,
+          "listed_count": 5,
+          "media_count": 317,
+          "tweet_count": 2958
+        },
+        "url": "https://t.co/E7iOTLMJj5",
+        "username": "plzjustluvmeqwq",
+        "verified": false
+      }
+    ]
+  }
+}

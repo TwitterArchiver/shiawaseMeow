@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1853015520355946589",
+    "created_at": "2024-11-03T19:02:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T20:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853150777625489854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1505009070603964419",
+          "start": 0,
+          "username": "CMYJ021007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853150777625489854",
+    "in_reply_to_user_id": "1505009070603964419",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853067335265096111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CMYJ021007 你也是！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1853067335265096111].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1853067335265096111",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1853067335265096111"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1853015520355946589",
+        "created_at": "2024-11-03T19:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T20:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853150777625489854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1505009070603964419",
+              "start": 0,
+              "username": "CMYJ021007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853150777625489854",
+        "in_reply_to_user_id": "1505009070603964419",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853067335265096111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CMYJ021007 你也是！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "能不能也对我留点爱",
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1411,
+          "following_count": 87,
+          "like_count": 456,
+          "listed_count": 0,
+          "tweet_count": 436
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T02:31:50.000Z",
+        "description": "某不知名女同代餐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CMYJ021007",
+                "end": 23,
+                "expanded_url": "http://t.me/CMYJ021007",
+                "start": 0,
+                "url": "https://t.co/lxe3DMTNhz"
+              }
+            ]
+          }
+        },
+        "id": "1505009070603964419",
+        "location": "参宿四🏳‍⚧🌈",
+        "name": "此梦缘君🍥",
+        "pinned_tweet_id": "1754416111167418466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662862637909299200/qwd6JotX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2329,
+          "following_count": 587,
+          "like_count": 2083,
+          "listed_count": 6,
+          "tweet_count": 1948
+        },
+        "url": "https://t.co/lxe3DMTNhz",
+        "username": "CMYJ021007",
+        "verified": false
+      }
+    ]
+  }
+}

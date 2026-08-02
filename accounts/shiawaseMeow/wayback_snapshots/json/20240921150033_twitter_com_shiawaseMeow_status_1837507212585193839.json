@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1837507186244964356",
+        "3_1837507186211409927"
+      ]
+    },
+    "author_id": "2603784802",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1837507212585193839",
+    "created_at": "2024-09-21T15:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T16:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1837507212585193839"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ox2pajrwwl",
+          "end": 30,
+          "expanded_url": "https://twitter.com/shiawaseMeow/status/1837507212585193839/photo/1",
+          "media_key": "3_1837507186244964356",
+          "start": 7,
+          "url": "https://t.co/Ox2PaJrWwl"
+        },
+        {
+          "display_url": "pic.x.com/ox2pajrwwl",
+          "end": 30,
+          "expanded_url": "https://twitter.com/shiawaseMeow/status/1837507212585193839/photo/1",
+          "media_key": "3_1837507186211409927",
+          "start": 7,
+          "url": "https://t.co/Ox2PaJrWwl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837507212585193839",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈哈哈哈哈草 https://t.co/Ox2PaJrWwl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1837507186244964356",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYAjDORb0AQ6v-9.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1837507186211409927",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYAjDOJb0AccLOA.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837507186244964356",
+            "3_1837507186211409927"
+          ]
+        },
+        "author_id": "2603784802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1837507212585193839",
+        "created_at": "2024-09-21T15:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T16:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837507212585193839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ox2pajrwwl",
+              "end": 30,
+              "expanded_url": "https://twitter.com/shiawaseMeow/status/1837507212585193839/photo/1",
+              "media_key": "3_1837507186244964356",
+              "start": 7,
+              "url": "https://t.co/Ox2PaJrWwl"
+            },
+            {
+              "display_url": "pic.x.com/ox2pajrwwl",
+              "end": 30,
+              "expanded_url": "https://twitter.com/shiawaseMeow/status/1837507212585193839/photo/1",
+              "media_key": "3_1837507186211409927",
+              "start": 7,
+              "url": "https://t.co/Ox2PaJrWwl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837507212585193839",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈草 https://t.co/Ox2PaJrWwl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "世界も涙も強さも忘れて",
+        "id": "2603784802",
+        "location": "I pray",
+        "name": "hiyorin",
+        "pinned_tweet_id": "1836730312723763520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 65,
+          "like_count": 234,
+          "listed_count": 0,
+          "tweet_count": 230
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

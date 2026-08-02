@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1858804050474790957",
+    "created_at": "2024-11-19T14:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T15:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858884442770825610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1724478615973494784",
+          "start": 0,
+          "username": "yuan_7302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858884442770825610",
+    "in_reply_to_user_id": "1724478615973494784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858804050474790957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuan_7302 我早晚会圈到一个明知道我圈钱还给我的男人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1858804050474790957",
+        "created_at": "2024-11-19T14:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T15:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858884442770825610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1724478615973494784",
+              "start": 0,
+              "username": "yuan_7302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858884442770825610",
+        "in_reply_to_user_id": "1724478615973494784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858804050474790957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuan_7302 我早晚会圈到一个明知道我圈钱还给我的男人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724478615973494784",
+        "conversation_id": "1858804050474790957",
+        "created_at": "2024-11-19T09:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T10:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858804050474790957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1858804050474790957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 506,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我早晚会圈到一个明知道我圈钱还给我的男人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "能不能也对我留点爱",
+        "id": "2603784802",
+        "location": "🚪288 纯纯纯绿",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 88,
+          "like_count": 850,
+          "listed_count": 1,
+          "tweet_count": 592
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T17:25:27.000Z",
+        "description": "私信只回女生跟钱 https://t.co/8SeWS8lT7z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yyyduu1",
+                "end": 32,
+                "expanded_url": "https://ngl.link/yyyduu1",
+                "start": 9,
+                "url": "https://t.co/8SeWS8lT7z"
+              }
+            ]
+          }
+        },
+        "id": "1724478615973494784",
+        "name": "緣",
+        "pinned_tweet_id": "1856716115126497682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848369410425446400/7OlBMg0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 846,
+          "like_count": 7959,
+          "listed_count": 6,
+          "tweet_count": 3511
+        },
+        "username": "yuan_7302",
+        "verified": false
+      }
+    ]
+  }
+}

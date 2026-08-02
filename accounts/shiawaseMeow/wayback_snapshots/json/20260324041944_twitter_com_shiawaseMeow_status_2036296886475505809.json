@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2036077020913017342",
+    "created_at": "2026-03-24T04:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T05:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036296886475505809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885765075996393472",
+          "start": 0,
+          "username": "maitakoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036296886475505809",
+    "in_reply_to_user_id": "1885765075996393472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036077020913017342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maitakoo 好想吐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036076998326681600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGZPgybAAAjhxQ.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2036077020913017342",
+        "created_at": "2026-03-24T04:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T05:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036296886475505809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885765075996393472",
+              "start": 0,
+              "username": "maitakoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036296886475505809",
+        "in_reply_to_user_id": "1885765075996393472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036077020913017342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maitakoo 好想吐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036076998326681600"
+          ]
+        },
+        "author_id": "1885765075996393472",
+        "conversation_id": "2036077020913017342",
+        "created_at": "2026-03-23T13:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036077020913017342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/squKIuHMwh",
+              "end": 42,
+              "expanded_url": "https://x.com/maitakoo/status/2036077020913017342/photo/1",
+              "media_key": "3_2036076998326681600",
+              "start": 19,
+              "url": "https://t.co/squKIuHMwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036077020913017342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12192,
+          "like_count": 94,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "对这个东西有心理阴影了oder都懂。 https://t.co/squKIuHMwh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫备用唯一小号@hiyorinnosekai 永远19岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位只要88感谢投喂",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15684,
+          "following_count": 157,
+          "like_count": 2073,
+          "listed_count": 29,
+          "media_count": 349,
+          "tweet_count": 1478
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T19:00:23.000Z",
+        "description": "10世代｜双相｜od&sh｜LGBTQIA+友好｜同类随缘互fo\n提问箱https://t.co/AG60232YzV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%96%84%E6%B…",
+                "end": 59,
+                "expanded_url": "https://ngl.link/%E8%96%84%E6%B0%B7%E6%AE%89%E6%83%85",
+                "start": 36,
+                "url": "https://t.co/AG60232YzV"
+              }
+            ]
+          }
+        },
+        "id": "1885765075996393472",
+        "location": "California, USA",
+        "name": "薄氷殉情",
+        "pinned_tweet_id": "2026673425104953549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989006426828943360/mqOM-NSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 142,
+          "like_count": 2728,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 1814
+        },
+        "username": "maitakoo",
+        "verified": false
+      }
+    ]
+  }
+}

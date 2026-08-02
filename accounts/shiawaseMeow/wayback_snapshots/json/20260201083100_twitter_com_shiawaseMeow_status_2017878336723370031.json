@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2017878268649873408"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "2017878336723370031",
+    "created_at": "2026-02-01T08:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T09:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017878336723370031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vfqb2KgBf7",
+          "end": 27,
+          "expanded_url": "https://x.com/shiawaseMeow/status/2017878336723370031/video/1",
+          "media_key": "13_2017878268649873408",
+          "start": 4,
+          "url": "https://t.co/vfqb2KgBf7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017878336723370031",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "萌化了 https://t.co/vfqb2KgBf7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2946,
+        "height": 1280,
+        "media_key": "13_2017878268649873408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017878268649873408/img/TYiRG4NLdkFX0BDm.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017878268649873408/vid/avc1/320x568/vk_qe3_MnbUVaxWz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017878268649873408/vid/avc1/480x852/T1VlChV5CN576bpw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017878268649873408/vid/avc1/720x1280/zrUtKFr8q5FRA4r2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017878268649873408/pl/ZgO9skNRlyHGZ0rY.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017878268649873408"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "2017878336723370031",
+        "created_at": "2026-02-01T08:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T09:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017878336723370031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfqb2KgBf7",
+              "end": 27,
+              "expanded_url": "https://x.com/shiawaseMeow/status/2017878336723370031/video/1",
+              "media_key": "13_2017878268649873408",
+              "start": 4,
+              "url": "https://t.co/vfqb2KgBf7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017878336723370031",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "萌化了 https://t.co/vfqb2KgBf7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫备用唯一小号@hiyorinnosekai 永远19岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  🥺谢谢你喜欢我",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15359,
+          "following_count": 149,
+          "like_count": 1987,
+          "listed_count": 28,
+          "media_count": 336,
+          "tweet_count": 1414
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

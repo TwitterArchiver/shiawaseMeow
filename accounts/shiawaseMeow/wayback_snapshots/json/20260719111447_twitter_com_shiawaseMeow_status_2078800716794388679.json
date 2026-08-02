@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078800641477197826",
+        "3_2078800641473085440"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "2078800716794388679",
+    "created_at": "2026-07-19T11:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T12:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078800716794388679"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nXzpqFQkHG",
+          "end": 28,
+          "expanded_url": "https://x.com/shiawaseMeow/status/2078800716794388679/photo/1",
+          "media_key": "3_2078800641477197826",
+          "start": 5,
+          "url": "https://t.co/nXzpqFQkHG"
+        },
+        {
+          "display_url": "pic.x.com/nXzpqFQkHG",
+          "end": 28,
+          "expanded_url": "https://x.com/shiawaseMeow/status/2078800716794388679/photo/1",
+          "media_key": "3_2078800641473085440",
+          "start": 5,
+          "url": "https://t.co/nXzpqFQkHG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078800716794388679",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "acid https://t.co/nXzpqFQkHG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078800641477197826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNliK2IaQAIuRw_.jpg",
+        "width": 1234
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078800641473085440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNliK2HbgAAC9z0.jpg",
+        "width": 1204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078800641477197826",
+            "3_2078800641473085440"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "2078800716794388679",
+        "created_at": "2026-07-19T11:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T12:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078800716794388679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXzpqFQkHG",
+              "end": 28,
+              "expanded_url": "https://x.com/shiawaseMeow/status/2078800716794388679/photo/1",
+              "media_key": "3_2078800641477197826",
+              "start": 5,
+              "url": "https://t.co/nXzpqFQkHG"
+            },
+            {
+              "display_url": "pic.x.com/nXzpqFQkHG",
+              "end": 28,
+              "expanded_url": "https://x.com/shiawaseMeow/status/2078800716794388679/photo/1",
+              "media_key": "3_2078800641473085440",
+              "start": 5,
+              "url": "https://t.co/nXzpqFQkHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078800716794388679",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "acid https://t.co/nXzpqFQkHG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "我是姬和酱呀♡\n盗用禁止🚫",
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位88",
+        "name": "姬和酱",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068649812048982016/TTM5l_or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15693,
+          "following_count": 168,
+          "like_count": 2183,
+          "listed_count": 31,
+          "media_count": 357,
+          "tweet_count": 1532
+        },
+        "url": "",
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

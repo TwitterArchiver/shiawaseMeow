@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1873249582425186304"
+      ]
+    },
+    "author_id": "2603784802",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1873249624741560760",
+    "created_at": "2024-12-29T06:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T07:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1873249624741560760"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pGbQr10F6d",
+          "end": 28,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1873249624741560760/photo/1",
+          "media_key": "3_1873249582425186304",
+          "start": 5,
+          "url": "https://t.co/pGbQr10F6d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873249624741560760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😭我想哭 https://t.co/pGbQr10F6d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1873249582425186304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf8ekgAaIAAI8eb.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873249582425186304"
+          ]
+        },
+        "author_id": "2603784802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1873249624741560760",
+        "created_at": "2024-12-29T06:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T07:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873249624741560760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pGbQr10F6d",
+              "end": 28,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1873249624741560760/photo/1",
+              "media_key": "3_1873249582425186304",
+              "start": 5,
+              "url": "https://t.co/pGbQr10F6d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873249624741560760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😭我想哭 https://t.co/pGbQr10F6d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "私は眠りに\n@hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪288/520/1314",
+        "name": "hiyorin🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2394,
+          "following_count": 97,
+          "like_count": 1075,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 671
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

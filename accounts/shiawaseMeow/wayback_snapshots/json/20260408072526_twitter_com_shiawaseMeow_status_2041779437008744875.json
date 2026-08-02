@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041779399851438085",
+        "3_2041779399931129856"
+      ]
+    },
+    "author_id": "2603784802",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2041779437008744875",
+    "created_at": "2026-04-08T07:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T08:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041779437008744875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iuD2M2Hb8W",
+          "end": 31,
+          "expanded_url": "https://x.com/shiawaseMeow/status/2041779437008744875/photo/1",
+          "media_key": "3_2041779399851438085",
+          "start": 8,
+          "url": "https://t.co/iuD2M2Hb8W"
+        },
+        {
+          "display_url": "pic.x.com/iuD2M2Hb8W",
+          "end": 31,
+          "expanded_url": "https://x.com/shiawaseMeow/status/2041779437008744875/photo/1",
+          "media_key": "3_2041779399931129856",
+          "start": 8,
+          "url": "https://t.co/iuD2M2Hb8W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041779437008744875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哪个比较美味（ https://t.co/iuD2M2Hb8W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041779399851438085",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXbi93a8AUgjnI.jpg",
+        "width": 1634
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2041779399931129856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXbi-Ka8AAEcY9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041779399851438085",
+            "3_2041779399931129856"
+          ]
+        },
+        "author_id": "2603784802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041779437008744875",
+        "created_at": "2026-04-08T07:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T08:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041779437008744875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iuD2M2Hb8W",
+              "end": 31,
+              "expanded_url": "https://x.com/shiawaseMeow/status/2041779437008744875/photo/1",
+              "media_key": "3_2041779399851438085",
+              "start": 8,
+              "url": "https://t.co/iuD2M2Hb8W"
+            },
+            {
+              "display_url": "pic.x.com/iuD2M2Hb8W",
+              "end": 31,
+              "expanded_url": "https://x.com/shiawaseMeow/status/2041779437008744875/photo/1",
+              "media_key": "3_2041779399931129856",
+              "start": 8,
+              "url": "https://t.co/iuD2M2Hb8W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041779437008744875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪个比较美味（ https://t.co/iuD2M2Hb8W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫永远19岁",
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位只要88感谢投喂",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15337,
+          "following_count": 159,
+          "like_count": 2079,
+          "listed_count": 29,
+          "media_count": 350,
+          "tweet_count": 1488
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

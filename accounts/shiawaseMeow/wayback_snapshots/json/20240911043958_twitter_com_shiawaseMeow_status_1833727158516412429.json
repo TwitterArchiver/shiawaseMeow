@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1833698781826826418",
+    "created_at": "2024-09-11T04:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T05:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833727158516412429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1537006809663385600",
+          "start": 0,
+          "username": "eoue_u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833727158516412429",
+    "in_reply_to_user_id": "1537006809663385600",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833712637252665486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eoue_u 点了哥🤓👆🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1833698781826826418",
+        "created_at": "2024-09-11T04:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T05:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833727158516412429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1537006809663385600",
+              "start": 0,
+              "username": "eoue_u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833727158516412429",
+        "in_reply_to_user_id": "1537006809663385600",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833712637252665486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eoue_u 点了哥🤓👆🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537006809663385600",
+        "conversation_id": "1833698781826826418",
+        "created_at": "2024-09-11T03:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T04:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833712637252665486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833712637252665486",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833698781826826418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 可能不够帅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "世界も涙も強さも忘れて",
+        "id": "2603784802",
+        "location": "迷う",
+        "name": "hiyorin",
+        "pinned_tweet_id": "1824449177591615604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 48,
+          "like_count": 189,
+          "listed_count": 0,
+          "tweet_count": 196
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T09:39:31.000Z",
+        "description": "",
+        "id": "1537006809663385600",
+        "location": "  ",
+        "name": "chico",
+        "pinned_tweet_id": "1822321595542646866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832090272211320832/QA-jg3QK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 317,
+          "like_count": 16,
+          "listed_count": 0,
+          "tweet_count": 92
+        },
+        "username": "eoue_u",
+        "verified": false
+      }
+    ]
+  }
+}

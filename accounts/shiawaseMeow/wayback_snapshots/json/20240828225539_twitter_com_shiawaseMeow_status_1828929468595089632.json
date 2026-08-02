@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1828493477694337024"
+      ],
+      "media_source_tweet_id": [
+        "1828493544694411493"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1828929468595089632",
+    "created_at": "2024-08-28T22:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T23:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828929468595089632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1024528894940987392",
+          "start": 3,
+          "username": "minatoaqua"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/glcz3a2jck",
+          "end": 64,
+          "expanded_url": "https://twitter.com/minatoaqua/status/1828493544694411493/photo/1",
+          "media_key": "3_1828493477694337024",
+          "start": 41,
+          "url": "https://t.co/gLcZ3a2jcK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828929468595089632",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35633
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828493544694411493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minatoaqua: また明日！！！！！！！！！！！！！！！！！！！！ https://t.co/gLcZ3a2jcK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1828493477694337024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWAdIVQW8AALTXr.jpg",
+        "width": 1567
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828493477694337024"
+          ],
+          "media_source_tweet_id": [
+            "1828493544694411493"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1828929468595089632",
+        "created_at": "2024-08-28T22:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T23:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828929468595089632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1024528894940987392",
+              "start": 3,
+              "username": "minatoaqua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/glcz3a2jck",
+              "end": 64,
+              "expanded_url": "https://twitter.com/minatoaqua/status/1828493544694411493/photo/1",
+              "media_key": "3_1828493477694337024",
+              "start": 41,
+              "url": "https://t.co/gLcZ3a2jcK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828929468595089632",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35633
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828493544694411493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minatoaqua: また明日！！！！！！！！！！！！！！！！！！！！ https://t.co/gLcZ3a2jcK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828493477694337024"
+          ]
+        },
+        "author_id": "1024528894940987392",
+        "conversation_id": "1828493544694411493",
+        "created_at": "2024-08-27T18:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T19:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828493544694411493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/glcz3a2jck",
+              "end": 48,
+              "expanded_url": "https://twitter.com/minatoaqua/status/1828493544694411493/photo/1",
+              "media_key": "3_1828493477694337024",
+              "start": 25,
+              "url": "https://t.co/gLcZ3a2jcK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828493544694411493",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10877,
+          "impression_count": 11377706,
+          "like_count": 281526,
+          "quote_count": 1340,
+          "reply_count": 6398,
+          "retweet_count": 35633
+        },
+        "reply_settings": "everyone",
+        "text": "また明日！！！！！！！！！！！！！！！！！！！！ https://t.co/gLcZ3a2jcK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "羡慕嫉妒恨爱和不爱包围了我",
+        "id": "2603784802",
+        "location": "迷う",
+        "name": "hiyorin",
+        "pinned_tweet_id": "1824449177591615604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821584807685701634/cDyN-RRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 29,
+          "like_count": 66,
+          "listed_count": 0,
+          "tweet_count": 103
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-01T05:34:58.000Z",
+        "description": "ホロライブ所属伝説のアイドルゲーマーメイド⚓️湊あくあ(みなとあくあ)です！ 極度のゲーマー🎮💕歌うのが大好き🎼🎶 私のぱっぱ( @umaiyo_puyoman ) ﾊｯｼｭﾀｸﾞ #湊あくあ #あくあーと #湊あくあ生放送",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 96,
+                "start": 91,
+                "tag": "湊あくあ"
+              },
+              {
+                "end": 103,
+                "start": 97,
+                "tag": "あくあーと"
+              },
+              {
+                "end": 112,
+                "start": 104,
+                "tag": "湊あくあ生放送"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 80,
+                "start": 65,
+                "username": "umaiyo_puyoman"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC1opH…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/on765b7gok"
+              }
+            ]
+          }
+        },
+        "id": "1024528894940987392",
+        "location": "おすし🍣",
+        "name": "湊あくあ(本物) ホロライブ卒業生",
+        "pinned_tweet_id": "1827986842609967249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775799386083344384/hqdGqXdh_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1834316,
+          "following_count": 896,
+          "like_count": 83909,
+          "listed_count": 15600,
+          "tweet_count": 17153
+        },
+        "url": "https://t.co/on765b7gok",
+        "username": "minatoaqua",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1839165842728300863",
+    "created_at": "2024-09-26T04:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T05:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839167701522198982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1833949545853845507",
+          "start": 0,
+          "username": "boku56awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839167701522198982",
+    "in_reply_to_user_id": "1833949545853845507",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839167075308417315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boku56awa そうですね！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1839165842728300863",
+        "created_at": "2024-09-26T04:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T05:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839167701522198982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1833949545853845507",
+              "start": 0,
+              "username": "boku56awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839167701522198982",
+        "in_reply_to_user_id": "1833949545853845507",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839167075308417315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boku56awa そうですね！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833949545853845507",
+        "conversation_id": "1839165842728300863",
+        "created_at": "2024-09-26T04:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T05:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839167075308417315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839167075308417315",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839165842728300863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow かわいい服です☺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "世界も涙も強さも忘れて",
+        "id": "2603784802",
+        "location": "I pray",
+        "name": "hiyorin",
+        "pinned_tweet_id": "1836730312723763520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 69,
+          "like_count": 252,
+          "listed_count": 0,
+          "tweet_count": 256
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T19:23:50.000Z",
+        "description": "漫画読むことやお散歩する事が好きです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/boku56awa/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/boku56awa/",
+                "start": 0,
+                "url": "https://t.co/k6zQnbP2Hb"
+              }
+            ]
+          }
+        },
+        "id": "1833949545853845507",
+        "location": "宮崎市",
+        "name": "ぼく",
+        "pinned_tweet_id": "1837582858485223805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838697565124202498/DEO7TITN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 89,
+          "like_count": 2363,
+          "listed_count": 0,
+          "tweet_count": 266
+        },
+        "url": "https://t.co/k6zQnbP2Hb",
+        "username": "boku56awa",
+        "verified": false
+      }
+    ]
+  }
+}

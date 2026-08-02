@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936002842008920064",
+        "3_1936002841849872384"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1936002854382453052",
+    "created_at": "2025-06-20T10:07:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T11:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936002854382453052"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vKG7Qnvvpd",
+          "end": 35,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1936002854382453052/photo/1",
+          "media_key": "3_1936002842008920064",
+          "start": 12,
+          "url": "https://t.co/vKG7Qnvvpd"
+        },
+        {
+          "display_url": "pic.x.com/vKG7Qnvvpd",
+          "end": 35,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1936002854382453052/photo/1",
+          "media_key": "3_1936002841849872384",
+          "start": 12,
+          "url": "https://t.co/vKG7Qnvvpd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936002854382453052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "短发贫乳妹也会被喜欢吗 https://t.co/vKG7Qnvvpd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1154,
+        "media_key": "3_1936002842008920064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt4QU9IWoAAyTZ3.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1936002841849872384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt4QU8ibwAAS8f_.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936002842008920064",
+            "3_1936002841849872384"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1936002854382453052",
+        "created_at": "2025-06-20T10:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T11:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936002854382453052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vKG7Qnvvpd",
+              "end": 35,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1936002854382453052/photo/1",
+              "media_key": "3_1936002842008920064",
+              "start": 12,
+              "url": "https://t.co/vKG7Qnvvpd"
+            },
+            {
+              "display_url": "pic.x.com/vKG7Qnvvpd",
+              "end": 35,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1936002854382453052/photo/1",
+              "media_key": "3_1936002841849872384",
+              "start": 12,
+              "url": "https://t.co/vKG7Qnvvpd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936002854382453052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "短发贫乳妹也会被喜欢吗 https://t.co/vKG7Qnvvpd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1927769315874402419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13468,
+          "following_count": 144,
+          "like_count": 1904,
+          "listed_count": 29,
+          "media_count": 258,
+          "tweet_count": 1140
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1916053230079086869",
+    "created_at": "2025-04-26T09:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T10:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916066352273801647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596489618429562882",
+          "start": 0,
+          "username": "plzjustluvmeqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916066352273801647",
+    "in_reply_to_user_id": "1596489618429562882",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916053897015398410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plzjustluvmeqwq 不要（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1916053230079086869",
+        "created_at": "2025-04-26T09:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T10:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916066352273801647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596489618429562882",
+              "start": 0,
+              "username": "plzjustluvmeqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916066352273801647",
+        "in_reply_to_user_id": "1596489618429562882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916053897015398410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plzjustluvmeqwq 不要（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596489618429562882",
+        "conversation_id": "1916053230079086869",
+        "created_at": "2025-04-26T08:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T09:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916053897015398410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916053897015398410",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916053230079086869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 节制（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 绝望的neet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1899788877399023877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9302,
+          "following_count": 135,
+          "like_count": 1702,
+          "listed_count": 17,
+          "media_count": 202,
+          "tweet_count": 967
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T13:03:22.000Z",
+        "description": "你好我叫纱奈｜清水推｜推文内容多为自拍和一些碎碎念｜有时会有负能发言｜我不是地雷女只是喜欢穿地雷系的衣服｜有男朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "on.soundcloud.com/PfLhC",
+                "end": 23,
+                "expanded_url": "https://on.soundcloud.com/PfLhC",
+                "start": 0,
+                "url": "https://t.co/E7iOTLMJj5"
+              }
+            ]
+          }
+        },
+        "id": "1596489618429562882",
+        "location": "my soundcloud👇🏻",
+        "name": "Lollipop",
+        "pinned_tweet_id": "1870080741184507963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912151930815512576/9QvBinJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2772,
+          "following_count": 206,
+          "like_count": 6917,
+          "listed_count": 5,
+          "media_count": 299,
+          "tweet_count": 2801
+        },
+        "url": "https://t.co/E7iOTLMJj5",
+        "username": "plzjustluvmeqwq",
+        "verified": false
+      }
+    ]
+  }
+}

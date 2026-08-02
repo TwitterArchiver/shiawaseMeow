@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2078021815012893171",
+    "created_at": "2026-07-17T07:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T08:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078021815012893171"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078021815012893171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "早上美式喝多了弄的现在呼吸急促从脚麻到上颚，但是我还是含了半片阿普🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2078021815012893171",
+        "created_at": "2026-07-17T07:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078021815012893171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078021815012893171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上美式喝多了弄的现在呼吸急促从脚麻到上颚，但是我还是含了半片阿普🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "我是姬和酱呀♡\n盗用禁止🚫",
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位88",
+        "name": "姬和酱",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068649812048982016/TTM5l_or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15699,
+          "following_count": 167,
+          "like_count": 2177,
+          "listed_count": 31,
+          "media_count": 355,
+          "tweet_count": 1527
+        },
+        "url": "",
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894010897053503488"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1894010933330006135",
+    "created_at": "2025-02-24T13:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T14:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894010933330006135"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uIK52EFbMf",
+          "end": 32,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1894010933330006135/photo/1",
+          "media_key": "3_1894010897053503488",
+          "start": 9,
+          "url": "https://t.co/uIK52EFbMf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894010933330006135",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我太猪了我不行了 https://t.co/uIK52EFbMf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2022,
+        "media_key": "3_1894010897053503488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gkjg4D-X0AAu9Fi.jpg",
+        "width": 1128
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894010897053503488"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1894010933330006135",
+        "created_at": "2025-02-24T13:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T14:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894010933330006135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uIK52EFbMf",
+              "end": 32,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1894010933330006135/photo/1",
+              "media_key": "3_1894010897053503488",
+              "start": 9,
+              "url": "https://t.co/uIK52EFbMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894010933330006135",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我太猪了我不行了 https://t.co/uIK52EFbMf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n（已成年20岁 | 🚪纯绿288/520/1314\n备注联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "我很可爱请给我钱",
+        "name": "姬和酱🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4799,
+          "following_count": 117,
+          "like_count": 1431,
+          "listed_count": 7,
+          "media_count": 146,
+          "tweet_count": 772
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

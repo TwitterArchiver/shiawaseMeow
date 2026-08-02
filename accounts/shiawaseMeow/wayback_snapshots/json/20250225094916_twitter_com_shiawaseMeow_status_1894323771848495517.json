@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1893994448939303371",
+    "created_at": "2025-02-25T09:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T10:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894323771848495517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1662704829985333248",
+          "start": 0,
+          "username": "uc2003yi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894323771848495517",
+    "in_reply_to_user_id": "1662704829985333248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893994448939303371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uc2003yi 接来财来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1194,
+        "media_key": "3_1893994434489884673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkjR50JWIAEFdzA.jpg",
+        "width": 972
+      },
+      {
+        "height": 1627,
+        "media_key": "3_1893994434448052224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkjR5z_X0AASVR_.jpg",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1893994448939303371",
+        "created_at": "2025-02-25T09:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T10:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894323771848495517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1662704829985333248",
+              "start": 0,
+              "username": "uc2003yi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894323771848495517",
+        "in_reply_to_user_id": "1662704829985333248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893994448939303371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uc2003yi 接来财来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893994434489884673",
+            "3_1893994434448052224"
+          ]
+        },
+        "author_id": "1662704829985333248",
+        "conversation_id": "1893994448939303371",
+        "created_at": "2025-02-24T12:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T13:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893994448939303371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jjraJufsfa",
+              "end": 36,
+              "expanded_url": "https://x.com/uc2003yi/status/1893994448939303371/photo/1",
+              "media_key": "3_1893994434489884673",
+              "start": 13,
+              "url": "https://t.co/jjraJufsfa"
+            },
+            {
+              "display_url": "pic.x.com/jjraJufsfa",
+              "end": 36,
+              "expanded_url": "https://x.com/uc2003yi/status/1893994448939303371/photo/1",
+              "media_key": "3_1893994434448052224",
+              "start": 13,
+              "url": "https://t.co/jjraJufsfa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893994448939303371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 256112,
+          "like_count": 626,
+          "quote_count": 36,
+          "reply_count": 346,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢推特 认识了金主爸爸 https://t.co/jjraJufsfa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n（已成年20岁 | 🚪纯绿288/520/1314\n备注联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "我很可爱请给我钱",
+        "name": "姬和酱🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4795,
+          "following_count": 117,
+          "like_count": 1442,
+          "listed_count": 7,
+          "media_count": 146,
+          "tweet_count": 774
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T06:18:25.000Z",
+        "description": "🚪99 有好看的！线上1v1",
+        "id": "1662704829985333248",
+        "name": "小困熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849752118468673538/Hl_grvL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3335,
+          "following_count": 16,
+          "like_count": 94,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 46
+        },
+        "username": "uc2003yi",
+        "verified": false
+      }
+    ]
+  }
+}

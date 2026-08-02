@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1929123210412347639",
+    "created_at": "2025-06-02T09:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T10:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929463708146958698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1643214755547725831",
+          "start": 0,
+          "username": "travs486"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929463708146958698",
+    "in_reply_to_user_id": "1643214755547725831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929373676786622528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@travs486 飞天老虎钳"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7535,
+        "height": 960,
+        "media_key": "13_1929373616254390272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1929373616254390272/img/afoIt1myGB7fIzzC.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929373616254390272/vid/avc1/320x426/k66ZezPfs1yZReBH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929373616254390272/vid/avc1/480x640/YDz1dnosLo-_J81f.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929373616254390272/vid/avc1/720x960/MnLQugWlCIpO3SCN.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1929373616254390272/pl/6OOA007NSO-ZT7re.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1929123210412347639",
+        "created_at": "2025-06-02T09:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T10:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929463708146958698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643214755547725831",
+              "start": 0,
+              "username": "travs486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929463708146958698",
+        "in_reply_to_user_id": "1643214755547725831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929373676786622528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@travs486 飞天老虎钳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1929373616254390272"
+          ]
+        },
+        "author_id": "1643214755547725831",
+        "conversation_id": "1929123210412347639",
+        "created_at": "2025-06-02T03:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T04:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929373676786622528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3m5l0QpI7",
+              "end": 66,
+              "expanded_url": "https://x.com/travs486/status/1929373676786622528/video/1",
+              "media_key": "13_1929373616254390272",
+              "start": 43,
+              "url": "https://t.co/j3m5l0QpI7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929373676786622528",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929123210412347639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 你是没见过出生和尚，天天咬我 有天忘记关窗飞走了🙂‍↕️ https://t.co/j3m5l0QpI7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿陪聊 不约不线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12327,
+          "following_count": 140,
+          "like_count": 1838,
+          "listed_count": 25,
+          "media_count": 246,
+          "tweet_count": 1077
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-04T11:32:01.000Z",
+        "description": "",
+        "id": "1643214755547725831",
+        "name": "Trav486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666269781241253888/bfYZFhjs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 667,
+          "like_count": 3303,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 4
+        },
+        "username": "travs486",
+        "verified": false
+      }
+    ]
+  }
+}

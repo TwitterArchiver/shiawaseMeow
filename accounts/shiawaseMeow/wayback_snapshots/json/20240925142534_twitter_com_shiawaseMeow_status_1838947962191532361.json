@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1838187775113482279",
+    "created_at": "2024-09-25T14:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T15:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838947962191532361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "707166108436987908",
+          "start": 0,
+          "username": "xk16000578"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838947962191532361",
+    "in_reply_to_user_id": "707166108436987908",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838926249470943703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xk16000578 acdc真的很有电波系的感觉，不过sexpot也好帅！！给朋友买了一件"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1838187775113482279",
+        "created_at": "2024-09-25T14:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T15:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838947962191532361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "707166108436987908",
+              "start": 0,
+              "username": "xk16000578"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838947962191532361",
+        "in_reply_to_user_id": "707166108436987908",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838926249470943703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xk16000578 acdc真的很有电波系的感觉，不过sexpot也好帅！！给朋友买了一件"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "707166108436987908",
+        "conversation_id": "1838187775113482279",
+        "created_at": "2024-09-25T12:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T13:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838926249470943703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838926249470943703",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838187775113482279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 已经变成acdc的形状了…相比sexpot还有h.naoto还是acdc日常好穿一些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "世界も涙も強さも忘れて",
+        "id": "2603784802",
+        "location": "I pray",
+        "name": "hiyorin",
+        "pinned_tweet_id": "1836730312723763520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 69,
+          "like_count": 248,
+          "listed_count": 0,
+          "tweet_count": 252
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-08T11:28:33.000Z",
+        "description": "fake man",
+        "id": "707166108436987908",
+        "location": "Shanghai",
+        "name": "big mama",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616920401443172356/n1ZaSRl7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 175,
+          "like_count": 6,
+          "listed_count": 0,
+          "tweet_count": 25
+        },
+        "username": "xk16000578",
+        "verified": false
+      }
+    ]
+  }
+}

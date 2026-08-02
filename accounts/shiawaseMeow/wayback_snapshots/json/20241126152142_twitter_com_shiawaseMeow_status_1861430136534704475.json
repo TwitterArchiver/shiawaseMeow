@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1861419231776252179",
+    "created_at": "2024-11-26T15:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T16:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861430136534704475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1073258370159730688",
+          "start": 0,
+          "username": "mmmmmmb41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861430136534704475",
+    "in_reply_to_user_id": "1073258370159730688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861421499141497027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmmmmmb41 我用这个炸了三个号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1861419231776252179",
+        "created_at": "2024-11-26T15:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T16:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861430136534704475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1073258370159730688",
+              "start": 0,
+              "username": "mmmmmmb41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861430136534704475",
+        "in_reply_to_user_id": "1073258370159730688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861421499141497027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmmmmmb41 我用这个炸了三个号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1073258370159730688",
+        "conversation_id": "1861419231776252179",
+        "created_at": "2024-11-26T14:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T15:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861421499141497027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861421499141497027",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861419231776252179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 我用的快连，几年了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "フラッシュバック · 蝉の声 · 二度とは帰らぬ君。",
+        "id": "2603784802",
+        "location": "我很可爱 请给我钱",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 93,
+          "like_count": 877,
+          "listed_count": 1,
+          "tweet_count": 556
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-13T16:48:30.000Z",
+        "description": "ENTJ，大奶带来和平，跟我说，谢谢大奶",
+        "id": "1073258370159730688",
+        "location": "Kowloon City District",
+        "name": "空心",
+        "pinned_tweet_id": "1829854764693405908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1141774708607803393/JnCJ3DqS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 569,
+          "like_count": 934,
+          "listed_count": 0,
+          "tweet_count": 3846
+        },
+        "username": "mmmmmmb41",
+        "verified": false
+      }
+    ]
+  }
+}

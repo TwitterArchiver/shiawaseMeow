@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1880838751326474349",
+    "created_at": "2025-01-19T06:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T07:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880867664635281479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750329917252976640",
+          "start": 0,
+          "username": "yueyue8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880867664635281479",
+    "in_reply_to_user_id": "1750329917252976640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880838751326474349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueyue8964 萌啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1880838751326474349",
+        "created_at": "2025-01-19T06:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T07:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880867664635281479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750329917252976640",
+              "start": 0,
+              "username": "yueyue8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880867664635281479",
+        "in_reply_to_user_id": "1750329917252976640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880838751326474349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueyue8964 萌啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1880838623333060608"
+          ]
+        },
+        "author_id": "1750329917252976640",
+        "conversation_id": "1880838751326474349",
+        "created_at": "2025-01-19T04:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T05:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880838751326474349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EYaH4hRm1q",
+              "end": 46,
+              "expanded_url": "https://x.com/yueyue8964/status/1880838751326474349/video/1",
+              "media_key": "7_1880838623333060608",
+              "start": 23,
+              "url": "https://t.co/EYaH4hRm1q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880838751326474349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 588,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实很萌的◟(˶&gt; ᎑ &lt;˶)◞ https://t.co/EYaH4hRm1q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "4.0何も無いんだ\n备用@hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "纯绿🚪288/520/1314",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1876979351096361050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3198,
+          "following_count": 105,
+          "like_count": 1242,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 720
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T01:29:16.000Z",
+        "description": "我的世界是阴湿的雨天🌧️(υ . . υ)",
+        "id": "1750329917252976640",
+        "location": "无声的寂静海",
+        "name": "小榆",
+        "pinned_tweet_id": "1879897105088884764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807218968463327232/_cUbucHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7870,
+          "following_count": 424,
+          "like_count": 8634,
+          "listed_count": 14,
+          "media_count": 157,
+          "tweet_count": 7287
+        },
+        "username": "yueyue8964",
+        "verified": false
+      }
+    ]
+  }
+}

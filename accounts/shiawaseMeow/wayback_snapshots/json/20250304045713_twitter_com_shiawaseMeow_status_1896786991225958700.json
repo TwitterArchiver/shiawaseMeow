@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896786017124052993"
+      ]
+    },
+    "author_id": "2603784802",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1896786991225958700",
+    "created_at": "2025-03-04T04:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T05:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896786991225958700"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G5XNjHKOUB",
+          "end": 44,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1896786991225958700/photo/1",
+          "media_key": "3_1896786017124052993",
+          "start": 21,
+          "url": "https://t.co/G5XNjHKOUB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896786991225958700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的主人在哪里^&gt;ω&lt;^❤︎ https://t.co/G5XNjHKOUB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1555,
+        "media_key": "3_1896786017124052993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlK81T2bcAEWnSM.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896786017124052993"
+          ]
+        },
+        "author_id": "2603784802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1896786991225958700",
+        "created_at": "2025-03-04T04:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T05:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896786991225958700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G5XNjHKOUB",
+              "end": 44,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1896786991225958700/photo/1",
+              "media_key": "3_1896786017124052993",
+              "start": 21,
+              "url": "https://t.co/G5XNjHKOUB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896786991225958700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的主人在哪里^&gt;ω&lt;^❤︎ https://t.co/G5XNjHKOUB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n（已成年19岁 | 纯绿陪聊🚪288/520/1314 | 线下过门询价\n备注联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "我很可爱请给我钱",
+        "name": "姬和酱🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4997,
+          "following_count": 121,
+          "like_count": 1459,
+          "listed_count": 9,
+          "media_count": 149,
+          "tweet_count": 774
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

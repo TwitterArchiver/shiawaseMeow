@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1944866037624930544",
+    "created_at": "2025-07-15T06:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T07:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945006910010245332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1455940830594752517",
+          "start": 0,
+          "username": "Kafka_kissu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945006910010245332",
+    "in_reply_to_user_id": "1455940830594752517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944866037624930544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kafka_kissu 好久没看到卡芙卡了🥺想你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1944866037624930544",
+        "created_at": "2025-07-15T06:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T07:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945006910010245332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1455940830594752517",
+              "start": 0,
+              "username": "Kafka_kissu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945006910010245332",
+        "in_reply_to_user_id": "1455940830594752517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944866037624930544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kafka_kissu 好久没看到卡芙卡了🥺想你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455940830594752517",
+        "conversation_id": "1944866037624930544",
+        "created_at": "2025-07-14T21:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T22:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944866037624930544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luna_jobs/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/luna_jobs/status/1944661806976561386",
+              "start": 3,
+              "url": "https://t.co/Vk24rXznIW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944866037624930544",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944661806976561386",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "xs https://t.co/Vk24rXznIW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  ",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1927769315874402419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14686,
+          "following_count": 145,
+          "like_count": 1967,
+          "listed_count": 32,
+          "media_count": 277,
+          "tweet_count": 1210
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T16:52:14.000Z",
+        "description": "世界公民，代号卡芙卡。 亲友@akiakuno @shiawaseMeow @duoduolin000 @anzu_3207146943 @0xo_snow @HANABIRIKAJIANG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "akiakuno"
+              },
+              {
+                "end": 37,
+                "start": 24,
+                "username": "shiawaseMeow"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "duoduolin000"
+              },
+              {
+                "end": 68,
+                "start": 52,
+                "username": "anzu_3207146943"
+              },
+              {
+                "end": 78,
+                "start": 69,
+                "username": "0xo_snow"
+              },
+              {
+                "end": 95,
+                "start": 79,
+                "username": "HANABIRIKAJIANG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kafka73678",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kafka73678",
+                "start": 0,
+                "url": "https://t.co/ibnapD0DVh"
+              }
+            ]
+          }
+        },
+        "id": "1455940830594752517",
+        "location": "🌍",
+        "name": "Kafka",
+        "pinned_tweet_id": "1858144985947767235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890298537440866304/AQyIe0dy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 2279,
+          "like_count": 4264,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 3632
+        },
+        "url": "https://t.co/ibnapD0DVh",
+        "username": "Kafka_kissu",
+        "verified": false
+      }
+    ]
+  }
+}

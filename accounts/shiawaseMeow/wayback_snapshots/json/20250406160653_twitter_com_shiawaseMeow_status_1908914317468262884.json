@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1908911073597792551",
+    "created_at": "2025-04-06T16:06:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T17:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908914317468262884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1645627834701082624",
+          "start": 0,
+          "username": "kira20194922529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908914317468262884",
+    "in_reply_to_user_id": "1645627834701082624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908912301941629033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kira20194922529 你是乖宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1908911073597792551",
+        "created_at": "2025-04-06T16:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T17:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908914317468262884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1645627834701082624",
+              "start": 0,
+              "username": "kira20194922529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908914317468262884",
+        "in_reply_to_user_id": "1645627834701082624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908912301941629033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kira20194922529 你是乖宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645627834701082624",
+        "conversation_id": "1908911073597792551",
+        "created_at": "2025-04-06T15:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T16:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908912301941629033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908912301941629033",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908911073597792551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 你先把我ban了等我完事我微信给你说💀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 绝望的neet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1899788877399023877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5738,
+          "following_count": 129,
+          "like_count": 1578,
+          "listed_count": 11,
+          "media_count": 176,
+          "tweet_count": 855
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T03:20:33.000Z",
+        "description": "我不想上班了\n这是我的小号@keaiiea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "keaiiea"
+              }
+            ]
+          }
+        },
+        "id": "1645627834701082624",
+        "location": "0.1km",
+        "name": "Jonas·El Niño",
+        "pinned_tweet_id": "1868990255954903447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872088243606552576/btnTx5UM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 1279,
+          "like_count": 43953,
+          "listed_count": 1,
+          "media_count": 640,
+          "tweet_count": 3421
+        },
+        "username": "kira20194922529",
+        "verified": false
+      }
+    ]
+  }
+}

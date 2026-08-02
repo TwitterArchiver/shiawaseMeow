@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2048098419529633945",
+    "created_at": "2026-04-25T17:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T18:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048098419529633945"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048098419529633945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好久没拍照片了，我好懒，懒得动，为什么不能什么都不做也能被大家喜欢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2048098419529633945",
+        "created_at": "2026-04-25T17:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048098419529633945"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048098419529633945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久没拍照片了，我好懒，懒得动，为什么不能什么都不做也能被大家喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫姬和酱只有X和🍠",
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位只要88感谢投喂",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15258,
+          "following_count": 158,
+          "like_count": 2074,
+          "listed_count": 30,
+          "media_count": 351,
+          "tweet_count": 1492
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

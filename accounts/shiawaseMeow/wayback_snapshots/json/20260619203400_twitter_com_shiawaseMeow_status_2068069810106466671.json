@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2068069810106466671",
+    "created_at": "2026-06-19T20:34:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T21:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068069810106466671"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068069810106466671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "侧着睡脖子疼，正着睡心跳快，趴着睡浑身疼，站起来体虚发昏，坐下来腰酸背痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2068069810106466671",
+        "created_at": "2026-06-19T20:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T21:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068069810106466671"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068069810106466671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "侧着睡脖子疼，正着睡心跳快，趴着睡浑身疼，站起来体虚发昏，坐下来腰酸背痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫只有X和🍠",
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位只要88感谢投喂",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15381,
+          "following_count": 163,
+          "like_count": 2094,
+          "listed_count": 31,
+          "media_count": 350,
+          "tweet_count": 1503
+        },
+        "url": "",
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

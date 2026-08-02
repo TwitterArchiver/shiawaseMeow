@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1828939847618515078",
+    "created_at": "2024-08-29T01:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-29T02:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828969512802390017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1455940830594752517",
+          "start": 0,
+          "username": "Kafka_kissu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828969512802390017",
+    "in_reply_to_user_id": "1455940830594752517",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828957099080172020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kafka_kissu 唉，我从小到大都没有特别好的朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1828939847618515078",
+        "created_at": "2024-08-29T01:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T02:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828969512802390017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1455940830594752517",
+              "start": 0,
+              "username": "Kafka_kissu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828969512802390017",
+        "in_reply_to_user_id": "1455940830594752517",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828957099080172020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kafka_kissu 唉，我从小到大都没有特别好的朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455940830594752517",
+        "conversation_id": "1828939847618515078",
+        "created_at": "2024-08-29T00:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T01:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828957099080172020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828957099080172020",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828939847618515078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 其实不需要难过，大学都是表面朋友，大多目的性很强。我被小人坑过，很恶心，所以毕业后再也没跟任何大学同学联系过，我觉得还是高中同学友谊更纯粹。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "羡慕嫉妒恨爱和不爱包围了我",
+        "id": "2603784802",
+        "location": "迷う",
+        "name": "hiyorin",
+        "pinned_tweet_id": "1824449177591615604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821584807685701634/cDyN-RRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 30,
+          "like_count": 66,
+          "listed_count": 0,
+          "tweet_count": 107
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T16:52:14.000Z",
+        "description": "我是卡芙卡（ㄑㄧㄚˇ）。zhCN/enUS，ES，JP，KR看得懂不会写丨 亲友@akiakuno @Roze_Spectra @laoshuyao87465 @shiawaseMeow @mottoye89",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "akiakuno"
+              },
+              {
+                "end": 63,
+                "start": 50,
+                "username": "Roze_Spectra"
+              },
+              {
+                "end": 79,
+                "start": 64,
+                "username": "laoshuyao87465"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "shiawaseMeow"
+              },
+              {
+                "end": 104,
+                "start": 94,
+                "username": "mottoye89"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "time-to-say-goodbye-boom.com",
+                "end": 23,
+                "expanded_url": "http://time-to-say-goodbye-boom.com",
+                "start": 0,
+                "url": "https://t.co/HSdS98zSBF"
+              }
+            ]
+          }
+        },
+        "id": "1455940830594752517",
+        "location": "地月拉格朗日点",
+        "name": "Kafka",
+        "pinned_tweet_id": "1783632397847633925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823215737814597632/dL88ZNvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 1921,
+          "like_count": 951,
+          "listed_count": 0,
+          "tweet_count": 1062
+        },
+        "url": "https://t.co/HSdS98zSBF",
+        "username": "Kafka_kissu",
+        "verified": false
+      }
+    ]
+  }
+}

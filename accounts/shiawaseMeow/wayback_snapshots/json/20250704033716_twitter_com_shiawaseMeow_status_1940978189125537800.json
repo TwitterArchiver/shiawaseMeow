@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1940978189125537800",
+    "created_at": "2025-07-04T03:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T04:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940978189125537800"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuki_sakuna/st…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/yuki_sakuna/status/1940376013768417721",
+          "start": 19,
+          "url": "https://t.co/NJpkHpPAMU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940978189125537800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940376013768417721",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是我真的很喜欢大帝的画风啊！TAT https://t.co/NJpkHpPAMU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1940978189125537800",
+        "created_at": "2025-07-04T03:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T04:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940978189125537800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuki_sakuna/st…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/yuki_sakuna/status/1940376013768417721",
+              "start": 19,
+              "url": "https://t.co/NJpkHpPAMU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940978189125537800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940376013768417721",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是我真的很喜欢大帝的画风啊！TAT https://t.co/NJpkHpPAMU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512311952114028548",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1940376013768417721",
+        "created_at": "2025-07-02T11:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T12:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940376013768417721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940376013768417721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "【ご報告】\n\nこの度、担当イラストレーターによる不適切な行為が確認されたことを受け、\n今後は同氏が手掛けたイラストの使用を控える方針といたしました。\n\nただし、すでに進行している直近のお仕事につきましては先方と協議のうえ、\n例外的に対応を継続させていただくケースもございます。あらかじめご了承ください。\n\nキャラクターデザインの権利は私自身が保有しておりますので、活動は今後も継続してまいります。\n\n一方で、生放送で使用するビジュアルについては、新たなイラストレーター様の起用を含め、現在慎重に協議を進めております。\n\n突然のお知らせとなってしまいましたが、これからも変わらず頑張って活動を続けていきたいと思っていますので、\n温かく見守っていただけますと嬉しいです。\n今後も、結城さくなをどうぞよろしくおねがいします！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8584,
+          "impression_count": 15795282,
+          "like_count": 142185,
+          "quote_count": 2092,
+          "reply_count": 3194,
+          "retweet_count": 23372
+        },
+        "reply_settings": "everyone",
+        "text": "【ご報告】\n\nこの度、担当イラストレーターによる不適切な行為が確認されたことを受け、\n今後は同氏が手掛けたイラストの使用を控える方針といたしました。\n\nただし、すでに進行している直近のお仕事につきましては先方と協議のうえ、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "武汉🚪188/288/520/1314  ",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1927769315874402419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13671,
+          "following_count": 143,
+          "like_count": 1929,
+          "listed_count": 29,
+          "media_count": 266,
+          "tweet_count": 1170
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T06:10:51.000Z",
+        "description": "ゆうきさくなです￤ꜰᴀɴʙᴏx🐈https://t.co/gDTxnd7Pf3￤ꜱʜᴏᴘ🐾https://t.co/bsZosYtt3Q￤ᴛᴀɢ🏷️#さくなあーと￤ʜᴘ🎀https://t.co/94hp0ZLusv￤ɪɴꜰᴏ📢@Yuukisakunainfo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 81,
+                "start": 74,
+                "tag": "さくなあーと"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "start": 114,
+                "username": "Yuukisakunainfo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yukisakuna.fanbox.cc",
+                "end": 39,
+                "expanded_url": "https://yukisakuna.fanbox.cc/",
+                "start": 16,
+                "url": "https://t.co/gDTxnd7Pf3"
+              },
+              {
+                "display_url": "yuki-sakuna.stores.jp",
+                "end": 68,
+                "expanded_url": "https://yuki-sakuna.stores.jp/",
+                "start": 45,
+                "url": "https://t.co/bsZosYtt3Q"
+              },
+              {
+                "display_url": "yuuki-sakuna.com",
+                "end": 108,
+                "expanded_url": "https://yuuki-sakuna.com/",
+                "start": 85,
+                "url": "https://t.co/94hp0ZLusv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCrV1H…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCrV1Hf5r8P148idjoSfrGEQ",
+                "start": 0,
+                "url": "https://t.co/8gCRiUmhku"
+              }
+            ]
+          }
+        },
+        "id": "1512311952114028548",
+        "location": "おうち",
+        "name": "結城さくな🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940377544026411008/vDjLEj6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625628,
+          "following_count": 141,
+          "like_count": 1846,
+          "listed_count": 1787,
+          "media_count": 98,
+          "tweet_count": 393
+        },
+        "url": "https://t.co/8gCRiUmhku",
+        "username": "yuki_sakuna",
+        "verified": true
+      }
+    ]
+  }
+}

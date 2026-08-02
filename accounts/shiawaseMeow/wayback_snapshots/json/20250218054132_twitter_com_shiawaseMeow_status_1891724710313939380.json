@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1891724710313939380",
+    "created_at": "2025-02-18T05:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T06:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1891724710313939380"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1891724710313939380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以前好多关系很好的门槛哥为什么都不找我聊天了，我想你们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1891724710313939380",
+        "created_at": "2025-02-18T05:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T06:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891724710313939380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891724710313939380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前好多关系很好的门槛哥为什么都不找我聊天了，我想你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "4周目 请善待我\n备用@hiyorinnosekai\n（已成年20岁 | 欢迎过🚪纯绿288/520/1314\n备注联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "我很可爱请给我钱",
+        "name": "姬和酱🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4669,
+          "following_count": 116,
+          "like_count": 1422,
+          "listed_count": 7,
+          "media_count": 141,
+          "tweet_count": 765
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

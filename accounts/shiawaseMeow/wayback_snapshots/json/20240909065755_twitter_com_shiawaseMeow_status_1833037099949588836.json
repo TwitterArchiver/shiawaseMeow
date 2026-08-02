@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1832831779671269885",
+    "created_at": "2024-09-09T06:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-09T07:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833037099949588836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1822624675865751552",
+          "start": 0,
+          "username": "INT_ZHU0116"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833037099949588836",
+    "in_reply_to_user_id": "1822624675865751552",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833036833602592882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@INT_ZHU0116 不然为啥叫热 干面😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1832831779671269885",
+        "created_at": "2024-09-09T06:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T07:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833037099949588836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1822624675865751552",
+              "start": 0,
+              "username": "INT_ZHU0116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833037099949588836",
+        "in_reply_to_user_id": "1822624675865751552",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833036833602592882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@INT_ZHU0116 不然为啥叫热 干面😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822624675865751552",
+        "conversation_id": "1832831779671269885",
+        "created_at": "2024-09-09T06:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T07:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833036833602592882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833036833602592882",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832831779671269885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 干巴的热干面怎么吃😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "羡慕嫉妒恨爱和不爱包围了我",
+        "id": "2603784802",
+        "location": "迷う",
+        "name": "hiyorin",
+        "pinned_tweet_id": "1824449177591615604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 48,
+          "like_count": 177,
+          "listed_count": 0,
+          "tweet_count": 182
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T13:22:50.000Z",
+        "description": "你知道的，我只是一只艾露猫\n猫猫什么都不知道哦",
+        "id": "1822624675865751552",
+        "name": "苍蓝星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822624834368528384/QBmDq-SF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 5,
+          "like_count": 41,
+          "listed_count": 0,
+          "tweet_count": 57
+        },
+        "username": "INT_ZHU0116",
+        "verified": false
+      }
+    ]
+  }
+}

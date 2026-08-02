@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863412883411054592",
+        "3_1863412933138759680",
+        "3_1863412933147123712"
+      ]
+    },
+    "author_id": "2603784802",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1863413212471083518",
+    "created_at": "2024-12-02T02:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T03:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863413212471083518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xUjmIGM62Y",
+          "end": 81,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1863413212471083518/photo/1",
+          "media_key": "3_1863412883411054592",
+          "start": 58,
+          "url": "https://t.co/xUjmIGM62Y"
+        },
+        {
+          "display_url": "pic.x.com/xUjmIGM62Y",
+          "end": 81,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1863413212471083518/photo/1",
+          "media_key": "3_1863412933138759680",
+          "start": 58,
+          "url": "https://t.co/xUjmIGM62Y"
+        },
+        {
+          "display_url": "pic.x.com/xUjmIGM62Y",
+          "end": 81,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1863413212471083518/photo/1",
+          "media_key": "3_1863412933147123712",
+          "start": 58,
+          "url": "https://t.co/xUjmIGM62Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863413212471083518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "lizlisa一出门就爆装备🙄我的脚昨天也被酒店卫生间阶梯弄崴了，今天肿起来了，准备就这样去欢乐谷🙄准备租一个轮椅 https://t.co/xUjmIGM62Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1863412883411054592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdwsJQmaMAAKTDb.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1863412933138759680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdwsMJ2awAATpla.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1863412933147123712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdwsMJ4aYAAMCg3.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863412883411054592",
+            "3_1863412933138759680",
+            "3_1863412933147123712"
+          ]
+        },
+        "author_id": "2603784802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1863413212471083518",
+        "created_at": "2024-12-02T02:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T03:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863413212471083518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xUjmIGM62Y",
+              "end": 81,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1863413212471083518/photo/1",
+              "media_key": "3_1863412883411054592",
+              "start": 58,
+              "url": "https://t.co/xUjmIGM62Y"
+            },
+            {
+              "display_url": "pic.x.com/xUjmIGM62Y",
+              "end": 81,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1863413212471083518/photo/1",
+              "media_key": "3_1863412933138759680",
+              "start": 58,
+              "url": "https://t.co/xUjmIGM62Y"
+            },
+            {
+              "display_url": "pic.x.com/xUjmIGM62Y",
+              "end": 81,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1863413212471083518/photo/1",
+              "media_key": "3_1863412933147123712",
+              "start": 58,
+              "url": "https://t.co/xUjmIGM62Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863413212471083518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "lizlisa一出门就爆装备🙄我的脚昨天也被酒店卫生间阶梯弄崴了，今天肿起来了，准备就这样去欢乐谷🙄准备租一个轮椅 https://t.co/xUjmIGM62Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "ノンブレス・オブリージュ",
+        "id": "2603784802",
+        "location": "🚪288/520/1314",
+        "name": "hiyorin🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1990,
+          "following_count": 96,
+          "like_count": 916,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 549
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1896783654275457220",
+    "created_at": "2025-03-05T12:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T13:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897264867045990810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1754535379691356160",
+          "start": 0,
+          "username": "mememo00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897264867045990810",
+    "in_reply_to_user_id": "1754535379691356160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896783654275457220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mememo00 删掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1896783654275457220",
+        "created_at": "2025-03-05T12:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T13:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897264867045990810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1754535379691356160",
+              "start": 0,
+              "username": "mememo00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897264867045990810",
+        "in_reply_to_user_id": "1754535379691356160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896783654275457220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mememo00 删掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754535379691356160",
+        "conversation_id": "1896783654275457220",
+        "created_at": "2025-03-04T04:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T05:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896783654275457220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896783654275457220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 123507,
+          "like_count": 927,
+          "quote_count": 35,
+          "reply_count": 113,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "你只是长了一张睡了不亏，但又带不出去的脸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n（已成年19岁 | 纯绿陪聊🚪288/520/1314 | 线下过门询价\n备注联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "我很可爱请给我钱",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1896786991225958700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5189,
+          "following_count": 122,
+          "like_count": 1471,
+          "listed_count": 9,
+          "media_count": 149,
+          "tweet_count": 782
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T16:00:17.000Z",
+        "description": "@labulabubuz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "labulabubuz"
+              }
+            ]
+          }
+        },
+        "id": "1754535379691356160",
+        "location": "喜欢黑色和蓝色",
+        "name": "mememo00",
+        "pinned_tweet_id": "1885623473269293441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795787762790236160/oOng3Hy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12402,
+          "following_count": 95,
+          "like_count": 35317,
+          "listed_count": 28,
+          "media_count": 620,
+          "tweet_count": 9865
+        },
+        "username": "mememo00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1833042600066179366",
+    "created_at": "2024-09-09T11:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-09T12:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833110639893786700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1595700376203771904",
+          "start": 0,
+          "username": "user88881102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833110639893786700",
+    "in_reply_to_user_id": "1595700376203771904",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833042600066179366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@user88881102 蕾龙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1833042600066179366",
+        "created_at": "2024-09-09T11:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T12:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833110639893786700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1595700376203771904",
+              "start": 0,
+              "username": "user88881102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833110639893786700",
+        "in_reply_to_user_id": "1595700376203771904",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833042600066179366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@user88881102 蕾龙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833042592118046720"
+          ]
+        },
+        "author_id": "1595700376203771904",
+        "conversation_id": "1833042600066179366",
+        "created_at": "2024-09-09T07:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T08:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833042600066179366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yaycmpu4l6",
+              "end": 23,
+              "expanded_url": "https://twitter.com/user88881102/status/1833042600066179366/photo/1",
+              "media_key": "3_1833042592118046720",
+              "start": 0,
+              "url": "https://t.co/YayCmPu4L6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833042600066179366",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 821,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YayCmPu4L6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "羡慕嫉妒恨爱和不爱包围了我",
+        "id": "2603784802",
+        "location": "迷う",
+        "name": "hiyorin",
+        "pinned_tweet_id": "1824449177591615604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 48,
+          "like_count": 179,
+          "listed_count": 0,
+          "tweet_count": 184
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T08:46:39.000Z",
+        "description": "我写字",
+        "id": "1595700376203771904",
+        "name": "yangfan666",
+        "pinned_tweet_id": "1595701757954650112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799529203525996544/uZtnEPpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3591,
+          "following_count": 2744,
+          "like_count": 3899,
+          "listed_count": 7,
+          "tweet_count": 2398
+        },
+        "username": "user88881102",
+        "verified": false
+      }
+    ]
+  }
+}

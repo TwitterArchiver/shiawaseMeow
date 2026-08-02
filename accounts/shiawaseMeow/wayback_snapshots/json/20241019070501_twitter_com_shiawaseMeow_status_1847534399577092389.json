@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1847486345020919842",
+    "created_at": "2024-10-19T07:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T08:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847534399577092389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1227465193577472000",
+          "start": 0,
+          "username": "kuyokoneko11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847534399577092389",
+    "in_reply_to_user_id": "1227465193577472000",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847486345020919842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuyokoneko11 我也想你宝宝😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1847486345020919842",
+        "created_at": "2024-10-19T07:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T08:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847534399577092389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1227465193577472000",
+              "start": 0,
+              "username": "kuyokoneko11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847534399577092389",
+        "in_reply_to_user_id": "1227465193577472000",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847486345020919842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuyokoneko11 我也想你宝宝😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1227465193577472000",
+        "conversation_id": "1847486345020919842",
+        "created_at": "2024-10-19T03:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T04:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847486345020919842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuyokoneko11/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/kuyokoneko11/status/1847159930232754685",
+              "start": 10,
+              "url": "https://t.co/zkiGeF4Zy6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847486345020919842",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847159930232754685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想阿明想姬和想葉葉 https://t.co/zkiGeF4Zy6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "能不能也对我留点爱",
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 78,
+          "like_count": 352,
+          "listed_count": 0,
+          "tweet_count": 371
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-12T05:31:33.000Z",
+        "description": "kuyoko九葉/永遠15歲的天才美少女/人型電腦Ⅲ型/可愛無敵/春の始まりです/會fo喜歡的女生/🚪188",
+        "id": "1227465193577472000",
+        "location": "天堂地獄分界線",
+        "name": "kuyoko^^🩸",
+        "pinned_tweet_id": "1815328970227023939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822042684380606466/M3Z9-zTO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 46,
+          "like_count": 297,
+          "listed_count": 4,
+          "tweet_count": 289
+        },
+        "username": "kuyokoneko11",
+        "verified": false
+      }
+    ]
+  }
+}

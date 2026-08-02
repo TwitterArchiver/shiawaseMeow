@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082841109081059328",
+        "3_2082841205201862657"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "2082841284373626949",
+    "created_at": "2026-07-30T14:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082841284373626949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HmRsikrmRY",
+          "end": 29,
+          "expanded_url": "https://x.com/shiawaseMeow/status/2082841284373626949/photo/1",
+          "media_key": "3_2082841109081059328",
+          "start": 6,
+          "url": "https://t.co/HmRsikrmRY"
+        },
+        {
+          "display_url": "pic.x.com/HmRsikrmRY",
+          "end": 29,
+          "expanded_url": "https://x.com/shiawaseMeow/status/2082841284373626949/photo/1",
+          "media_key": "3_2082841205201862657",
+          "start": 6,
+          "url": "https://t.co/HmRsikrmRY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082841284373626949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "痛痛飞走了 https://t.co/HmRsikrmRY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082841109081059328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOe89A5bcAAAHp5.jpg",
+        "width": 1155
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2082841205201862657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOe9Cm-agAED2D4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082841109081059328",
+            "3_2082841205201862657"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "2082841284373626949",
+        "created_at": "2026-07-30T14:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082841284373626949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HmRsikrmRY",
+              "end": 29,
+              "expanded_url": "https://x.com/shiawaseMeow/status/2082841284373626949/photo/1",
+              "media_key": "3_2082841109081059328",
+              "start": 6,
+              "url": "https://t.co/HmRsikrmRY"
+            },
+            {
+              "display_url": "pic.x.com/HmRsikrmRY",
+              "end": 29,
+              "expanded_url": "https://x.com/shiawaseMeow/status/2082841284373626949/photo/1",
+              "media_key": "3_2082841205201862657",
+              "start": 6,
+              "url": "https://t.co/HmRsikrmRY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082841284373626949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "痛痛飞走了 https://t.co/HmRsikrmRY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "我是姬和酱呀♡\n盗用禁止🚫",
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位88",
+        "name": "姬和酱",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068649812048982016/TTM5l_or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15673,
+          "following_count": 169,
+          "like_count": 2195,
+          "listed_count": 31,
+          "media_count": 359,
+          "tweet_count": 1539
+        },
+        "url": "",
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

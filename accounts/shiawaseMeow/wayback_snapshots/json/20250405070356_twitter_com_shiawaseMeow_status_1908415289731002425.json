@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1908377100991471731",
+    "created_at": "2025-04-05T07:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T08:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908415289731002425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1830293433036292096",
+          "start": 0,
+          "username": "GinShinomiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908415289731002425",
+    "in_reply_to_user_id": "1830293433036292096",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908408497374716425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GinShinomiya TAT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1908377100991471731",
+        "created_at": "2025-04-05T07:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T08:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908415289731002425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830293433036292096",
+              "start": 0,
+              "username": "GinShinomiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908415289731002425",
+        "in_reply_to_user_id": "1830293433036292096",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908408497374716425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GinShinomiya TAT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830293433036292096",
+        "conversation_id": "1908377100991471731",
+        "created_at": "2025-04-05T06:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T07:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908408497374716425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908408497374716425",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908377100991471731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow TT宝宝你明明就是萌神呀，，状态不好先好好休息！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 绝望的neet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1899788877399023877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5718,
+          "following_count": 129,
+          "like_count": 1559,
+          "listed_count": 11,
+          "media_count": 176,
+          "tweet_count": 849
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T17:16:10.000Z",
+        "description": "一只怕生的猫咪｜脑袋里是蓝色天空和黄色废料｜我喜欢友善的人类",
+        "id": "1830293433036292096",
+        "name": "snomy333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830295876834910208/R9LZl75S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 173,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 25
+        },
+        "username": "GinShinomiya",
+        "verified": false
+      }
+    ]
+  }
+}

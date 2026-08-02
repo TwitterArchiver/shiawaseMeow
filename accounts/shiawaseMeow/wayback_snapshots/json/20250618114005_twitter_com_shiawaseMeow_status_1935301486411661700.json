@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935301476496326656"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1935301486411661700",
+    "created_at": "2025-06-18T11:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T12:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935301486411661700"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 12,
+          "start": 8,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "妹妹"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FxKzybNvBa",
+          "end": 40,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1935301486411661700/photo/1",
+          "media_key": "3_1935301476496326656",
+          "start": 17,
+          "url": "https://t.co/FxKzybNvBa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935301486411661700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "20岁 事学生 #门槛哥 #妹妹 https://t.co/FxKzybNvBa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935301476496326656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtuScG_aQAAMpNP.jpg",
+        "width": 1157
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935301476496326656"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1935301486411661700",
+        "created_at": "2025-06-18T11:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T12:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935301486411661700"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "妹妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FxKzybNvBa",
+              "end": 40,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1935301486411661700/photo/1",
+              "media_key": "3_1935301476496326656",
+              "start": 17,
+              "url": "https://t.co/FxKzybNvBa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935301486411661700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "20岁 事学生 #门槛哥 #妹妹 https://t.co/FxKzybNvBa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13412,
+          "following_count": 144,
+          "like_count": 1902,
+          "listed_count": 29,
+          "media_count": 260,
+          "tweet_count": 1143
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

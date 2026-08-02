@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2077948042788196709",
+    "created_at": "2026-07-17T10:11:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T11:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078059921820828065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1922650331454058496",
+          "start": 0,
+          "username": "xiaoshu_yy33"
+        },
+        {
+          "end": 23,
+          "id": "1962928470394339332",
+          "start": 14,
+          "username": "leporava"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078059921820828065",
+    "in_reply_to_user_id": "1922650331454058496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077948042788196709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoshu_yy33 @leporava 是啊🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2077948042788196709",
+        "created_at": "2026-07-17T10:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078059921820828065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1922650331454058496",
+              "start": 0,
+              "username": "xiaoshu_yy33"
+            },
+            {
+              "end": 23,
+              "id": "1962928470394339332",
+              "start": 14,
+              "username": "leporava"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078059921820828065",
+        "in_reply_to_user_id": "1922650331454058496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077948042788196709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoshu_yy33 @leporava 是啊🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922650331454058496",
+        "conversation_id": "2077948042788196709",
+        "created_at": "2026-07-17T02:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077948042788196709"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077948042788196709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "确实很忌讳对象有小团体 我无法接受 不一定是非要孤儿那种程度 可以有各种朋友 但不能是小团体"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "我是姬和酱呀♡\n盗用禁止🚫",
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位88",
+        "name": "姬和酱",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068649812048982016/TTM5l_or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15698,
+          "following_count": 167,
+          "like_count": 2180,
+          "listed_count": 31,
+          "media_count": 355,
+          "tweet_count": 1529
+        },
+        "url": "",
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T13:49:05.000Z",
+        "description": "🏳️‍⚧️｜喜欢我就打钱",
+        "id": "1922650331454058496",
+        "location": "纯绿🚪288/520 私信打钱以外不回",
+        "name": "解树",
+        "pinned_tweet_id": "2062813622917849515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077145173986062337/yLxzLwqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5017,
+          "following_count": 55,
+          "like_count": 1324,
+          "listed_count": 18,
+          "media_count": 211,
+          "tweet_count": 2133
+        },
+        "url": "",
+        "username": "xiaoshu_yy33",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T17:20:02.000Z",
+        "description": "🚪188",
+        "id": "1962928470394339332",
+        "name": "rabbit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045586585857753088/ciWjAd5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3686,
+          "following_count": 23,
+          "like_count": 214,
+          "listed_count": 10,
+          "media_count": 96,
+          "tweet_count": 644
+        },
+        "url": "",
+        "username": "leporava",
+        "verified": false
+      }
+    ]
+  }
+}

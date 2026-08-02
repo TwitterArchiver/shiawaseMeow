@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1927566829905412256",
+    "created_at": "2025-05-28T05:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T06:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927593074999402890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1578239547774992384",
+          "start": 0,
+          "username": "Ruin79398275"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927593074999402890",
+    "in_reply_to_user_id": "1578239547774992384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 129,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927566829905412256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruin79398275 我信了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1927566829905412256",
+        "created_at": "2025-05-28T05:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T06:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927593074999402890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1578239547774992384",
+              "start": 0,
+              "username": "Ruin79398275"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927593074999402890",
+        "in_reply_to_user_id": "1578239547774992384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927566829905412256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruin79398275 我信了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578239547774992384",
+        "conversation_id": "1927566829905412256",
+        "created_at": "2025-05-28T03:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T04:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927566829905412256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/readyt01ove/st…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/readyt01ove/status/1927331372902781258",
+              "start": 57,
+              "url": "https://t.co/3vtFrSaXE0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927566829905412256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 41441,
+          "like_count": 358,
+          "quote_count": 4,
+          "reply_count": 49,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927331372902781258",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "禁止丑化可爱！可爱是不止浮于外貌的，对你整个人气质的喜欢，当男生说你好可爱大于其他一切夸赞，意味着真的会心生喜欢 https://t.co/3vtFrSaXE0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿陪聊 问线下司马",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11447,
+          "following_count": 141,
+          "like_count": 1823,
+          "listed_count": 21,
+          "media_count": 236,
+          "tweet_count": 1053
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T04:23:39.000Z",
+        "description": "普男 直男 谢谢喜欢 🛰️🚪188 男同加v🚪5000",
+        "id": "1578239547774992384",
+        "location": "杭州",
+        "name": "Ruin",
+        "pinned_tweet_id": "1889181183109697730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1594896334418759680/hkBU2tdl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29968,
+          "following_count": 3845,
+          "like_count": 16630,
+          "listed_count": 46,
+          "media_count": 251,
+          "tweet_count": 2254
+        },
+        "username": "Ruin79398275",
+        "verified": false
+      }
+    ]
+  }
+}

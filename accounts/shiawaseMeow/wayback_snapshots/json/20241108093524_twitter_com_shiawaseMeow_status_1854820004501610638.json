@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1854820004501610638",
+    "created_at": "2024-11-08T09:35:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-08T10:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854820004501610638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1429829081684537345",
+          "start": 3,
+          "username": "Rabbubble550W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854820004501610638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854595184082010172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rabbubble550W: 抵制日本，抵制日货，支持中国奶龙\n希望大家将日本专辑、女声优生写、写真、to签邮寄给我，包括但不限于lovelive!系列、BanGDream系列、偶像大师系列、Girls Band Cry系列、孤独摇滚系列、坂道系列等\n收到专辑后会进行统…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1854820004501610638",
+        "created_at": "2024-11-08T09:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T10:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854820004501610638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1429829081684537345",
+              "start": 3,
+              "username": "Rabbubble550W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854820004501610638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854595184082010172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rabbubble550W: 抵制日本，抵制日货，支持中国奶龙\n希望大家将日本专辑、女声优生写、写真、to签邮寄给我，包括但不限于lovelive!系列、BanGDream系列、偶像大师系列、Girls Band Cry系列、孤独摇滚系列、坂道系列等\n收到专辑后会进行统…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429829081684537345",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1854595184082010172",
+        "created_at": "2024-11-07T18:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T19:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854595184082010172"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854595184082010172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2057,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "抵制日本，抵制日货，支持中国奶龙\n希望大家将日本专辑、女声优生写、写真、to签邮寄给我，包括但不限于lovelive!系列、BanGDream系列、偶像大师系列、Girls Band Cry系列、孤独摇滚系列、坂道系列等\n收到专辑后会进行统一销毁，并赠送奶龙周边给邮寄者。抵制日本，拒绝日货，支持中国奶龙，从我们做起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "能不能也对我留点爱",
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 87,
+          "like_count": 547,
+          "listed_count": 0,
+          "tweet_count": 483
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-23T15:33:28.000Z",
+        "description": "常驻香港，喜欢面基，欢迎私信互fo。喜欢分享日常，段子梗图大多来源于QQ空间与微信群聊，点赞转推梗图梗文不代表本人的意见 ，如有侵权请私信删除。最最最最喜欢对咱最好的人 @vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 85,
+                "username": "vu_yoyo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pocaro…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pocarosa2381.xiaoyaoniang.com",
+                "start": 0,
+                "url": "https://t.co/xUAoJzmKgp"
+              }
+            ]
+          }
+        },
+        "id": "1429829081684537345",
+        "location": "上水",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1849349107871330725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845026694765346817/mJG2NgwD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14650,
+          "following_count": 10700,
+          "like_count": 87577,
+          "listed_count": 44,
+          "tweet_count": 83344
+        },
+        "url": "https://t.co/xUAoJzmKgp",
+        "username": "Rabbubble550W",
+        "verified": true
+      }
+    ]
+  }
+}

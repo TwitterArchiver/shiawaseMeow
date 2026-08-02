@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1864321339349454911",
+    "created_at": "2024-12-04T14:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T15:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1864321339349454911"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1864321339349454911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么做到毅然喝掉那个亚硝酸钠的？？上上个月开封了都没能喝下去，我还是想毫无悬念的一头被车撞死化身恶鬼折磨讨厌的人一辈子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1864321339349454911",
+        "created_at": "2024-12-04T14:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T15:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864321339349454911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1864321339349454911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么做到毅然喝掉那个亚硝酸钠的？？上上个月开封了都没能喝下去，我还是想毫无悬念的一头被车撞死化身恶鬼折磨讨厌的人一辈子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "ノンブレス・オブリージュ",
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin🎀🐾",
+        "pinned_tweet_id": "1864188853613171155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2077,
+          "following_count": 97,
+          "like_count": 915,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 548
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

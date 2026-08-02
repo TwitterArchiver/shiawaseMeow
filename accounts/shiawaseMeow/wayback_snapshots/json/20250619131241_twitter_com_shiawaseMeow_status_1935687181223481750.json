@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1935668204325806184",
+    "created_at": "2025-06-19T13:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T14:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935687181223481750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1786896785300230144",
+          "start": 0,
+          "username": "zhang450063"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935687181223481750",
+    "in_reply_to_user_id": "1786896785300230144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935671176854163628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhang450063 宝宝QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1935668204325806184",
+        "created_at": "2025-06-19T13:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T14:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935687181223481750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1786896785300230144",
+              "start": 0,
+              "username": "zhang450063"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935687181223481750",
+        "in_reply_to_user_id": "1786896785300230144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935671176854163628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhang450063 宝宝QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786896785300230144",
+        "conversation_id": "1935668204325806184",
+        "created_at": "2025-06-19T12:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T13:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935671176854163628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935671176854163628",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935668204325806184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 冒泡！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1927769315874402419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13490,
+          "following_count": 143,
+          "like_count": 1905,
+          "listed_count": 29,
+          "media_count": 258,
+          "tweet_count": 1140
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T23:12:55.000Z",
+        "description": "",
+        "id": "1786896785300230144",
+        "name": "zhang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900568045740789760/j2SXaaft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 6,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "zhang450063",
+        "verified": false
+      }
+    ]
+  }
+}

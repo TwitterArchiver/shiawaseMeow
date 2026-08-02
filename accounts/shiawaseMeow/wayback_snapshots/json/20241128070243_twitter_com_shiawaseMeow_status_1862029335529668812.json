@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862029258891137024",
+        "3_1862029258761367552"
+      ]
+    },
+    "author_id": "2603784802",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1862029335529668812",
+    "created_at": "2024-11-28T07:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T08:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1862029335529668812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eWOe8HRYTk",
+          "end": 41,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1862029335529668812/photo/1",
+          "media_key": "3_1862029258891137024",
+          "start": 18,
+          "url": "https://t.co/eWOe8HRYTk"
+        },
+        {
+          "display_url": "pic.x.com/eWOe8HRYTk",
+          "end": 41,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1862029335529668812/photo/1",
+          "media_key": "3_1862029258761367552",
+          "start": 18,
+          "url": "https://t.co/eWOe8HRYTk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862029335529668812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你有这么美丽的卡面进入邦多利。。。 https://t.co/eWOe8HRYTk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1862029258891137024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GddBvtmXEAA3HD5.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1862029258761367552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GddBvtHa8AAM8wz.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862029258891137024",
+            "3_1862029258761367552"
+          ]
+        },
+        "author_id": "2603784802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1862029335529668812",
+        "created_at": "2024-11-28T07:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T08:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862029335529668812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eWOe8HRYTk",
+              "end": 41,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1862029335529668812/photo/1",
+              "media_key": "3_1862029258891137024",
+              "start": 18,
+              "url": "https://t.co/eWOe8HRYTk"
+            },
+            {
+              "display_url": "pic.x.com/eWOe8HRYTk",
+              "end": 41,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1862029335529668812/photo/1",
+              "media_key": "3_1862029258761367552",
+              "start": 18,
+              "url": "https://t.co/eWOe8HRYTk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862029335529668812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你有这么美丽的卡面进入邦多利。。。 https://t.co/eWOe8HRYTk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "フラッシュバック · 蝉の声 · 二度とは帰らぬ君。",
+        "id": "2603784802",
+        "location": "我很可爱 请给我钱",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 93,
+          "like_count": 896,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 572
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

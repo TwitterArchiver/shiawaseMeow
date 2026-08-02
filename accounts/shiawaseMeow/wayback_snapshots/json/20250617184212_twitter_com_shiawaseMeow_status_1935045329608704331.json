@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1934990513368891407",
+    "created_at": "2025-06-17T18:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T19:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935045329608704331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1688397365336850432",
+          "start": 0,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935045329608704331",
+    "in_reply_to_user_id": "1688397365336850432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934990513368891407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongpigu980 卖惨什么……还戒上了😂痒了拿电蚊拍别折磨猫"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1745,
+        "media_key": "3_1934990503709495296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtp3nHFb0AAxIXK.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1783,
+        "media_key": "3_1934990503793369088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtp3nHZboAAzVwi.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1049,
+        "media_key": "3_1934990503734628352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtp3nHLbUAA2XYj.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1934990513368891407",
+        "created_at": "2025-06-17T18:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T19:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935045329608704331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935045329608704331",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934990513368891407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 卖惨什么……还戒上了😂痒了拿电蚊拍别折磨猫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934990503709495296",
+            "3_1934990503793369088",
+            "3_1934990503734628352"
+          ]
+        },
+        "author_id": "1688397365336850432",
+        "conversation_id": "1934990513368891407",
+        "created_at": "2025-06-17T15:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T16:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934990513368891407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eZg622PvjC",
+              "end": 26,
+              "expanded_url": "https://x.com/hongpigu980/status/1934990513368891407/photo/1",
+              "media_key": "3_1934990503709495296",
+              "start": 3,
+              "url": "https://t.co/eZg622PvjC"
+            },
+            {
+              "display_url": "pic.x.com/eZg622PvjC",
+              "end": 26,
+              "expanded_url": "https://x.com/hongpigu980/status/1934990513368891407/photo/1",
+              "media_key": "3_1934990503793369088",
+              "start": 3,
+              "url": "https://t.co/eZg622PvjC"
+            },
+            {
+              "display_url": "pic.x.com/eZg622PvjC",
+              "end": 26,
+              "expanded_url": "https://x.com/hongpigu980/status/1934990513368891407/photo/1",
+              "media_key": "3_1934990503734628352",
+              "start": 3,
+              "url": "https://t.co/eZg622PvjC"
+            },
+            {
+              "display_url": "x.com/hongpigu980/st…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/hongpigu980/status/1934538295528362330",
+              "start": 27,
+              "url": "https://t.co/lcAD08lqO4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934990513368891407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 19564,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 35,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934538295528362330",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续 https://t.co/eZg622PvjC https://t.co/lcAD08lqO4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13402,
+          "following_count": 143,
+          "like_count": 1891,
+          "listed_count": 29,
+          "media_count": 258,
+          "tweet_count": 1137
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1934519128817270864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40721,
+          "following_count": 37,
+          "like_count": 25,
+          "listed_count": 37,
+          "media_count": 432,
+          "tweet_count": 564
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1841870740393754624",
+        "3_1841870740385366017"
+      ]
+    },
+    "author_id": "2603784802",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "1841870832827826685",
+    "created_at": "2024-10-03T16:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T17:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1841870832827826685"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dmDdnmEXwU",
+          "end": 36,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1841870832827826685/photo/1",
+          "media_key": "3_1841870740393754624",
+          "start": 13,
+          "url": "https://t.co/dmDdnmEXwU"
+        },
+        {
+          "display_url": "pic.x.com/dmDdnmEXwU",
+          "end": 36,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1841870832827826685/photo/1",
+          "media_key": "3_1841870740385366017",
+          "start": 13,
+          "url": "https://t.co/dmDdnmEXwU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841870832827826685",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明天我要od外出 好期待 https://t.co/dmDdnmEXwU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1970,
+        "media_key": "3_1841870740393754624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY-jrgNbAAA-Sid.jpg",
+        "width": 997
+      },
+      {
+        "height": 1742,
+        "media_key": "3_1841870740385366017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY-jrgLbAAE5ub6.jpg",
+        "width": 987
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841870740393754624",
+            "3_1841870740385366017"
+          ]
+        },
+        "author_id": "2603784802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "1841870832827826685",
+        "created_at": "2024-10-03T16:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841870832827826685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dmDdnmEXwU",
+              "end": 36,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1841870832827826685/photo/1",
+              "media_key": "3_1841870740393754624",
+              "start": 13,
+              "url": "https://t.co/dmDdnmEXwU"
+            },
+            {
+              "display_url": "pic.x.com/dmDdnmEXwU",
+              "end": 36,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1841870832827826685/photo/1",
+              "media_key": "3_1841870740385366017",
+              "start": 13,
+              "url": "https://t.co/dmDdnmEXwU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841870832827826685",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天我要od外出 好期待 https://t.co/dmDdnmEXwU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "世界も涙も強さも忘れて",
+        "id": "2603784802",
+        "location": "I pray",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 69,
+          "like_count": 272,
+          "listed_count": 0,
+          "tweet_count": 292
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

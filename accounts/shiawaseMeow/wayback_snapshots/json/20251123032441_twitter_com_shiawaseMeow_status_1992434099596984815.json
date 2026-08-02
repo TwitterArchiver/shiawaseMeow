@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1992172419843518572",
+    "created_at": "2025-11-23T03:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T04:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992434099596984815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1752615596502450176",
+          "start": 0,
+          "username": "nqsbwhn0qs0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992434099596984815",
+    "in_reply_to_user_id": "1752615596502450176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992172419843518572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nqsbwhn0qs0 直接拿相册带保存时间截图可以举报成功的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1992172419843518572",
+        "created_at": "2025-11-23T03:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T04:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992434099596984815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752615596502450176",
+              "start": 0,
+              "username": "nqsbwhn0qs0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992434099596984815",
+        "in_reply_to_user_id": "1752615596502450176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992172419843518572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nqsbwhn0qs0 直接拿相册带保存时间截图可以举报成功的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752615596502450176",
+        "conversation_id": "1992172419843518572",
+        "created_at": "2025-11-22T10:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T11:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992172419843518572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992172419843518572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1826,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "关注我推特的臭婊子天天看我发照片了就偷去发抖音我他妈在抖音看到好几个账号了发抖音发的比我还勤快，我推特上一秒才发就偷去发抖音，你妈死了是不是啊再盗我图的杂种死爹死妈死全家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1958534397021565120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15691,
+          "following_count": 149,
+          "like_count": 1940,
+          "listed_count": 32,
+          "media_count": 313,
+          "tweet_count": 1361
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T08:51:44.000Z",
+        "description": "",
+        "id": "1752615596502450176",
+        "location": "🚪155/520",
+        "name": "ʕ ᵔᴥᵔ ʔ",
+        "pinned_tweet_id": "1979023045042860036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974697211054194688/omH84sHR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13620,
+          "following_count": 55,
+          "like_count": 2057,
+          "listed_count": 28,
+          "media_count": 11,
+          "tweet_count": 746
+        },
+        "username": "nqsbwhn0qs0",
+        "verified": false
+      }
+    ]
+  }
+}

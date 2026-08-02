@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989971647332585472"
+      ]
+    },
+    "author_id": "2603784802",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1989971655918326165",
+    "created_at": "2025-11-16T08:19:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T09:19:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989971655918326165"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yCHpxn1xac",
+          "end": 23,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1989971655918326165/photo/1",
+          "media_key": "3_1989971647332585472",
+          "start": 0,
+          "url": "https://t.co/yCHpxn1xac"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989971655918326165",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/yCHpxn1xac"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1989971647332585472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G53Mq4BbkAADzwP.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989971647332585472"
+          ]
+        },
+        "author_id": "2603784802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989971655918326165",
+        "created_at": "2025-11-16T08:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T09:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989971655918326165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yCHpxn1xac",
+              "end": 23,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1989971655918326165/photo/1",
+              "media_key": "3_1989971647332585472",
+              "start": 0,
+              "url": "https://t.co/yCHpxn1xac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989971655918326165",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yCHpxn1xac"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1958534397021565120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15217,
+          "following_count": 148,
+          "like_count": 1918,
+          "listed_count": 31,
+          "media_count": 307,
+          "tweet_count": 1338
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

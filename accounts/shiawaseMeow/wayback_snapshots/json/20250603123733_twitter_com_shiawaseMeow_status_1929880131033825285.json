@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929880119558262786"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1929880131033825285",
+    "created_at": "2025-06-03T12:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T13:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929880131033825285"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kEjMqn7bAf",
+          "end": 31,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1929880131033825285/photo/1",
+          "media_key": "3_1929880119558262786",
+          "start": 8,
+          "url": "https://t.co/kEjMqn7bAf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929880131033825285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "遛鸟一天回家嘞 https://t.co/kEjMqn7bAf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929880119558262786",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GshPvmlb0AIvq5O.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929880119558262786"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1929880131033825285",
+        "created_at": "2025-06-03T12:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T13:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929880131033825285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kEjMqn7bAf",
+              "end": 31,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1929880131033825285/photo/1",
+              "media_key": "3_1929880119558262786",
+              "start": 8,
+              "url": "https://t.co/kEjMqn7bAf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929880131033825285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "遛鸟一天回家嘞 https://t.co/kEjMqn7bAf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿陪聊 不约不线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12421,
+          "following_count": 140,
+          "like_count": 1839,
+          "listed_count": 25,
+          "media_count": 250,
+          "tweet_count": 1083
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

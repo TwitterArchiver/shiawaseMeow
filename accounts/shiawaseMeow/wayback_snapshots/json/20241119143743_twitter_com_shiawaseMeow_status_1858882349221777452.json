@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1858879746014409158",
+    "created_at": "2024-11-19T14:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T15:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858882349221777452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1774688315704483840",
+          "start": 0,
+          "username": "TiaoYi23130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858882349221777452",
+    "in_reply_to_user_id": "1774688315704483840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858879746014409158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TiaoYi23130 无聊的城市😕还不如陪我去旅游"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1858879746014409158",
+        "created_at": "2024-11-19T14:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T15:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858882349221777452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1774688315704483840",
+              "start": 0,
+              "username": "TiaoYi23130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858882349221777452",
+        "in_reply_to_user_id": "1774688315704483840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858879746014409158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TiaoYi23130 无聊的城市😕还不如陪我去旅游"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858879707682664448",
+            "3_1858879734824013824"
+          ]
+        },
+        "author_id": "1774688315704483840",
+        "conversation_id": "1858879746014409158",
+        "created_at": "2024-11-19T14:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T15:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858879746014409158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oxRZ5J27wX",
+              "end": 31,
+              "expanded_url": "https://x.com/TiaoYi23130/status/1858879746014409158/photo/1",
+              "media_key": "3_1858879707682664448",
+              "start": 8,
+              "url": "https://t.co/oxRZ5J27wX"
+            },
+            {
+              "display_url": "pic.x.com/oxRZ5J27wX",
+              "end": 31,
+              "expanded_url": "https://x.com/TiaoYi23130/status/1858879746014409158/photo/1",
+              "media_key": "3_1858879734824013824",
+              "start": 8,
+              "url": "https://t.co/oxRZ5J27wX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858879746014409158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "记录下宜昌演出 https://t.co/oxRZ5J27wX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "能不能也对我留点爱",
+        "id": "2603784802",
+        "location": "🚪288 纯纯纯绿",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 88,
+          "like_count": 844,
+          "listed_count": 1,
+          "tweet_count": 591
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T06:40:47.000Z",
+        "description": "",
+        "id": "1774688315704483840",
+        "location": "666层",
+        "name": "一条海参",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794176441971810304/bVB20vu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 46,
+          "like_count": 1022,
+          "listed_count": 0,
+          "tweet_count": 232
+        },
+        "username": "TiaoYi23130",
+        "verified": false
+      }
+    ]
+  }
+}

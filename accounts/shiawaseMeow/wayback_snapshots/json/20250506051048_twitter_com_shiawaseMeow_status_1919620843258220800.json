@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1919620202007785815",
+    "created_at": "2025-05-06T05:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T06:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919620843258220800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1551431055408009216",
+          "start": 0,
+          "username": "ruki9532"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919620843258220800",
+    "in_reply_to_user_id": "1551431055408009216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919620729487630835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruki9532 注销了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1919620202007785815",
+        "created_at": "2025-05-06T05:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T06:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919620843258220800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1551431055408009216",
+              "start": 0,
+              "username": "ruki9532"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919620843258220800",
+        "in_reply_to_user_id": "1551431055408009216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919620729487630835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruki9532 注销了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551431055408009216",
+        "conversation_id": "1919620202007785815",
+        "created_at": "2025-05-06T05:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T06:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919620729487630835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919620729487630835",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919620202007785815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 姬和不玩抖音了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1899788877399023877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11101,
+          "following_count": 137,
+          "like_count": 1717,
+          "listed_count": 21,
+          "media_count": 220,
+          "tweet_count": 998
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T04:56:19.000Z",
+        "description": "互fo 可直接DM|自残+od+负能量｜内有血图慎入",
+        "id": "1551431055408009216",
+        "location": "天国",
+        "name": "ルキ",
+        "pinned_tweet_id": "1806902521728025035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800429727880196096/Beu_WJfe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 100,
+          "like_count": 2654,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1475
+        },
+        "username": "ruki9532",
+        "verified": false
+      }
+    ]
+  }
+}

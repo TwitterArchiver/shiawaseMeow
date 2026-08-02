@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1854038172927414272"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1854038884264632787",
+    "created_at": "2024-11-06T05:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T06:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1854038884264632787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/msaznU6Vw1",
+          "end": 31,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1854038884264632787/video/1",
+          "media_key": "7_1854038172927414272",
+          "start": 8,
+          "url": "https://t.co/msaznU6Vw1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854038884264632787",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "阴角进食两秒钟 https://t.co/msaznU6Vw1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1750,
+        "height": 3740,
+        "media_key": "7_1854038172927414272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1854038172927414272/pu/img/7tbDOVE4bZdJAeFX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1854038172927414272/pu/vid/avc1/320x566/dyXlV7K8wOTxKl_c.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1854038172927414272/pu/vid/avc1/480x848/DRCDUMjxrrCOEAgE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1854038172927414272/pu/vid/avc1/720x1272/GKqWhJhrUaewm_rW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1854038172927414272/pu/pl/zqyrPGfheFehr0Ml.m3u8?tag=12"
+          }
+        ],
+        "width": 2114
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1854038172927414272"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1854038884264632787",
+        "created_at": "2024-11-06T05:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T06:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854038884264632787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/msaznU6Vw1",
+              "end": 31,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1854038884264632787/video/1",
+              "media_key": "7_1854038172927414272",
+              "start": 8,
+              "url": "https://t.co/msaznU6Vw1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854038884264632787",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阴角进食两秒钟 https://t.co/msaznU6Vw1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "能不能也对我留点爱",
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 87,
+          "like_count": 487,
+          "listed_count": 0,
+          "tweet_count": 458
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

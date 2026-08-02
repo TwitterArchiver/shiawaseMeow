@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1863172954609340784",
+    "created_at": "2024-12-01T10:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T11:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863174138250334579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1073258370159730688",
+          "start": 0,
+          "username": "mmmmmmb41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863174138250334579",
+    "in_reply_to_user_id": "1073258370159730688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863174072022294868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmmmmmb41 确实我直接请假"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1863172954609340784",
+        "created_at": "2024-12-01T10:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T11:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863174138250334579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1073258370159730688",
+              "start": 0,
+              "username": "mmmmmmb41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863174138250334579",
+        "in_reply_to_user_id": "1073258370159730688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863174072022294868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmmmmmb41 确实我直接请假"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1073258370159730688",
+        "conversation_id": "1863172954609340784",
+        "created_at": "2024-12-01T10:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T11:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863174072022294868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863174072022294868",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863172954609340784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 上班后你会发现在公司类似的情况也有。。我的意见是这种除非是直接上级或者大老板安排，其他的都可以不用太当回事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "ノンブレス・オブリージュ",
+        "id": "2603784802",
+        "location": "🚪288/520/1314",
+        "name": "hiyorin🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1996,
+          "following_count": 96,
+          "like_count": 917,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 548
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-13T16:48:30.000Z",
+        "description": "ENTJ，大奶带来和平，跟我说，谢谢大奶",
+        "id": "1073258370159730688",
+        "location": "Kowloon City District",
+        "name": "空心",
+        "pinned_tweet_id": "1829854764693405908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1141774708607803393/JnCJ3DqS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 573,
+          "like_count": 978,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 3907
+        },
+        "username": "mmmmmmb41",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1890297983721464245",
+    "created_at": "2025-02-14T08:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T09:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890313480340738443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1227465193577472000",
+          "start": 0,
+          "username": "kuyokoneko11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890313480340738443",
+    "in_reply_to_user_id": "1227465193577472000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890307497640051189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuyokoneko11 爱你kyk～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1890297983721464245",
+        "created_at": "2025-02-14T08:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T09:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890313480340738443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1227465193577472000",
+              "start": 0,
+              "username": "kuyokoneko11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890313480340738443",
+        "in_reply_to_user_id": "1227465193577472000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890307497640051189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuyokoneko11 爱你kyk～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1227465193577472000",
+        "conversation_id": "1890297983721464245",
+        "created_at": "2025-02-14T07:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T08:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890307497640051189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890307497640051189",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890297983721464245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 我愛你姬和"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "4.0何も無いんだ\n备用@hiyorinnosekai\n（已成年20岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "纯绿🚪288/520/1314（过门请备注联系方式",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1876979351096361050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4500,
+          "following_count": 118,
+          "like_count": 1398,
+          "listed_count": 6,
+          "media_count": 143,
+          "tweet_count": 767
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-12T05:31:33.000Z",
+        "description": "我是kuyoko｜直到除了痛苦我一無所有｜我很溫良會fo喜歡的女孩子｜🚪188",
+        "id": "1227465193577472000",
+        "location": "天堂地獄分界線",
+        "name": "小葉大人^^",
+        "pinned_tweet_id": "1882615546241536341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878651158878896128/FX59BIHz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 67,
+          "like_count": 476,
+          "listed_count": 5,
+          "media_count": 86,
+          "tweet_count": 388
+        },
+        "username": "kuyokoneko11",
+        "verified": false
+      }
+    ]
+  }
+}

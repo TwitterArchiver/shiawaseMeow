@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1854881546005782694",
+    "created_at": "2024-11-09T02:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T03:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855072942289568175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1706136135205085184",
+          "start": 0,
+          "username": "tsuno_kuro8526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855072942289568175",
+    "in_reply_to_user_id": "1706136135205085184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854881546005782694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsuno_kuro8526 已经面瘫了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1854881546005782694",
+        "created_at": "2024-11-09T02:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T03:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855072942289568175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1706136135205085184",
+              "start": 0,
+              "username": "tsuno_kuro8526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855072942289568175",
+        "in_reply_to_user_id": "1706136135205085184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854881546005782694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsuno_kuro8526 已经面瘫了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706136135205085184",
+        "conversation_id": "1854881546005782694",
+        "created_at": "2024-11-08T13:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T14:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854881546005782694"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854881546005782694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 279,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识\nod破坏听力和面神经"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "能不能也对我留点爱",
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 87,
+          "like_count": 571,
+          "listed_count": 0,
+          "tweet_count": 491
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-25T02:39:02.000Z",
+        "description": "愛是辛辣的絕望",
+        "id": "1706136135205085184",
+        "location": "距离你8.964km",
+        "name": "荠",
+        "pinned_tweet_id": "1829545500091306084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829546091798528000/2N3kO7u8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 180,
+          "like_count": 3556,
+          "listed_count": 0,
+          "tweet_count": 2860
+        },
+        "username": "tsuno_kuro8526",
+        "verified": false
+      }
+    ]
+  }
+}

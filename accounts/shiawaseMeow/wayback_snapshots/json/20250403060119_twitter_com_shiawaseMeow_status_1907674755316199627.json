@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1907674593634156545"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1907674755316199627",
+    "created_at": "2025-04-03T06:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T07:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907674755316199627"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zwCDg1YbS5",
+          "end": 45,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1907674755316199627/video/1",
+          "media_key": "7_1907674593634156545",
+          "start": 22,
+          "url": "https://t.co/zwCDg1YbS5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907674755316199627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "武汉欢乐谷周四还这么多人？不是周五放假咩😭 https://t.co/zwCDg1YbS5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7200,
+        "height": 1920,
+        "media_key": "7_1907674593634156545",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1907674593634156545/pu/img/xmUt-mShqu0I3IXw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907674593634156545/pu/vid/avc1/320x568/Wnxk53UoQO-6LOJe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907674593634156545/pu/vid/avc1/480x852/JR-Ln3nn86GZZ0Lp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1907674593634156545/pu/vid/avc1/720x1280/-3mPUYG8Us-84OI2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1907674593634156545/pu/pl/ZBJkfbR2dIGcPZKC.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1907674593634156545"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1907674755316199627",
+        "created_at": "2025-04-03T06:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T07:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907674755316199627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zwCDg1YbS5",
+              "end": 45,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1907674755316199627/video/1",
+              "media_key": "7_1907674593634156545",
+              "start": 22,
+              "url": "https://t.co/zwCDg1YbS5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907674755316199627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "武汉欢乐谷周四还这么多人？不是周五放假咩😭 https://t.co/zwCDg1YbS5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 绝望的neet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1899788877399023877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5707,
+          "following_count": 129,
+          "like_count": 1554,
+          "listed_count": 11,
+          "media_count": 169,
+          "tweet_count": 831
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

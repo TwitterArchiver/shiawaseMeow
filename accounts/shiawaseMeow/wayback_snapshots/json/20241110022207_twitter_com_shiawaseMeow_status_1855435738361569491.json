@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1855435647521271808"
+      ]
+    },
+    "author_id": "2603784802",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1855435738361569491",
+    "created_at": "2024-11-10T02:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T03:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1855435738361569491"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a92atxmIg7",
+          "end": 46,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1855435738361569491/photo/1",
+          "media_key": "3_1855435647521271808",
+          "start": 23,
+          "url": "https://t.co/a92atxmIg7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855435738361569491",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "hh给我带的红油热干面太辣了✋🏻😫🤚🏻吃不完 https://t.co/a92atxmIg7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1855435647521271808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gb_U5BIaMAAiFjb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855435647521271808"
+          ]
+        },
+        "author_id": "2603784802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1855435738361569491",
+        "created_at": "2024-11-10T02:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T03:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855435738361569491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a92atxmIg7",
+              "end": 46,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1855435738361569491/photo/1",
+              "media_key": "3_1855435647521271808",
+              "start": 23,
+              "url": "https://t.co/a92atxmIg7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855435738361569491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hh给我带的红油热干面太辣了✋🏻😫🤚🏻吃不完 https://t.co/a92atxmIg7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "能不能也对我留点爱",
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 87,
+          "like_count": 599,
+          "listed_count": 0,
+          "tweet_count": 511
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1974395085740749029",
+    "created_at": "2025-10-05T00:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T01:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974633353703014910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1900891403686940672",
+          "start": 0,
+          "username": "Rbb090110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974633353703014910",
+    "in_reply_to_user_id": "1900891403686940672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974395085740749029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rbb090110 祝你幸福！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1974395076685312001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Z13IgbsAE-zxg.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1974395085740749029",
+        "created_at": "2025-10-05T00:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T01:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974633353703014910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1900891403686940672",
+              "start": 0,
+              "username": "Rbb090110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974633353703014910",
+        "in_reply_to_user_id": "1900891403686940672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974395085740749029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rbb090110 祝你幸福！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974395076685312001"
+          ]
+        },
+        "author_id": "1900891403686940672",
+        "conversation_id": "1974395085740749029",
+        "created_at": "2025-10-04T08:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T09:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974395085740749029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ttbXhlWSHq",
+              "end": 116,
+              "expanded_url": "https://x.com/Rbb090110/status/1974395085740749029/photo/1",
+              "media_key": "3_1974395076685312001",
+              "start": 93,
+              "url": "https://t.co/ttbXhlWSHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974395085740749029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爸爸，你不给我生活费也没有关系，有一个比你大几岁的叔叔说愿意给我生活费，足足有两千，还包我吃住帮我买衣服，爸爸，下个星期开始我就不回家了。这个叔叔说会给我一个新的家，从此我就有新爸爸了 https://t.co/ttbXhlWSHq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1958534397021565120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15363,
+          "following_count": 151,
+          "like_count": 1938,
+          "listed_count": 33,
+          "media_count": 296,
+          "tweet_count": 1290
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T12:46:54.000Z",
+        "description": "",
+        "id": "1900891403686940672",
+        "name": "忧郁的农村人",
+        "pinned_tweet_id": "1924881116445675858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968312672954519552/-1dZoSNv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 50,
+          "like_count": 255,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 392
+        },
+        "username": "Rbb090110",
+        "verified": false
+      }
+    ]
+  }
+}

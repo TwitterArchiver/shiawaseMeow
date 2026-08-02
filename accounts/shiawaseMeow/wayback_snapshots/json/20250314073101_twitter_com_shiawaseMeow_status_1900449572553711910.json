@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1900449572553711910",
+    "created_at": "2025-03-14T07:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T08:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900449572553711910"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1900449572553711910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我应该化妆拍点照片了但是我又不出门懒得画出门了我又不想拍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1900449572553711910",
+        "created_at": "2025-03-14T07:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T08:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900449572553711910"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900449572553711910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我应该化妆拍点照片了但是我又不出门懒得画出门了我又不想拍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 19岁 | 158-46kg | 邦邦人音游狗 | 管人吃 holo的忠实粉丝 湊あくあ单推人 |金丝熊和猫猫的铲屎官 \nʚ(◜𖥦◝ )ɞ爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "陪聊🚪99/288/520/1314 线下过门再问价",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1899788877399023877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5403,
+          "following_count": 126,
+          "like_count": 1492,
+          "listed_count": 9,
+          "media_count": 153,
+          "tweet_count": 788
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

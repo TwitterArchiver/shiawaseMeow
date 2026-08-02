@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1869304400818393089"
+      ],
+      "media_source_tweet_id": [
+        "1869304413799714827"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1869330222535119072",
+    "created_at": "2024-12-18T10:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T11:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869330222535119072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781705852522831872",
+          "start": 3,
+          "username": "BANFAN_KK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zafWEDi1ev",
+          "end": 46,
+          "expanded_url": "https://x.com/BANFAN_KK/status/1869304413799714827/photo/1",
+          "media_key": "3_1869304400818393089",
+          "start": 23,
+          "url": "https://t.co/zafWEDi1ev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869330222535119072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869304413799714827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BANFAN_KK: 求过🚪呀求过🚪 https://t.co/zafWEDi1ev"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1869330222535119072].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1869330222535119072",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1869330222535119072"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1869304400818393089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfEactPa0AEXkVI.jpg",
+        "width": 1166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869304400818393089"
+          ]
+        },
+        "author_id": "1781705852522831872",
+        "conversation_id": "1869304413799714827",
+        "created_at": "2024-12-18T08:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T09:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869304413799714827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zafWEDi1ev",
+              "end": 31,
+              "expanded_url": "https://x.com/BANFAN_KK/status/1869304413799714827/photo/1",
+              "media_key": "3_1869304400818393089",
+              "start": 8,
+              "url": "https://t.co/zafWEDi1ev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869304413799714827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 81,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "求过🚪呀求过🚪 https://t.co/zafWEDi1ev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "ノンブレス・オブリージュ\n另一個我 @hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "纯绿🚪288/520/1314",
+        "name": "hiyorin🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267,
+          "following_count": 95,
+          "like_count": 1027,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 624
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T15:26:01.000Z",
+        "description": "谢谢",
+        "id": "1781705852522831872",
+        "name": "🦷ice",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796475873941696513/0CQB_HEB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 249,
+          "like_count": 3771,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1477
+        },
+        "username": "BANFAN_KK",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979087381148905472"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1979087391312011561",
+    "created_at": "2025-10-17T07:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T08:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979087391312011561"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j3ogkMW3c1",
+          "end": 36,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1979087391312011561/photo/1",
+          "media_key": "3_1979087381148905472",
+          "start": 13,
+          "url": "https://t.co/j3ogkMW3c1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979087391312011561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一刀下去剪成超短发了…… https://t.co/j3ogkMW3c1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1979087381148905472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3chfMzWsAAHpaf.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979087381148905472"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1979087391312011561",
+        "created_at": "2025-10-17T07:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T08:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979087391312011561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3ogkMW3c1",
+              "end": 36,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1979087391312011561/photo/1",
+              "media_key": "3_1979087381148905472",
+              "start": 13,
+              "url": "https://t.co/j3ogkMW3c1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979087391312011561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一刀下去剪成超短发了…… https://t.co/j3ogkMW3c1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1958534397021565120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15293,
+          "following_count": 150,
+          "like_count": 1946,
+          "listed_count": 32,
+          "media_count": 298,
+          "tweet_count": 1300
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

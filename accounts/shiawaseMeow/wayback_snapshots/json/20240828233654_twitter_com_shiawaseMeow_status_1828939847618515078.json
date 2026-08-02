@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1828939847618515078",
+    "created_at": "2024-08-28T23:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-29T00:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1828939847618515078"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1828939847618515078",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚开学的时候我尝试让自己接受社交，于是去了校学生会，学生会的管理十分严格还有很多惩罚和开会等，那些上级的学长学姐都非常捉班做势，然后我就退了，后来我再也没有任何社交了，除了舍友我连班上的人都认不全。大学两年收获0️⃣个朋友，三个表面关系好的舍友，唉，今年大三对我好一点吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1828939847618515078",
+        "created_at": "2024-08-28T23:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T00:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828939847618515078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1828939847618515078",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚开学的时候我尝试让自己接受社交，于是去了校学生会，学生会的管理十分严格还有很多惩罚和开会等，那些上级的学长学姐都非常捉班做势，然后我就退了，后来我再也没有任何社交了，除了舍友我连班上的人都认不全。大学两年收获0️⃣个朋友，三个表面关系好的舍友，唉，今年大三对我好一点吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "羡慕嫉妒恨爱和不爱包围了我",
+        "id": "2603784802",
+        "location": "迷う",
+        "name": "hiyorin",
+        "pinned_tweet_id": "1824449177591615604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821584807685701634/cDyN-RRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 29,
+          "like_count": 66,
+          "listed_count": 0,
+          "tweet_count": 105
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

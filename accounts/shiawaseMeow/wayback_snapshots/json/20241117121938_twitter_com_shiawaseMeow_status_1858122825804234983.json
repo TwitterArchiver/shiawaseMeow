@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1858122674712788992",
+        "3_1858122674717024256"
+      ]
+    },
+    "author_id": "2603784802",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1858122825804234983",
+    "created_at": "2024-11-17T12:19:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T13:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1858122825804234983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aApu5xcUKp",
+          "end": 53,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1858122825804234983/photo/1",
+          "media_key": "3_1858122674712788992",
+          "start": 30,
+          "url": "https://t.co/aApu5xcUKp"
+        },
+        {
+          "display_url": "pic.x.com/aApu5xcUKp",
+          "end": 53,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1858122825804234983/photo/1",
+          "media_key": "3_1858122674717024256",
+          "start": 30,
+          "url": "https://t.co/aApu5xcUKp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858122825804234983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我中了一种穿新衣服吃饭必战损的魔咒。已经是最近的第三次。。 https://t.co/aApu5xcUKp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1858122674712788992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GclguldawAAJtfG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1858122674717024256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GclgulebYAAKVAQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858122674712788992",
+            "3_1858122674717024256"
+          ]
+        },
+        "author_id": "2603784802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1858122825804234983",
+        "created_at": "2024-11-17T12:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T13:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858122825804234983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aApu5xcUKp",
+              "end": 53,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1858122825804234983/photo/1",
+              "media_key": "3_1858122674712788992",
+              "start": 30,
+              "url": "https://t.co/aApu5xcUKp"
+            },
+            {
+              "display_url": "pic.x.com/aApu5xcUKp",
+              "end": 53,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1858122825804234983/photo/1",
+              "media_key": "3_1858122674717024256",
+              "start": 30,
+              "url": "https://t.co/aApu5xcUKp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858122825804234983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我中了一种穿新衣服吃饭必战损的魔咒。已经是最近的第三次。。 https://t.co/aApu5xcUKp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "能不能也对我留点爱",
+        "id": "2603784802",
+        "location": "🚪288 无福利",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 89,
+          "like_count": 789,
+          "listed_count": 1,
+          "tweet_count": 575
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

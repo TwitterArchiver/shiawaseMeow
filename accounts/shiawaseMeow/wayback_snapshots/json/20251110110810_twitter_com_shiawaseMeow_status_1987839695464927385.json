@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987839689114677248",
+        "3_1987839689056026624"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1987839695464927385",
+    "created_at": "2025-11-10T11:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T12:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987839695464927385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vvqcetIi0n",
+          "end": 32,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1987839695464927385/photo/1",
+          "media_key": "3_1987839689114677248",
+          "start": 9,
+          "url": "https://t.co/vvqcetIi0n"
+        },
+        {
+          "display_url": "pic.x.com/vvqcetIi0n",
+          "end": 32,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1987839695464927385/photo/1",
+          "media_key": "3_1987839689056026624",
+          "start": 9,
+          "url": "https://t.co/vvqcetIi0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987839695464927385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 9,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "白白嫩嫩的姬和酱 https://t.co/vvqcetIi0n"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1987839695464927385].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1987839695464927385",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1987839695464927385"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987839689114677248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Y5qkwacAA4vTT.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987839689056026624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Y5qkibgAAIew3.jpg",
+        "width": 1152
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1958534397021565120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15229,
+          "following_count": 148,
+          "like_count": 1899,
+          "listed_count": 31,
+          "media_count": 306,
+          "tweet_count": 1326
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

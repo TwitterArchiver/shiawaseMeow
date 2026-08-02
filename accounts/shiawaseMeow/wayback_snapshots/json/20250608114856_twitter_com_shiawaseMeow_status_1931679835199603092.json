@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1931419696294662480",
+    "created_at": "2025-06-08T11:48:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T12:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931679835199603092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1673045877315997697",
+          "start": 0,
+          "username": "softguo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931679835199603092",
+    "in_reply_to_user_id": "1673045877315997697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931419696294662480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@softguo 什么时候来找我丸👿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1931419696294662480",
+        "created_at": "2025-06-08T11:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T12:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931679835199603092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1673045877315997697",
+              "start": 0,
+              "username": "softguo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931679835199603092",
+        "in_reply_to_user_id": "1673045877315997697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931419696294662480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@softguo 什么时候来找我丸👿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673045877315997697",
+        "conversation_id": "1931419696294662480",
+        "created_at": "2025-06-07T18:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T19:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931419696294662480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momoko8964/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/momoko8964/status/1931414960816664871",
+              "start": 13,
+              "url": "https://t.co/Bs7ImPN0cX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931419696294662480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931414960816664871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呜呜呜呜啊啊啊啊啊啊尖叫 https://t.co/Bs7ImPN0cX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  ",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13165,
+          "following_count": 140,
+          "like_count": 1840,
+          "listed_count": 28,
+          "media_count": 254,
+          "tweet_count": 1096
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T19:10:30.000Z",
+        "description": "坐标江苏 欢迎女孩子来找我玩^^🚪188",
+        "id": "1673045877315997697",
+        "name": "喜欢的人要及时吃掉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885773795962863616/vE57uM91_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 129,
+          "like_count": 393,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 70
+        },
+        "username": "softguo",
+        "verified": false
+      }
+    ]
+  }
+}

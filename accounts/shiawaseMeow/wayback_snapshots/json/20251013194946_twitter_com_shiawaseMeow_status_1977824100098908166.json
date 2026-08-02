@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1977482460591263866",
+    "created_at": "2025-10-13T19:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T20:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977824100098908166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1900891403686940672",
+          "start": 0,
+          "username": "Rbb090110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977824100098908166",
+    "in_reply_to_user_id": "1900891403686940672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977482460591263866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rbb090110 什么时候我能被这么一次"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977482452588507136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Ft0EAbMAAMAOF.jpg",
+        "width": 1230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1977482460591263866",
+        "created_at": "2025-10-13T19:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T20:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977824100098908166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1900891403686940672",
+              "start": 0,
+              "username": "Rbb090110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977824100098908166",
+        "in_reply_to_user_id": "1900891403686940672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977482460591263866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rbb090110 什么时候我能被这么一次"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977482452588507136"
+          ]
+        },
+        "author_id": "1900891403686940672",
+        "conversation_id": "1977482460591263866",
+        "created_at": "2025-10-12T21:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T22:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977482460591263866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fvKSvpMl1l",
+              "end": 35,
+              "expanded_url": "https://x.com/Rbb090110/status/1977482460591263866/photo/1",
+              "media_key": "3_1977482452588507136",
+              "start": 12,
+              "url": "https://t.co/fvKSvpMl1l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977482460591263866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候我能被这么一次 https://t.co/fvKSvpMl1l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1958534397021565120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15330,
+          "following_count": 150,
+          "like_count": 1946,
+          "listed_count": 32,
+          "media_count": 297,
+          "tweet_count": 1298
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T12:46:54.000Z",
+        "description": "爱，陪伴，占有",
+        "id": "1900891403686940672",
+        "location": "🚪5200谨防有人问",
+        "name": "忧郁的农村人",
+        "pinned_tweet_id": "1924881116445675858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975697764563771392/DxPw8g_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 51,
+          "like_count": 265,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 420
+        },
+        "username": "Rbb090110",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1944367197285199917",
+    "created_at": "2025-07-14T07:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T08:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944655879711928448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "983332233120370689",
+          "start": 0,
+          "username": "0707_Master"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944655879711928448",
+    "in_reply_to_user_id": "983332233120370689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944655058865680863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0707_Master 太坐牢了，打个副本死几次经验又掉回去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1944367197285199917",
+        "created_at": "2025-07-14T07:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T08:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944655879711928448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "983332233120370689",
+              "start": 0,
+              "username": "0707_Master"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944655879711928448",
+        "in_reply_to_user_id": "983332233120370689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944655058865680863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0707_Master 太坐牢了，打个副本死几次经验又掉回去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "983332233120370689",
+        "conversation_id": "1944367197285199917",
+        "created_at": "2025-07-14T07:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T08:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944655058865680863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944655058865680863",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944367197285199917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 怀旧练级巨坐牢，只能直升"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  ",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1927769315874402419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14669,
+          "following_count": 146,
+          "like_count": 1957,
+          "listed_count": 32,
+          "media_count": 276,
+          "tweet_count": 1202
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-09T13:14:08.000Z",
+        "description": "一般顺♂ | FF14Carbuncle | WOW亚服一组",
+        "id": "983332233120370689",
+        "location": "Living Memory",
+        "name": "大0老师",
+        "pinned_tweet_id": "1554905872253341696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905299937132445696/RNWFBpTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 201,
+          "like_count": 1068,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 1132
+        },
+        "username": "0707_Master",
+        "verified": false
+      }
+    ]
+  }
+}

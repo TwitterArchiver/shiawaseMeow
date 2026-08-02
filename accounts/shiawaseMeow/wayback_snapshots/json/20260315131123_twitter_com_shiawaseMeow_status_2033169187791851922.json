@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2033114112004386816"
+      ],
+      "media_source_tweet_id": [
+        "2033114414770217209"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "2033169187791851922",
+    "created_at": "2026-03-15T13:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T14:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033169187791851922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1962928470394339332",
+          "start": 3,
+          "username": "leporava"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gCuL1YaV6b",
+          "end": 42,
+          "expanded_url": "https://x.com/leporava/status/2033114414770217209/video/1",
+          "media_key": "13_2033114112004386816",
+          "start": 19,
+          "url": "https://t.co/gCuL1YaV6b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033169187791851922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033114414770217209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @leporava: 严肃打卡 https://t.co/gCuL1YaV6b"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4000,
+        "height": 1280,
+        "media_key": "13_2033114112004386816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033114112004386816/img/o2Lyo-QLdJZ86RvM.jpg",
+        "public_metrics": {
+          "view_count": 117
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033114112004386816/vid/avc1/320x568/Qwo8Ifqye9RAbcsX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033114112004386816/vid/avc1/480x852/xM77b28Tnm10uGkt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033114112004386816/vid/avc1/720x1280/8FrBpJZ-d7HxGE7M.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033114112004386816/pl/2CW1T2Bqm78QsI_o.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033114112004386816"
+          ],
+          "media_source_tweet_id": [
+            "2033114414770217209"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "2033169187791851922",
+        "created_at": "2026-03-15T13:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T14:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033169187791851922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1962928470394339332",
+              "start": 3,
+              "username": "leporava"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gCuL1YaV6b",
+              "end": 42,
+              "expanded_url": "https://x.com/leporava/status/2033114414770217209/video/1",
+              "media_key": "13_2033114112004386816",
+              "start": 19,
+              "url": "https://t.co/gCuL1YaV6b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033169187791851922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033114414770217209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @leporava: 严肃打卡 https://t.co/gCuL1YaV6b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033114112004386816"
+          ]
+        },
+        "author_id": "1962928470394339332",
+        "conversation_id": "2033114414770217209",
+        "created_at": "2026-03-15T09:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T10:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033114414770217209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gCuL1YaV6b",
+              "end": 28,
+              "expanded_url": "https://x.com/leporava/status/2033114414770217209/video/1",
+              "media_key": "13_2033114112004386816",
+              "start": 5,
+              "url": "https://t.co/gCuL1YaV6b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033114414770217209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 341,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "严肃打卡 https://t.co/gCuL1YaV6b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫备用唯一小号@hiyorinnosekai 永远19岁 | 私信详情",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位只要88感谢投喂",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15670,
+          "following_count": 154,
+          "like_count": 2058,
+          "listed_count": 29,
+          "media_count": 349,
+          "tweet_count": 1482
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T17:20:02.000Z",
+        "description": "🚪188",
+        "id": "1962928470394339332",
+        "name": "rabbit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028700743969255424/yVYBpBEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2766,
+          "following_count": 16,
+          "like_count": 139,
+          "listed_count": 7,
+          "media_count": 52,
+          "tweet_count": 353
+        },
+        "username": "leporava",
+        "verified": false
+      }
+    ]
+  }
+}

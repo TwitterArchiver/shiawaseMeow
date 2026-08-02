@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2037568885818610115",
+    "created_at": "2026-03-27T16:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T17:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037568885818610115"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037568885818610115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不想接线下了，之前还说接半绿啥的其实完全接受不了……不好意思，有因为想约我半绿才过我门槛的可以找我退188或者88🥺非常抱歉，我果然还是只适合陪聊或者纯绿约会啦……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2037568885818610115",
+        "created_at": "2026-03-27T16:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T17:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037568885818610115"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037568885818610115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想接线下了，之前还说接半绿啥的其实完全接受不了……不好意思，有因为想约我半绿才过我门槛的可以找我退188或者88🥺非常抱歉，我果然还是只适合陪聊或者纯绿约会啦……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫备用唯一小号@hiyorinnosekai 永远19岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位只要88感谢投喂",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15613,
+          "following_count": 158,
+          "like_count": 2080,
+          "listed_count": 29,
+          "media_count": 350,
+          "tweet_count": 1483
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1933911054788268205",
+    "created_at": "2025-06-14T16:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T17:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933921569044385906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1220792479940636679",
+          "start": 0,
+          "username": "pkuSoulInfector"
+        },
+        {
+          "end": 29,
+          "id": "785502209714774016",
+          "start": 17,
+          "username": "Estelladuck"
+        },
+        {
+          "end": 44,
+          "id": "1111252839538573314",
+          "start": 30,
+          "username": "Kiran00218173"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933921569044385906",
+    "in_reply_to_user_id": "1220792479940636679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933920551221031232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pkuSoulInfector @Estelladuck @Kiran00218173 你是不是没见过小鼻子美女，不是所有女的都是大鼻子😂看来没有美女愿意理你啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1933911054788268205",
+        "created_at": "2025-06-14T16:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T17:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933921569044385906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1220792479940636679",
+              "start": 0,
+              "username": "pkuSoulInfector"
+            },
+            {
+              "end": 29,
+              "id": "785502209714774016",
+              "start": 17,
+              "username": "Estelladuck"
+            },
+            {
+              "end": 44,
+              "id": "1111252839538573314",
+              "start": 30,
+              "username": "Kiran00218173"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933921569044385906",
+        "in_reply_to_user_id": "1220792479940636679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933920551221031232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pkuSoulInfector @Estelladuck @Kiran00218173 你是不是没见过小鼻子美女，不是所有女的都是大鼻子😂看来没有美女愿意理你啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1220792479940636679",
+        "conversation_id": "1933911054788268205",
+        "created_at": "2025-06-14T16:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T17:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933920551221031232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "785502209714774016",
+              "start": 0,
+              "username": "Estelladuck"
+            },
+            {
+              "end": 27,
+              "id": "1111252839538573314",
+              "start": 13,
+              "username": "Kiran00218173"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933920551221031232",
+        "in_reply_to_user_id": "785502209714774016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933918593089175921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Estelladuck @Kiran00218173 伏地魔逼孔。。。他妈的我真不信你不是gay 我见过这么mean的都是gay谢谢\n虽然但是 这个伏地魔逼孔真的笑死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13263,
+          "following_count": 142,
+          "like_count": 1882,
+          "listed_count": 29,
+          "media_count": 257,
+          "tweet_count": 1124
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-24T19:36:31.000Z",
+        "description": "阳痿 | 2cm | 地铁站居民 | LGBTQiong 🌈 | 北大中文系博士",
+        "id": "1220792479940636679",
+        "location": "The Chaos Sanctuary",
+        "name": "Infector of Souls | Extra Fast | Special H!t",
+        "pinned_tweet_id": "1931531730323988482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693669355991789569/3oAoiZ_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 1082,
+          "like_count": 1244,
+          "listed_count": 21,
+          "media_count": 96,
+          "tweet_count": 16365
+        },
+        "username": "pkuSoulInfector",
+        "verified": true
+      },
+      {
+        "created_at": "2016-10-10T15:28:15.000Z",
+        "description": "高华 | 2min | 女朋友: @umi_hush | LGBTurtle🐢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "umi_hush"
+              }
+            ]
+          }
+        },
+        "id": "785502209714774016",
+        "location": "East China, MI",
+        "name": "Pan Duck Express🌲",
+        "pinned_tweet_id": "1933382342967767531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1615688961095249921/sLr6Cjm0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 198,
+          "like_count": 33091,
+          "listed_count": 4,
+          "media_count": 435,
+          "tweet_count": 6486
+        },
+        "username": "Estelladuck",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-28T13:04:57.000Z",
+        "description": "出生于幸福原生家庭的砖工，遭受过其父（身份保密）的极端溺爱。现在正努力完成自己的科研。YouTube：没有 接受网友提问（单价0BTC，文字回复解答）邮箱：dontboxme@pornhub.com",
+        "id": "1111252839538573314",
+        "location": "颐和园路5号",
+        "name": "Kiran",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799578649319837696/eITZUMg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 223,
+          "like_count": 660,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 3725
+        },
+        "username": "Kiran00218173",
+        "verified": false
+      }
+    ]
+  }
+}

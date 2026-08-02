@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1899416122056749056"
+      ],
+      "media_source_tweet_id": [
+        "1899416907419127888"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1899417177205493870",
+    "created_at": "2025-03-11T11:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T12:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899417177205493870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "792436286",
+          "start": 3,
+          "username": "umaiyo_puyoman"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lm2vyyjThV",
+          "end": 98,
+          "expanded_url": "https://x.com/umaiyo_puyoman/status/1899416907419127888/photo/1",
+          "media_key": "3_1899416122056749056",
+          "start": 75,
+          "url": "https://t.co/lm2vyyjThV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899417177205493870",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899416907419127888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @umaiyo_puyoman: 今更ですがC106申し込みしてます。もし受かればさくなちゃん本などの予定してます。よろしくお願いいたします。 https://t.co/lm2vyyjThV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1899417177205493870].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1899417177205493870",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1899417177205493870"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 903,
+        "media_key": "3_1899416122056749056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlwU5kPXsAAnvXh.jpg",
+        "width": 635
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899416122056749056"
+          ]
+        },
+        "author_id": "792436286",
+        "conversation_id": "1899416907419127888",
+        "created_at": "2025-03-11T11:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T12:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899416907419127888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lm2vyyjThV",
+              "end": 78,
+              "expanded_url": "https://x.com/umaiyo_puyoman/status/1899416907419127888/photo/1",
+              "media_key": "3_1899416122056749056",
+              "start": 55,
+              "url": "https://t.co/lm2vyyjThV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899416907419127888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 679,
+          "like_count": 157,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "今更ですがC106申し込みしてます。もし受かればさくなちゃん本などの予定してます。よろしくお願いいたします。 https://t.co/lm2vyyjThV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n（已成年19岁 | 陪聊/电子女友🚪288/520/1314 | 线下过门询价\n备注联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "我很可爱请给我钱",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1896786991225958700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5364,
+          "following_count": 123,
+          "like_count": 1488,
+          "listed_count": 9,
+          "media_count": 150,
+          "tweet_count": 785
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-30T21:26:22.000Z",
+        "description": "イラストレーター。ゲームラノベのお仕事等。 \n湊あくあﾁｬﾝ@minatoaqua 餅月ひまりﾁｬﾝ@HimariMochimoon \n鳳玲天々ﾁｬﾝ@hourei_1010 結城さくなﾁｬﾝ@yuki_sakuna\nのデザイン担当。FANBOX▶https://t.co/zSJINJTU12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "minatoaqua"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "HimariMochimoon"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "hourei_1010"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "yuki_sakuna"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gaou.fanbox.cc",
+                "end": 147,
+                "expanded_url": "http://gaou.fanbox.cc",
+                "start": 124,
+                "url": "https://t.co/zSJINJTU12"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=3569577",
+                "start": 0,
+                "url": "https://t.co/ExA3q6DJs9"
+              }
+            ]
+          }
+        },
+        "id": "792436286",
+        "location": "space.bilibili.com/535042721",
+        "name": "がおう⚓🌕🔆🎀🐾",
+        "pinned_tweet_id": "1554772202364420102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1245091799481253888/Jnx9jIXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558603,
+          "following_count": 4991,
+          "like_count": 16706,
+          "listed_count": 5696,
+          "media_count": 648,
+          "tweet_count": 32067
+        },
+        "url": "https://t.co/ExA3q6DJs9",
+        "username": "umaiyo_puyoman",
+        "verified": true
+      }
+    ]
+  }
+}

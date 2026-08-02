@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1867547691754172417"
+      ],
+      "media_source_tweet_id": [
+        "1867548258446586055"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1867565264306679914",
+    "created_at": "2024-12-13T13:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T14:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867565264306679914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1774410859491799041",
+          "start": 3,
+          "username": "kiwi_03096"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nNSGcg6Vp2",
+          "end": 39,
+          "expanded_url": "https://x.com/kiwi_03096/status/1867548258446586055/video/1",
+          "media_key": "7_1867547691754172417",
+          "start": 16,
+          "url": "https://t.co/nNSGcg6Vp2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867565264306679914",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867548258446586055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiwi_03096: https://t.co/nNSGcg6Vp2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13800,
+        "height": 1280,
+        "media_key": "7_1867547691754172417",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1867547691754172417/pu/img/NTTlcG_lj9FAq-Wp.jpg",
+        "public_metrics": {
+          "view_count": 31
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1867547691754172417/pu/vid/avc1/320x568/3ECbFHPnVrYrDmBx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1867547691754172417/pu/vid/avc1/480x852/Tiax3VEdn7r3F3zt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1867547691754172417/pu/vid/avc1/720x1280/TvvbLfNLnJPbVUUt.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1867547691754172417/pu/pl/AFhVnuSka4-c5Hwo.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1867547691754172417"
+          ],
+          "media_source_tweet_id": [
+            "1867548258446586055"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1867565264306679914",
+        "created_at": "2024-12-13T13:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T14:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867565264306679914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1774410859491799041",
+              "start": 3,
+              "username": "kiwi_03096"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nNSGcg6Vp2",
+              "end": 39,
+              "expanded_url": "https://x.com/kiwi_03096/status/1867548258446586055/video/1",
+              "media_key": "7_1867547691754172417",
+              "start": 16,
+              "url": "https://t.co/nNSGcg6Vp2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867565264306679914",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867548258446586055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiwi_03096: https://t.co/nNSGcg6Vp2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1867547691754172417"
+          ]
+        },
+        "author_id": "1774410859491799041",
+        "conversation_id": "1867548258446586055",
+        "created_at": "2024-12-13T12:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T13:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867548258446586055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nNSGcg6Vp2",
+              "end": 23,
+              "expanded_url": "https://x.com/kiwi_03096/status/1867548258446586055/video/1",
+              "media_key": "7_1867547691754172417",
+              "start": 0,
+              "url": "https://t.co/nNSGcg6Vp2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867548258446586055",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nNSGcg6Vp2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "ノンブレス・オブリージュ\n另一個我 @hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2151,
+          "following_count": 94,
+          "like_count": 997,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 604
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T12:18:22.000Z",
+        "description": "谢谢你们关注我，",
+        "id": "1774410859491799041",
+        "location": "天堂",
+        "name": "kiwi_0309",
+        "pinned_tweet_id": "1803824052672618657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865993487218573313/NKtTIo2d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 323,
+          "like_count": 2772,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 1109
+        },
+        "username": "kiwi_03096",
+        "verified": false
+      }
+    ]
+  }
+}

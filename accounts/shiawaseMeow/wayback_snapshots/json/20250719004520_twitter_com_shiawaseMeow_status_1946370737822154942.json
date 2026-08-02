@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1944367197285199917",
+    "created_at": "2025-07-19T00:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T01:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946370737822154942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1871451814471806976",
+          "start": 0,
+          "username": "attention88888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946370737822154942",
+    "in_reply_to_user_id": "1871451814471806976",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946292545929015489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@attention88888 1G😤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1944367197285199917",
+        "created_at": "2025-07-19T00:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T01:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946370737822154942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1871451814471806976",
+              "start": 0,
+              "username": "attention88888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946370737822154942",
+        "in_reply_to_user_id": "1871451814471806976",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946292545929015489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@attention88888 1G😤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871451814471806976",
+        "conversation_id": "1944367197285199917",
+        "created_at": "2025-07-18T19:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T20:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946292545929015489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946292545929015489",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944367197285199917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 法爷来点吃喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  ",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1927769315874402419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14865,
+          "following_count": 147,
+          "like_count": 1969,
+          "listed_count": 31,
+          "media_count": 279,
+          "tweet_count": 1221
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T07:04:28.000Z",
+        "description": "没有内核的空壳",
+        "id": "1871451814471806976",
+        "name": "attention",
+        "pinned_tweet_id": "1871516657375707212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871452689563009024/iiZEwo4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 463,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 424
+        },
+        "username": "attention88888",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1925113804788318271",
+    "created_at": "2025-05-22T15:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T16:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925581825562620412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "433821385",
+          "start": 0,
+          "username": "bakaheiye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925581825562620412",
+    "in_reply_to_user_id": "433821385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925576908668117364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bakaheiye 要是能联网联机就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1925113804788318271",
+        "created_at": "2025-05-22T15:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T16:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925581825562620412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "433821385",
+              "start": 0,
+              "username": "bakaheiye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925581825562620412",
+        "in_reply_to_user_id": "433821385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925576908668117364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bakaheiye 要是能联网联机就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "433821385",
+        "conversation_id": "1925113804788318271",
+        "created_at": "2025-05-22T15:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T16:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925576908668117364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925576908668117364",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925113804788318271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 我玩到集四朋友跑路了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11333,
+          "following_count": 141,
+          "like_count": 1799,
+          "listed_count": 21,
+          "media_count": 229,
+          "tweet_count": 1029
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-11T02:19:37.000Z",
+        "description": "nothing",
+        "id": "433821385",
+        "name": "bakaheiye",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1075514534561964032/c7PibCVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 837,
+          "like_count": 575,
+          "listed_count": 17,
+          "media_count": 6,
+          "tweet_count": 342
+        },
+        "username": "bakaheiye",
+        "verified": false
+      }
+    ]
+  }
+}

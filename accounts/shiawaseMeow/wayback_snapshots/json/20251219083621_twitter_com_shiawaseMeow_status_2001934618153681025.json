@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2001934555138478081"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "2001934618153681025",
+    "created_at": "2025-12-19T08:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T09:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001934618153681025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WOk4ULS4fh",
+          "end": 30,
+          "expanded_url": "https://x.com/shiawaseMeow/status/2001934618153681025/video/1",
+          "media_key": "13_2001934555138478081",
+          "start": 7,
+          "url": "https://t.co/WOk4ULS4fh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001934618153681025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就这样出门吧 https://t.co/WOk4ULS4fh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4166,
+        "height": 1280,
+        "media_key": "13_2001934555138478081",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001934555138478081/img/RXzEgE62sZfuiMcE.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001934555138478081/vid/avc1/320x568/-GJ7gKCUI2KqKKYi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001934555138478081/vid/avc1/480x852/SiC6LR0R5aOnL-qi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001934555138478081/vid/avc1/720x1280/_Bj2ihuL90Sx9KLC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001934555138478081/pl/B2v-Hvu3JDue2P8z.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001934555138478081"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "2001934618153681025",
+        "created_at": "2025-12-19T08:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T09:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001934618153681025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WOk4ULS4fh",
+              "end": 30,
+              "expanded_url": "https://x.com/shiawaseMeow/status/2001934618153681025/video/1",
+              "media_key": "13_2001934555138478081",
+              "start": 7,
+              "url": "https://t.co/WOk4ULS4fh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001934618153681025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就这样出门吧 https://t.co/WOk4ULS4fh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1958534397021565120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15467,
+          "following_count": 146,
+          "like_count": 1975,
+          "listed_count": 31,
+          "media_count": 315,
+          "tweet_count": 1374
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924068340579893248"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1924068350017343949",
+    "created_at": "2025-05-18T11:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T12:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924068350017343949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IdDeZ94I0y",
+          "end": 28,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1924068350017343949/photo/1",
+          "media_key": "3_1924068340579893248",
+          "start": 5,
+          "url": "https://t.co/IdDeZ94I0y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924068350017343949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好闪好闪 https://t.co/IdDeZ94I0y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1924068340579893248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrOp9ivXAAAzGGC.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924068340579893248"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1924068350017343949",
+        "created_at": "2025-05-18T11:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T12:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924068350017343949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IdDeZ94I0y",
+              "end": 28,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1924068350017343949/photo/1",
+              "media_key": "3_1924068340579893248",
+              "start": 5,
+              "url": "https://t.co/IdDeZ94I0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924068350017343949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好闪好闪 https://t.co/IdDeZ94I0y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11265,
+          "following_count": 142,
+          "like_count": 1784,
+          "listed_count": 21,
+          "media_count": 238,
+          "tweet_count": 1045
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1862003320329826697",
+    "created_at": "2024-11-28T05:19:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T06:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1862003320329826697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lliz3o3/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/lliz3o3/status/1861998945825874292",
+          "start": 14,
+          "url": "https://t.co/nedDdqR1wO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862003320329826697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861998945825874292",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看到自己长这个逼样好想跳楼 https://t.co/nedDdqR1wO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1862003320329826697",
+        "created_at": "2024-11-28T05:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T06:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862003320329826697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lliz3o3/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/lliz3o3/status/1861998945825874292",
+              "start": 14,
+              "url": "https://t.co/nedDdqR1wO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862003320329826697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861998945825874292",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到自己长这个逼样好想跳楼 https://t.co/nedDdqR1wO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604107401354809344",
+        "conversation_id": "1861998945825874292",
+        "created_at": "2024-11-28T05:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T06:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861998945825874292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tailmating/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/tailmating/status/1861812116765942091",
+              "start": 14,
+              "url": "https://t.co/NoYv35GCsI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861998945825874292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861812116765942091",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到自己长这个逼样好想跳楼 https://t.co/NoYv35GCsI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "フラッシュバック · 蝉の声 · 二度とは帰らぬ君。",
+        "id": "2603784802",
+        "location": "我很可爱 请给我钱",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 93,
+          "like_count": 896,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 569
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T13:33:18.000Z",
+        "description": "你又来看我了嘛(՞ o̴̶̷̤ ̫ o̴̶̷̤ ՞) 🥰提问箱https://t.co/G2TXorTfeQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lliz3o3",
+                "end": 54,
+                "expanded_url": "https://ngl.link/lliz3o3",
+                "start": 31,
+                "url": "https://t.co/G2TXorTfeQ"
+              }
+            ]
+          }
+        },
+        "id": "1604107401354809344",
+        "location": "5.2km ",
+        "name": "死屍 ᓚᘏᗢ",
+        "pinned_tweet_id": "1826491814867861898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753573665256734720/Qn8kNY5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 57,
+          "like_count": 4605,
+          "listed_count": 4,
+          "media_count": 92,
+          "tweet_count": 969
+        },
+        "username": "lliz3o3",
+        "verified": false
+      }
+    ]
+  }
+}

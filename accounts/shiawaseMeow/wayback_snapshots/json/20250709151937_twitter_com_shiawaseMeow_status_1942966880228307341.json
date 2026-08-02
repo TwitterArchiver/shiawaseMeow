@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1942899508129710516",
+    "created_at": "2025-07-09T15:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T16:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942966880228307341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1347773306922000384",
+          "start": 0,
+          "username": "NerveCulture"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942966880228307341",
+    "in_reply_to_user_id": "1347773306922000384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942954525809099172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NerveCulture 😂很好笑的问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1942899508129710516",
+        "created_at": "2025-07-09T15:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T16:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942966880228307341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1347773306922000384",
+              "start": 0,
+              "username": "NerveCulture"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942966880228307341",
+        "in_reply_to_user_id": "1347773306922000384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942954525809099172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NerveCulture 😂很好笑的问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1347773306922000384",
+        "conversation_id": "1942899508129710516",
+        "created_at": "2025-07-09T14:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T15:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942954525809099172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942954525809099172",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942899508129710516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow with so many of you around, how can we be sure you're the real one"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  ",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1927769315874402419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14601,
+          "following_count": 146,
+          "like_count": 1944,
+          "listed_count": 29,
+          "media_count": 273,
+          "tweet_count": 1186
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-09T05:13:21.000Z",
+        "description": "I love my cats, and you should too.\nhttps://t.co/I3qYTPXybi\nhttps://t.co/SAvEoMJMeU\nhttps://t.co/VHkL7EY7gA\nhttps://t.co/SJmrmfpyAm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.com/nerveculture",
+                "end": 59,
+                "expanded_url": "http://twitch.com/nerveculture",
+                "start": 36,
+                "url": "https://t.co/I3qYTPXybi"
+              },
+              {
+                "display_url": "youtube.com/@nerveculture",
+                "end": 83,
+                "expanded_url": "https://youtube.com/@nerveculture",
+                "start": 60,
+                "url": "https://t.co/SAvEoMJMeU"
+              },
+              {
+                "display_url": "nerveculture.com",
+                "end": 107,
+                "expanded_url": "http://nerveculture.com",
+                "start": 84,
+                "url": "https://t.co/VHkL7EY7gA"
+              },
+              {
+                "display_url": "discord.gg/d9j8jwvQqF",
+                "end": 131,
+                "expanded_url": "https://discord.gg/d9j8jwvQqF",
+                "start": 108,
+                "url": "https://t.co/SJmrmfpyAm"
+              }
+            ]
+          }
+        },
+        "id": "1347773306922000384",
+        "name": "Nerveculture",
+        "pinned_tweet_id": "1879374452938727867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762608988456194049/9LKcAbYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 3358,
+          "like_count": 11766,
+          "listed_count": 0,
+          "media_count": 377,
+          "tweet_count": 490
+        },
+        "username": "NerveCulture",
+        "verified": false
+      }
+    ]
+  }
+}

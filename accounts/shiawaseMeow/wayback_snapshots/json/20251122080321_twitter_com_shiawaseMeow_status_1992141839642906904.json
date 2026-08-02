@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Behavior around beauty",
+          "id": "1006275796472815619",
+          "name": "Behavior around beauty"
+        }
+      }
+    ],
+    "conversation_id": "1992128462208061829",
+    "created_at": "2025-11-22T08:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T09:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992141839642906904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1347773306922000384",
+          "start": 0,
+          "username": "NerveCulture"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992141839642906904",
+    "in_reply_to_user_id": "1347773306922000384",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992133790429495396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NerveCulture It seems like most guys prefer it when their girlfriends don't wear makeup～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Behavior around beauty",
+              "id": "1006275796472815619",
+              "name": "Behavior around beauty"
+            }
+          }
+        ],
+        "conversation_id": "1992128462208061829",
+        "created_at": "2025-11-22T08:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T09:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992141839642906904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1347773306922000384",
+              "start": 0,
+              "username": "NerveCulture"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992141839642906904",
+        "in_reply_to_user_id": "1347773306922000384",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992133790429495396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NerveCulture It seems like most guys prefer it when their girlfriends don't wear makeup～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1347773306922000384",
+        "conversation_id": "1992128462208061829",
+        "created_at": "2025-11-22T07:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T08:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992133790429495396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992133790429495396",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992128462208061829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow I bumped into an ex in public, but I'd never seen her with makeup. I remember thinking wow, she looks just like her.   I thought there's no way it's the same person, but she was. she looked better without the makeup. (i didn't tell her that of course.)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1958534397021565120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15686,
+          "following_count": 149,
+          "like_count": 1940,
+          "listed_count": 32,
+          "media_count": 313,
+          "tweet_count": 1360
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-09T05:13:21.000Z",
+        "description": "I love my cats, and you should too.\nhttps://t.co/I3qYTPXybi\nhttps://t.co/SAvEoMJMeU\nhttps://t.co/VHkL7EY7gA\nhttps://t.co/SJmrmfpyAm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.com/nerveculture",
+                "end": 59,
+                "expanded_url": "http://twitch.com/nerveculture",
+                "start": 36,
+                "url": "https://t.co/I3qYTPXybi"
+              },
+              {
+                "display_url": "youtube.com/@nerveculture",
+                "end": 83,
+                "expanded_url": "https://youtube.com/@nerveculture",
+                "start": 60,
+                "url": "https://t.co/SAvEoMJMeU"
+              },
+              {
+                "display_url": "nerveculture.com",
+                "end": 107,
+                "expanded_url": "http://nerveculture.com",
+                "start": 84,
+                "url": "https://t.co/VHkL7EY7gA"
+              },
+              {
+                "display_url": "discord.gg/d9j8jwvQqF",
+                "end": 131,
+                "expanded_url": "https://discord.gg/d9j8jwvQqF",
+                "start": 108,
+                "url": "https://t.co/SJmrmfpyAm"
+              }
+            ]
+          }
+        },
+        "id": "1347773306922000384",
+        "name": "Nerveculture",
+        "pinned_tweet_id": "1879374452938727867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762608988456194049/9LKcAbYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 3,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 408,
+          "tweet_count": 715
+        },
+        "username": "NerveCulture",
+        "verified": false
+      }
+    ]
+  }
+}

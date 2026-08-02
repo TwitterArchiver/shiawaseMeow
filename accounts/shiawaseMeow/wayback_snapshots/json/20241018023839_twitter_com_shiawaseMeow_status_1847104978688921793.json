@@ -1,0 +1,92 @@
+{
+  "data": {
+    "author_id": "2603784802",
+    "conversation_id": "1847103136819015969",
+    "created_at": "2024-10-18T02:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-18T03:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847104978688921793"
+    ],
+    "id": "1847104978688921793",
+    "in_reply_to_user_id": "2603784802",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1334,
+      "like_count": 9,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847103136819015969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有草莓味道的绝对伏特加特别好喝！两个人才喝到一半就上头了，决定以后把o趴换成酒趴，因为去医院医生说我肝不好，我感觉我的肝和肾都要坏掉了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "2603784802",
+        "conversation_id": "1847103136819015969",
+        "created_at": "2024-10-18T02:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T03:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847104978688921793"
+        ],
+        "id": "1847104978688921793",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1334,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847103136819015969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有草莓味道的绝对伏特加特别好喝！两个人才喝到一半就上头了，决定以后把o趴换成酒趴，因为去医院医生说我肝不好，我感觉我的肝和肾都要坏掉了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "フラッシュバック · 蝉の声 · 二度とは帰らぬ君。",
+        "id": "2603784802",
+        "location": "我很可爱 请给我钱",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1613,
+          "following_count": 93,
+          "like_count": 878,
+          "listed_count": 1,
+          "tweet_count": 557
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

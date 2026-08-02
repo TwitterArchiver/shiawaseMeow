@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1929798333738242396",
+    "created_at": "2025-06-04T08:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T09:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930172958531825893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1580755595363323904",
+          "start": 0,
+          "username": "yiqunshabinsl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930172958531825893",
+    "in_reply_to_user_id": "1580755595363323904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929798333738242396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiqunshabinsl 天呐，我就是这种婊子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1929798333738242396",
+        "created_at": "2025-06-04T08:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T09:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930172958531825893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1580755595363323904",
+              "start": 0,
+              "username": "yiqunshabinsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930172958531825893",
+        "in_reply_to_user_id": "1580755595363323904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929798333738242396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiqunshabinsl 天呐，我就是这种婊子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580755595363323904",
+        "conversation_id": "1929798333738242396",
+        "created_at": "2025-06-03T07:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T08:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929798333738242396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929798333738242396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 52811,
+          "like_count": 324,
+          "quote_count": 6,
+          "reply_count": 54,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "说门槛不是🐔的我反驳，收门槛不是🐔是啥，一些发什么多少钱后面加个纯绿，照片发一些擦边球一些渴望被爱言论，不就是不甘心想傍个大款么，可惜大款看不上你们。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿陪聊 不约不线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12969,
+          "following_count": 140,
+          "like_count": 1841,
+          "listed_count": 26,
+          "media_count": 250,
+          "tweet_count": 1089
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T03:01:40.000Z",
+        "description": "普女也有春天 主人：@FeixingS18315",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "FeixingS18315"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz2.281968.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz2.281968.xyz/#/register?code=RTdK46xp",
+                "start": 0,
+                "url": "https://t.co/vCVHZUWx6U"
+              }
+            ]
+          }
+        },
+        "id": "1580755595363323904",
+        "location": "🚪520/1314🉑Usdt PayPal  自用VPN",
+        "name": "圆圆酱",
+        "pinned_tweet_id": "1925905463859708297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873649711128973312/6cEIaf_Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53755,
+          "following_count": 222,
+          "like_count": 26282,
+          "listed_count": 105,
+          "media_count": 550,
+          "tweet_count": 13188
+        },
+        "url": "https://t.co/vCVHZUWx6U",
+        "username": "yiqunshabinsl",
+        "verified": false
+      }
+    ]
+  }
+}

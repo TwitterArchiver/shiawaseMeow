@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1940736087686894085",
+    "created_at": "2025-07-03T11:46:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T12:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940738946021183896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647232207596179456",
+          "start": 0,
+          "username": "anjiuqianliang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940738946021183896",
+    "in_reply_to_user_id": "1647232207596179456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940738441920369006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anjiuqianliang 对不起orz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1940736087686894085",
+        "created_at": "2025-07-03T11:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T12:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940738946021183896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647232207596179456",
+              "start": 0,
+              "username": "anjiuqianliang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940738946021183896",
+        "in_reply_to_user_id": "1647232207596179456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940738441920369006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anjiuqianliang 对不起orz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647232207596179456",
+        "conversation_id": "1940736087686894085",
+        "created_at": "2025-07-03T11:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T12:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940738441920369006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940738441920369006",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940736087686894085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 宝宝下次别拍这么危险的好吗。我看照片都害怕。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "武汉🚪188/288/520/1314  ",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1927769315874402419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13613,
+          "following_count": 144,
+          "like_count": 1929,
+          "listed_count": 29,
+          "media_count": 266,
+          "tweet_count": 1167
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T13:35:47.000Z",
+        "description": "清水/日常/唱见/永远女高/日删博主/盗我歌和图的替我挡灾\n喜欢cos和音乐 \n会分享日常照 偶尔会发翻唱的歌 \n🚪门槛52/120/190 投喂520有小惊喜❤️\n口令红包或者赞赏码都可以 \n福利大概是24h陪聊➕听完整版翻唱\n欢迎口令红包投喂 求你了 只要投喂我 我什么都会做的",
+        "id": "1647232207596179456",
+        "location": "在你的心里",
+        "name": "若梦千璃",
+        "pinned_tweet_id": "1920339189750546655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871890125803986944/quVWnUZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9134,
+          "following_count": 1030,
+          "like_count": 5422,
+          "listed_count": 19,
+          "media_count": 44,
+          "tweet_count": 18710
+        },
+        "username": "anjiuqianliang",
+        "verified": false
+      }
+    ]
+  }
+}

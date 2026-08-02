@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1888907131627388967",
+    "created_at": "2025-02-10T11:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T12:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888907131627388967"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1888907131627388967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "非要我发裸照腿照才有人看我吗QAQ这个号太烂了 我以前都是十几万流量的我想哭好想死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1888907131627388967",
+        "created_at": "2025-02-10T11:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T12:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888907131627388967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888907131627388967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非要我发裸照腿照才有人看我吗QAQ这个号太烂了 我以前都是十几万流量的我想哭好想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "4.0何も無いんだ\n备用@hiyorinnosekai（这个暂时登不上了\n（已成年20岁\n私信只回口令不闲聊  不要私信我互fo转了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "纯绿🚪288/520/1314",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1876979351096361050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3945,
+          "following_count": 113,
+          "like_count": 1371,
+          "listed_count": 5,
+          "media_count": 145,
+          "tweet_count": 758
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

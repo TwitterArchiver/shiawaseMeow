@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1878015248760009155",
+    "created_at": "2025-01-11T09:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T10:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1878015248760009155"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1878015248760009155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的家庭关系就是无法解开也不能剪断的一团打结的麻绳，唯一的办法就是谁去死😹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1878015248760009155",
+        "created_at": "2025-01-11T09:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T10:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878015248760009155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1878015248760009155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的家庭关系就是无法解开也不能剪断的一团打结的麻绳，唯一的办法就是谁去死😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "何も無いんだ\n@hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪288/520/1314",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1876979351096361050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2674,
+          "following_count": 103,
+          "like_count": 1170,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 713
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

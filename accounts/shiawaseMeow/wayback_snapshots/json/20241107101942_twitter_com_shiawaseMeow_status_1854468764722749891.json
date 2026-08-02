@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1854209704546947499",
+    "created_at": "2024-11-07T10:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T11:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854468764722749891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1547158970019840001",
+          "start": 0,
+          "username": "Pierrotlefouu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854468764722749891",
+    "in_reply_to_user_id": "1547158970019840001",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854209704546947499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pierrotlefouu_ 求解答。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1854209704546947499",
+        "created_at": "2024-11-07T10:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T11:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854468764722749891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1547158970019840001",
+              "start": 0,
+              "username": "Pierrotlefouu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854468764722749891",
+        "in_reply_to_user_id": "1547158970019840001",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854209704546947499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pierrotlefouu_ 求解答。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547158970019840001",
+        "conversation_id": "1854209704546947499",
+        "created_at": "2024-11-06T17:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T18:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854209704546947499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854209704546947499",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5147,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我每次说完“就这样吧”之类的逼话，对方都会当真，然后真的就这样了，然后，真的就这样了，不会再发来一个字的，这件事对我打击很大，但我不知道该怎么调理，友友，其实我很恶心这种露阴癖式倾诉的，但我没办法了，再不外化一下就真的控制不住了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "能不能也对我留点爱",
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 87,
+          "like_count": 516,
+          "listed_count": 0,
+          "tweet_count": 465
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T10:00:29.000Z",
+        "description": "老派刺客",
+        "id": "1547158970019840001",
+        "name": "我們時代的愛無能",
+        "pinned_tweet_id": "1797631830663053389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839284707206520832/TuWDJxbn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 304,
+          "like_count": 8277,
+          "listed_count": 3,
+          "tweet_count": 527
+        },
+        "username": "Pierrotlefouu_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1821942791922201034",
+    "created_at": "2024-08-09T16:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T17:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1821942791922201034"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1821942791922201034",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊啊啊我的大号刚刚突然提示验证邮箱，验证之后关注列表就没了！但是点进去呢能够看到都还在，这是咋回事呀我哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1821942791922201034",
+        "created_at": "2024-08-09T16:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T17:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821942791922201034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1821942791922201034",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊我的大号刚刚突然提示验证邮箱，验证之后关注列表就没了！但是点进去呢能够看到都还在，这是咋回事呀我哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "我在这里碎碎念\n大号在此@Hiyorin1110",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Hiyorin1110"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "迷う",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821584807685701634/cDyN-RRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 13,
+          "like_count": 20,
+          "listed_count": 0,
+          "tweet_count": 18
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

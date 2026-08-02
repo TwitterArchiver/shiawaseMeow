@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2042914914529144832"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "2042915410320994652",
+    "created_at": "2026-04-11T10:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042915410320994652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NPiyu5ycFV",
+          "end": 30,
+          "expanded_url": "https://x.com/shiawaseMeow/status/2042915410320994652/video/1",
+          "media_key": "13_2042914914529144832",
+          "start": 7,
+          "url": "https://t.co/NPiyu5ycFV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042915410320994652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "粗来吃饭了呀 https://t.co/NPiyu5ycFV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6800,
+        "height": 3840,
+        "media_key": "13_2042914914529144832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042914914529144832/img/vl3X2JJXwv-HcBHl.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042914914529144832/vid/avc1/320x568/IkQRvqLEvsPZ96yX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042914914529144832/vid/avc1/480x852/wiOiiI9-XLXWnCKF.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042914914529144832/vid/avc1/720x1280/yqElSdBqVbT2mba5.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042914914529144832/pl/MdoFQZ4FffUleX6d.m3u8?tag=14"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042914914529144832"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "2042915410320994652",
+        "created_at": "2026-04-11T10:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042915410320994652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NPiyu5ycFV",
+              "end": 30,
+              "expanded_url": "https://x.com/shiawaseMeow/status/2042915410320994652/video/1",
+              "media_key": "13_2042914914529144832",
+              "start": 7,
+              "url": "https://t.co/NPiyu5ycFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042915410320994652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "粗来吃饭了呀 https://t.co/NPiyu5ycFV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫永远19岁",
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位只要88感谢投喂",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15231,
+          "following_count": 159,
+          "like_count": 2077,
+          "listed_count": 29,
+          "media_count": 352,
+          "tweet_count": 1489
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

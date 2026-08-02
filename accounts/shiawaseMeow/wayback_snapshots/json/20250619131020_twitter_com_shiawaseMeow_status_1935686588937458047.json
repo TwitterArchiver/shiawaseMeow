@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1935668204325806184",
+    "created_at": "2025-06-19T13:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T14:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935686588937458047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1347773306922000384",
+          "start": 0,
+          "username": "NerveCulture"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935686588937458047",
+    "in_reply_to_user_id": "1347773306922000384",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935673466142994571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NerveCulture No unfamiliar beautiful girl will provide free contact information and emotional value😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1935668204325806184",
+        "created_at": "2025-06-19T13:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T14:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935686588937458047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1347773306922000384",
+              "start": 0,
+              "username": "NerveCulture"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935686588937458047",
+        "in_reply_to_user_id": "1347773306922000384",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935673466142994571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NerveCulture No unfamiliar beautiful girl will provide free contact information and emotional value😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1347773306922000384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1935668204325806184",
+        "created_at": "2025-06-19T12:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T13:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935673466142994571"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 113,
+              "normalized_text": "jigalo",
+              "probability": 0.5355,
+              "start": 108,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935673466142994571",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935668204325806184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow is that how it's done these days, just post an ad online? Imma try that. aimless 20-something jigalo seeking sugar mommy. I can cook and have two cats. now taking applications."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1927769315874402419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13491,
+          "following_count": 143,
+          "like_count": 1905,
+          "listed_count": 29,
+          "media_count": 258,
+          "tweet_count": 1139
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-09T05:13:21.000Z",
+        "description": "I love my cats, and you should too.\nhttps://t.co/I3qYTPXybi\nhttps://t.co/SAvEoMJMeU\nhttps://t.co/VHkL7EY7gA\nhttps://t.co/SJmrmfpyAm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.com/nerveculture",
+                "end": 59,
+                "expanded_url": "http://twitch.com/nerveculture",
+                "start": 36,
+                "url": "https://t.co/I3qYTPXybi"
+              },
+              {
+                "display_url": "youtube.com/@nerveculture",
+                "end": 83,
+                "expanded_url": "https://youtube.com/@nerveculture",
+                "start": 60,
+                "url": "https://t.co/SAvEoMJMeU"
+              },
+              {
+                "display_url": "nerveculture.com",
+                "end": 107,
+                "expanded_url": "http://nerveculture.com",
+                "start": 84,
+                "url": "https://t.co/VHkL7EY7gA"
+              },
+              {
+                "display_url": "discord.gg/d9j8jwvQqF",
+                "end": 131,
+                "expanded_url": "https://discord.gg/d9j8jwvQqF",
+                "start": 108,
+                "url": "https://t.co/SJmrmfpyAm"
+              }
+            ]
+          }
+        },
+        "id": "1347773306922000384",
+        "name": "Nerveculture",
+        "pinned_tweet_id": "1879374452938727867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762608988456194049/9LKcAbYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 2896,
+          "like_count": 9470,
+          "listed_count": 0,
+          "media_count": 360,
+          "tweet_count": 443
+        },
+        "username": "NerveCulture",
+        "verified": false
+      }
+    ]
+  }
+}

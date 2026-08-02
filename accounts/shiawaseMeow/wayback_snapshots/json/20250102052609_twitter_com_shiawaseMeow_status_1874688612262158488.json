@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1874633625935003892",
+    "created_at": "2025-01-02T05:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T06:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874688612262158488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1870685245475004416",
+          "start": 0,
+          "username": "E8LINhFK7227230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874688612262158488",
+    "in_reply_to_user_id": "1870685245475004416",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874633625935003892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@E8LINhFK7227230 666"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1874633625935003892].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1874633625935003892",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1874633625935003892"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1874633625935003892",
+        "created_at": "2025-01-02T05:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T06:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874688612262158488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870685245475004416",
+              "start": 0,
+              "username": "E8LINhFK7227230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874688612262158488",
+        "in_reply_to_user_id": "1870685245475004416",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874633625935003892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@E8LINhFK7227230 666"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "私は眠りに\n@hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪288/520/1314",
+        "name": "hiyorin🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2428,
+          "following_count": 98,
+          "like_count": 1111,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 684
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T04:18:18.000Z",
+        "description": "",
+        "id": "1870685245475004416",
+        "name": "汐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873137912361172993/e9ouFrb1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 223,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 22
+        },
+        "username": "E8LINhFK7227230",
+        "verified": false
+      }
+    ]
+  }
+}

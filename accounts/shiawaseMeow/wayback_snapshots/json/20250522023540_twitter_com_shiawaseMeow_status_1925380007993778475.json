@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1925132838992798013",
+    "created_at": "2025-05-22T02:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T03:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925380007993778475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596489618429562882",
+          "start": 0,
+          "username": "plzjustluvmeqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925380007993778475",
+    "in_reply_to_user_id": "1596489618429562882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925132838992798013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plzjustluvmeqwq 我被萌死了怎么补偿我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925132835528261632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrdyHTcaQAAtzQU.jpg",
+        "width": 1553
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1925132838992798013",
+        "created_at": "2025-05-22T02:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T03:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925380007993778475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596489618429562882",
+              "start": 0,
+              "username": "plzjustluvmeqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925380007993778475",
+        "in_reply_to_user_id": "1596489618429562882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925132838992798013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plzjustluvmeqwq 我被萌死了怎么补偿我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925132835528261632"
+          ]
+        },
+        "author_id": "1596489618429562882",
+        "conversation_id": "1925132838992798013",
+        "created_at": "2025-05-21T10:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T11:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925132838992798013"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 10,
+              "tag": "加工厨と繋がりたい"
+            },
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "地雷系女子"
+            },
+            {
+              "end": 50,
+              "start": 39,
+              "tag": "雰囲気好きな人いいね"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 61,
+              "start": 56,
+              "tag": "地雷女子"
+            },
+            {
+              "end": 68,
+              "start": 62,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 75,
+              "start": 69,
+              "tag": "自撮り加工"
+            },
+            {
+              "end": 82,
+              "start": 76,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 90,
+              "start": 83,
+              "tag": "メンヘラ女子"
+            },
+            {
+              "end": 97,
+              "start": 91,
+              "tag": "自撮り女子"
+            },
+            {
+              "end": 109,
+              "start": 98,
+              "tag": "美男美女と繋がりたい"
+            },
+            {
+              "end": 119,
+              "start": 110,
+              "tag": "jiraikei"
+            },
+            {
+              "end": 132,
+              "start": 120,
+              "tag": "secrethoney"
+            },
+            {
+              "end": 139,
+              "start": 133,
+              "tag": "fypシ゚"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zOtLgzRoiA",
+              "end": 163,
+              "expanded_url": "https://x.com/plzjustluvmeqwq/status/1925132838992798013/photo/1",
+              "media_key": "3_1925132835528261632",
+              "start": 140,
+              "url": "https://t.co/zOtLgzRoiA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925132838992798013",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 518,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟姐妹们我萌不萌\n#加工厨と繋がりたい #地雷系と繋がりたい #地雷系女子 #雰囲気好きな人いいね #雰囲気 #地雷女子 #自撮り界隈 #自撮り加工 #病み垢女子 #メンヘラ女子 #自撮り女子 #美男美女と繋がりたい #jiraikei #secrethoney #fypシ゚ https://t.co/zOtLgzRoiA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11324,
+          "following_count": 140,
+          "like_count": 1794,
+          "listed_count": 21,
+          "media_count": 228,
+          "tweet_count": 1024
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T13:03:22.000Z",
+        "description": "唉",
+        "id": "1596489618429562882",
+        "name": "Lollipop",
+        "pinned_tweet_id": "1918495745256325232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924529798975782915/eBUu8TKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2848,
+          "following_count": 209,
+          "like_count": 7197,
+          "listed_count": 5,
+          "media_count": 328,
+          "tweet_count": 3011
+        },
+        "username": "plzjustluvmeqwq",
+        "verified": false
+      }
+    ]
+  }
+}

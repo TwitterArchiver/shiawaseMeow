@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1925957589235327397",
+    "created_at": "2025-05-28T00:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T01:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927527372007309610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1643214755547725831",
+          "start": 0,
+          "username": "travs486"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927527372007309610",
+    "in_reply_to_user_id": "1643214755547725831",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926508505638346955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@travs486 该升防具了捏麻麻滴笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29633,
+        "height": 720,
+        "media_key": "13_1926508417251745792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1926508417251745792/img/DMEK3MEtq2dU2QDJ.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926508417251745792/vid/avc1/480x270/aH0Kn2J2Z4BuB_Lm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926508417251745792/vid/avc1/640x360/kdL-4OsAtQKGyxXJ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926508417251745792/vid/avc1/1280x720/wsYTP5Kn_hDkxLN6.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1926508417251745792/pl/o5Z27D8HtftuN0Tw.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1925957589235327397",
+        "created_at": "2025-05-28T00:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T01:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927527372007309610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643214755547725831",
+              "start": 0,
+              "username": "travs486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927527372007309610",
+        "in_reply_to_user_id": "1643214755547725831",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926508505638346955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@travs486 该升防具了捏麻麻滴笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1926508417251745792"
+          ]
+        },
+        "author_id": "1643214755547725831",
+        "conversation_id": "1925957589235327397",
+        "created_at": "2025-05-25T05:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T06:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926508505638346955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IgFleH186P",
+              "end": 44,
+              "expanded_url": "https://x.com/travs486/status/1926508505638346955/video/1",
+              "media_key": "13_1926508417251745792",
+              "start": 21,
+              "url": "https://t.co/IgFleH186P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926508505638346955",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925957589235327397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 一秒都不用剪 https://t.co/IgFleH186P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11359,
+          "following_count": 140,
+          "like_count": 1807,
+          "listed_count": 21,
+          "media_count": 233,
+          "tweet_count": 1044
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-04T11:32:01.000Z",
+        "description": "",
+        "id": "1643214755547725831",
+        "name": "Trav486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666269781241253888/bfYZFhjs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 666,
+          "like_count": 3284,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "travs486",
+        "verified": false
+      }
+    ]
+  }
+}

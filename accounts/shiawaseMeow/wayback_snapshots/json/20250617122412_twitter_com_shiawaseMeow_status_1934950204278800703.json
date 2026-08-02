@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934950191280590848"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1934950204278800703",
+    "created_at": "2025-06-17T12:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T13:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934950204278800703"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q3IEyxgx0k",
+          "end": 145,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1934950204278800703/photo/1",
+          "media_key": "3_1934950191280590848",
+          "start": 122,
+          "url": "https://t.co/Q3IEyxgx0k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934950204278800703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没有门哥帮助姬和酱的话我可能无法继续生活了(ó﹏ò｡)\n我已经做了一年门槛妹了,几乎每一个门哥都对我特别好，也会安慰我和我分享日常，我真的好感激，感觉就像交到了很多关心我的朋友一样🥹🥹\n我爱你们😭😭😭，因为有你们的话，明天我也会继续好好活下去 https://t.co/Q3IEyxgx0k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1315,
+        "media_key": "3_1934950191280590848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtpS8nlakAAP4Z5.jpg",
+        "width": 1039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934950191280590848"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1934950204278800703",
+        "created_at": "2025-06-17T12:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T13:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934950204278800703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q3IEyxgx0k",
+              "end": 145,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1934950204278800703/photo/1",
+              "media_key": "3_1934950191280590848",
+              "start": 122,
+              "url": "https://t.co/Q3IEyxgx0k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934950204278800703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有门哥帮助姬和酱的话我可能无法继续生活了(ó﹏ò｡)\n我已经做了一年门槛妹了,几乎每一个门哥都对我特别好，也会安慰我和我分享日常，我真的好感激，感觉就像交到了很多关心我的朋友一样🥹🥹\n我爱你们😭😭😭，因为有你们的话，明天我也会继续好好活下去 https://t.co/Q3IEyxgx0k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13390,
+          "following_count": 143,
+          "like_count": 1891,
+          "listed_count": 29,
+          "media_count": 259,
+          "tweet_count": 1136
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

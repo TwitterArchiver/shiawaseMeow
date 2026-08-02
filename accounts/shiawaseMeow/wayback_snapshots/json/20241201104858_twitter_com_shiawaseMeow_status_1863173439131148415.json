@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1863172954609340784",
+    "created_at": "2024-12-01T10:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T11:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863173439131148415"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1863173439131148415",
+    "in_reply_to_user_id": "2603784802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863172954609340784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "反正我又不准备当老师这个死妈学校司马专业能不能早点滚蛋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1863172954609340784",
+        "created_at": "2024-12-01T10:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T11:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863173439131148415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1863173439131148415",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863172954609340784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反正我又不准备当老师这个死妈学校司马专业能不能早点滚蛋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1863172954609340784",
+        "created_at": "2024-12-01T10:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T11:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863172954609340784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1863172954609340784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么总爱临时通知？大学生没课就没有自己的事情吗难道现在才知道明天要去初中见习吗，你怎么不通知我临时去给你全家奔丧🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "ノンブレス・オブリージュ",
+        "id": "2603784802",
+        "location": "🚪288/520/1314",
+        "name": "hiyorin🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1996,
+          "following_count": 96,
+          "like_count": 917,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 546
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

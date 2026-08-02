@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958534376897363968",
+        "3_1958534376926711808"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1958534397021565120",
+    "created_at": "2025-08-21T14:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T15:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958534397021565120"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AzYiMGY3Sq",
+          "end": 96,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1958534397021565120/photo/1",
+          "media_key": "3_1958534376897363968",
+          "start": 73,
+          "url": "https://t.co/AzYiMGY3Sq"
+        },
+        {
+          "display_url": "pic.x.com/AzYiMGY3Sq",
+          "end": 96,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1958534397021565120/photo/1",
+          "media_key": "3_1958534376926711808",
+          "start": 73,
+          "url": "https://t.co/AzYiMGY3Sq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958534397021565120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "この人、私の写真を盗用してます！みんなさん、騙されないでね！\n这个人盗用我的照片很久了，大家千万不要被骗了，也请帮忙点点举报～姬和酱最喜欢大家了 https://t.co/AzYiMGY3Sq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958534376897363968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy4co5dbwAAMGIs.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958534376926711808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy4co5kbkAAJpxW.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958534376897363968",
+            "3_1958534376926711808"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1958534397021565120",
+        "created_at": "2025-08-21T14:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T15:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958534397021565120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AzYiMGY3Sq",
+              "end": 96,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1958534397021565120/photo/1",
+              "media_key": "3_1958534376897363968",
+              "start": 73,
+              "url": "https://t.co/AzYiMGY3Sq"
+            },
+            {
+              "display_url": "pic.x.com/AzYiMGY3Sq",
+              "end": 96,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1958534397021565120/photo/1",
+              "media_key": "3_1958534376926711808",
+              "start": 73,
+              "url": "https://t.co/AzYiMGY3Sq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958534397021565120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "この人、私の写真を盗用してます！みんなさん、騙されないでね！\n这个人盗用我的照片很久了，大家千万不要被骗了，也请帮忙点点举报～姬和酱最喜欢大家了 https://t.co/AzYiMGY3Sq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  ",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1949667066690277542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15063,
+          "following_count": 148,
+          "like_count": 1956,
+          "listed_count": 31,
+          "media_count": 287,
+          "tweet_count": 1255
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

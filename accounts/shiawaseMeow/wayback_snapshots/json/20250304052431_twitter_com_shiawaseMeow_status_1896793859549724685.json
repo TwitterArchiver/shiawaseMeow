@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1896786991225958700",
+    "created_at": "2025-03-04T05:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T06:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896793859549724685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1804686467224186880",
+          "start": 0,
+          "username": "oxoririri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896793859549724685",
+    "in_reply_to_user_id": "1804686467224186880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896791674720018774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oxoririri 😤谁理你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1896786991225958700",
+        "created_at": "2025-03-04T05:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T06:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896793859549724685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1804686467224186880",
+              "start": 0,
+              "username": "oxoririri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896793859549724685",
+        "in_reply_to_user_id": "1804686467224186880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896791674720018774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxoririri 😤谁理你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804686467224186880",
+        "conversation_id": "1896786991225958700",
+        "created_at": "2025-03-04T05:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T06:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896791674720018774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896791674720018774",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896786991225958700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 我是你主人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n（已成年19岁 | 纯绿陪聊🚪288/520/1314 | 线下过门询价\n备注联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "我很可爱请给我钱",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1896786991225958700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5001,
+          "following_count": 121,
+          "like_count": 1460,
+          "listed_count": 8,
+          "media_count": 149,
+          "tweet_count": 775
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T01:22:53.000Z",
+        "description": "🚪 168/268/428/688/1314/3344｜接线下半绿非绿 坐标菜单20",
+        "id": "1804686467224186880",
+        "location": "天國",
+        "name": "一只哩",
+        "pinned_tweet_id": "1896083774531932661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879233154609025024/rerGGMgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 52,
+          "like_count": 499,
+          "listed_count": 4,
+          "media_count": 33,
+          "tweet_count": 429
+        },
+        "username": "oxoririri",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062519430303854592"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "2062519462868459824",
+    "created_at": "2026-06-04T12:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T13:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062519462868459824"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/09vmOiBUCr",
+          "end": 28,
+          "expanded_url": "https://x.com/shiawaseMeow/status/2062519462868459824/video/1",
+          "media_key": "13_2062519430303854592",
+          "start": 5,
+          "url": "https://t.co/09vmOiBUCr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062519462868459824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我原相机 https://t.co/09vmOiBUCr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3981,
+        "height": 1920,
+        "media_key": "13_2062519430303854592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062519430303854592/img/CJCsAgHhBBNnilDW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062519430303854592/vid/avc1/320x568/E-T7BcnNjJr05Zpv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062519430303854592/vid/avc1/480x852/OZDvUc_R1qK-lZAC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062519430303854592/vid/avc1/720x1280/zxdCS44Q66nOopyl.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062519430303854592/pl/yJZpu0bEYu2Y4gJk.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062519430303854592"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "2062519462868459824",
+        "created_at": "2026-06-04T12:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062519462868459824"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/09vmOiBUCr",
+              "end": 28,
+              "expanded_url": "https://x.com/shiawaseMeow/status/2062519462868459824/video/1",
+              "media_key": "13_2062519430303854592",
+              "start": 5,
+              "url": "https://t.co/09vmOiBUCr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062519462868459824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我原相机 https://t.co/09vmOiBUCr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫只有X和🍠",
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位只要88感谢投喂",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15440,
+          "following_count": 165,
+          "like_count": 2096,
+          "listed_count": 30,
+          "media_count": 350,
+          "tweet_count": 1497
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

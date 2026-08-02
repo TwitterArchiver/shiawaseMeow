@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1927769315874402419",
+    "created_at": "2025-06-19T17:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T18:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935746776017059975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "860199823865110528",
+          "start": 0,
+          "username": "tk_zsd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935746776017059975",
+    "in_reply_to_user_id": "860199823865110528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930240019543019941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tk_zsd 对真的很高档😂卧室跟客厅一体的没有隔断，也很偏僻麦当劳都点不到，你的偏见太重了吧😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1927769315874402419",
+        "created_at": "2025-06-19T17:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T18:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935746776017059975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "860199823865110528",
+              "start": 0,
+              "username": "tk_zsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935746776017059975",
+        "in_reply_to_user_id": "860199823865110528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930240019543019941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tk_zsd 对真的很高档😂卧室跟客厅一体的没有隔断，也很偏僻麦当劳都点不到，你的偏见太重了吧😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "860199823865110528",
+        "conversation_id": "1927769315874402419",
+        "created_at": "2025-06-04T12:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T13:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930240019543019941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930240019543019941",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 283,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927769315874402419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 真的很穷但是养了一只猫一只鸟和一个金丝熊，自己租房而且看上去是高档房🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1927769315874402419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13493,
+          "following_count": 143,
+          "like_count": 1904,
+          "listed_count": 29,
+          "media_count": 257,
+          "tweet_count": 1139
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-04T18:29:54.000Z",
+        "description": "",
+        "id": "860199823865110528",
+        "location": "People's Republic of China",
+        "name": "silves",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 51,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 64
+        },
+        "username": "tk_zsd",
+        "verified": false
+      }
+    ]
+  }
+}

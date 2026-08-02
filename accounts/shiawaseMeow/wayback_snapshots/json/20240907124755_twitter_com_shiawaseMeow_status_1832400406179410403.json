@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1832400406179410403",
+    "created_at": "2024-09-07T12:47:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-07T13:47:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1832400406179410403"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/od_wiki/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/od_wiki/status/1832102591003832487",
+          "start": 8,
+          "url": "https://t.co/3r6MPwxjR2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832400406179410403",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832102591003832487",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "倒数第二个好棒 https://t.co/3r6MPwxjR2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1832102591003832487].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1832102591003832487",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1832102591003832487"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1832400406179410403",
+        "created_at": "2024-09-07T12:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T13:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832400406179410403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/od_wiki/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/od_wiki/status/1832102591003832487",
+              "start": 8,
+              "url": "https://t.co/3r6MPwxjR2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832400406179410403",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832102591003832487",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "倒数第二个好棒 https://t.co/3r6MPwxjR2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "羡慕嫉妒恨爱和不爱包围了我",
+        "id": "2603784802",
+        "location": "迷う",
+        "name": "hiyorin",
+        "pinned_tweet_id": "1824449177591615604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 48,
+          "like_count": 154,
+          "listed_count": 0,
+          "tweet_count": 164
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

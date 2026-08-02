@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1929075045202067559",
+    "created_at": "2025-06-01T08:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T09:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929092878430622171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1645627834701082624",
+          "start": 0,
+          "username": "kira20194922529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929092878430622171",
+    "in_reply_to_user_id": "1645627834701082624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929075045202067559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kira20194922529 我也在吃这三个🙀感觉除了昏睡没什么效果啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1929075045202067559",
+        "created_at": "2025-06-01T08:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T09:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929092878430622171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1645627834701082624",
+              "start": 0,
+              "username": "kira20194922529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929092878430622171",
+        "in_reply_to_user_id": "1645627834701082624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929075045202067559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kira20194922529 我也在吃这三个🙀感觉除了昏睡没什么效果啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645627834701082624",
+        "conversation_id": "1929075045202067559",
+        "created_at": "2025-06-01T07:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T08:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929075045202067559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929075045202067559",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喹硫平300mg\n右佐匹克隆3mg\n丙戊酸钠500mg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿陪聊 不约不线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12321,
+          "following_count": 140,
+          "like_count": 1832,
+          "listed_count": 25,
+          "media_count": 244,
+          "tweet_count": 1071
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T03:20:33.000Z",
+        "description": "🚪30\n@keaiiea←这是我的黄推号\n入门可关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "keaiiea"
+              }
+            ]
+          }
+        },
+        "id": "1645627834701082624",
+        "location": "0.1km",
+        "name": "Jonas",
+        "pinned_tweet_id": "1914812256770199869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872088243606552576/btnTx5UM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 1346,
+          "like_count": 46614,
+          "listed_count": 2,
+          "media_count": 672,
+          "tweet_count": 3776
+        },
+        "username": "kira20194922529",
+        "verified": false
+      }
+    ]
+  }
+}

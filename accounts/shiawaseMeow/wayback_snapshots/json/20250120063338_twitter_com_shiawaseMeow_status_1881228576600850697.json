@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880580793954877440"
+      ],
+      "media_source_tweet_id": [
+        "1880580800271568922"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1881228576600850697",
+    "created_at": "2025-01-20T06:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T07:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881228576600850697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1602914591435956226",
+          "start": 3,
+          "username": "hikuw0206"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HG0BYuSFb4",
+          "end": 44,
+          "expanded_url": "https://x.com/hikuw0206/status/1880580800271568922/photo/1",
+          "media_key": "3_1880580793954877440",
+          "start": 21,
+          "url": "https://t.co/HG0BYuSFb4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881228576600850697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 422
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880580800271568922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hikuw0206: 我以为呢。 https://t.co/HG0BYuSFb4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1120,
+        "media_key": "3_1880580793954877440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhkqRLMaQAAaaFm.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880580793954877440"
+          ],
+          "media_source_tweet_id": [
+            "1880580800271568922"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1881228576600850697",
+        "created_at": "2025-01-20T06:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T07:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881228576600850697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1602914591435956226",
+              "start": 3,
+              "username": "hikuw0206"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HG0BYuSFb4",
+              "end": 44,
+              "expanded_url": "https://x.com/hikuw0206/status/1880580800271568922/photo/1",
+              "media_key": "3_1880580793954877440",
+              "start": 21,
+              "url": "https://t.co/HG0BYuSFb4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881228576600850697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 422
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880580800271568922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hikuw0206: 我以为呢。 https://t.co/HG0BYuSFb4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880580793954877440"
+          ]
+        },
+        "author_id": "1602914591435956226",
+        "conversation_id": "1880580800271568922",
+        "created_at": "2025-01-18T11:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T12:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880580800271568922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HG0BYuSFb4",
+              "end": 29,
+              "expanded_url": "https://x.com/hikuw0206/status/1880580800271568922/photo/1",
+              "media_key": "3_1880580793954877440",
+              "start": 6,
+              "url": "https://t.co/HG0BYuSFb4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880580800271568922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 322669,
+          "like_count": 7555,
+          "quote_count": 78,
+          "reply_count": 86,
+          "retweet_count": 422
+        },
+        "reply_settings": "everyone",
+        "text": "我以为呢。 https://t.co/HG0BYuSFb4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "4.0何も無いんだ\n备用@hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "纯绿🚪288/520/1314",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1876979351096361050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3259,
+          "following_count": 106,
+          "like_count": 1248,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 722
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-14T06:33:31.000Z",
+        "description": "call me @ cc｜置顶推广自辨❗️｜自言自语@puer2266｜ngl：https://t.co/7bZJ59oEWA｜梦想是环游世界🌎｜🚪288｜1i｜ENTP🎵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "puer2266"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/neville71148",
+                "end": 63,
+                "expanded_url": "https://ngl.link/neville71148",
+                "start": 40,
+                "url": "https://t.co/7bZJ59oEWA"
+              }
+            ]
+          }
+        },
+        "id": "1602914591435956226",
+        "location": "湖北",
+        "name": "cc（慢速长期减脂版",
+        "pinned_tweet_id": "1880686136714293703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840184478481952768/8yU9Q6-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7213,
+          "following_count": 591,
+          "like_count": 7216,
+          "listed_count": 3,
+          "media_count": 213,
+          "tweet_count": 2740
+        },
+        "username": "hikuw0206",
+        "verified": false
+      }
+    ]
+  }
+}

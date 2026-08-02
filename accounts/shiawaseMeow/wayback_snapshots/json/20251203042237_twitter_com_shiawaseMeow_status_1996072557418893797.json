@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996072549936234496",
+        "3_1996072549940391936"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1996072557418893797",
+    "created_at": "2025-12-03T04:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T05:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996072557418893797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G5mCpe8xE6",
+          "end": 156,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1996072557418893797/photo/1",
+          "media_key": "3_1996072549936234496",
+          "start": 133,
+          "url": "https://t.co/G5mCpe8xE6"
+        },
+        {
+          "display_url": "pic.x.com/G5mCpe8xE6",
+          "end": 156,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1996072557418893797/photo/1",
+          "media_key": "3_1996072549940391936",
+          "start": 133,
+          "url": "https://t.co/G5mCpe8xE6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996072557418893797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚刚洗完澡很想吐，不知道是不是因为最近没怎么吃主食，没胃口，好想喝点小甜水啊！\n最近都没出门好久没洗头了，感觉洗完身上好香，打喷嚏都是好浓的香味，现在我家最臭的就是我猫🐱\n感觉家里蹲的生活也还可以，只是有点无聊，但起码不用为了人际关系烦恼，最近身体都好了很多qwq https://t.co/G5mCpe8xE6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996072549936234496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7N5aJTbgAA6YHZ.jpg",
+        "width": 1164
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1996072549940391936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7N5aJUa8AAmxDg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996072549936234496",
+            "3_1996072549940391936"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1996072557418893797",
+        "created_at": "2025-12-03T04:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T05:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996072557418893797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G5mCpe8xE6",
+              "end": 156,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1996072557418893797/photo/1",
+              "media_key": "3_1996072549936234496",
+              "start": 133,
+              "url": "https://t.co/G5mCpe8xE6"
+            },
+            {
+              "display_url": "pic.x.com/G5mCpe8xE6",
+              "end": 156,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1996072557418893797/photo/1",
+              "media_key": "3_1996072549940391936",
+              "start": 133,
+              "url": "https://t.co/G5mCpe8xE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996072557418893797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚洗完澡很想吐，不知道是不是因为最近没怎么吃主食，没胃口，好想喝点小甜水啊！\n最近都没出门好久没洗头了，感觉洗完身上好香，打喷嚏都是好浓的香味，现在我家最臭的就是我猫🐱\n感觉家里蹲的生活也还可以，只是有点无聊，但起码不用为了人际关系烦恼，最近身体都好了很多qwq https://t.co/G5mCpe8xE6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1958534397021565120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15673,
+          "following_count": 148,
+          "like_count": 1975,
+          "listed_count": 32,
+          "media_count": 317,
+          "tweet_count": 1371
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

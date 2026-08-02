@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940082821936173060"
+      ]
+    },
+    "author_id": "2603784802",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1940082832141168940",
+    "created_at": "2025-07-01T16:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T17:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940082832141168940"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QBgCFezIwR",
+          "end": 45,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1940082832141168940/photo/1",
+          "media_key": "3_1940082821936173060",
+          "start": 22,
+          "url": "https://t.co/QBgCFezIwR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940082832141168940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没有被九天灾厄大帝杀过的联盟玩家不算好玩家 https://t.co/QBgCFezIwR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 673,
+        "media_key": "3_1940082821936173060",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuyPDCxX0AQdZsy.jpg",
+        "width": 1123
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940082821936173060"
+          ]
+        },
+        "author_id": "2603784802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1940082832141168940",
+        "created_at": "2025-07-01T16:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T17:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940082832141168940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QBgCFezIwR",
+              "end": 45,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1940082832141168940/photo/1",
+              "media_key": "3_1940082821936173060",
+              "start": 22,
+              "url": "https://t.co/QBgCFezIwR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940082832141168940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有被九天灾厄大帝杀过的联盟玩家不算好玩家 https://t.co/QBgCFezIwR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "武汉🚪188/288/520/1314  ",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1927769315874402419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13586,
+          "following_count": 144,
+          "like_count": 1931,
+          "listed_count": 29,
+          "media_count": 264,
+          "tweet_count": 1164
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

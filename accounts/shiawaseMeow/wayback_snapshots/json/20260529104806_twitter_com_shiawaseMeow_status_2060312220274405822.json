@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2060045853910347974",
+    "created_at": "2026-05-29T10:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060312220274405822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1962928470394339332",
+          "start": 0,
+          "username": "leporava"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060312220274405822",
+    "in_reply_to_user_id": "1962928470394339332",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060295818046042208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leporava 好暧昧❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2060045853910347974",
+        "created_at": "2026-05-29T10:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060312220274405822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1962928470394339332",
+              "start": 0,
+              "username": "leporava"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060312220274405822",
+        "in_reply_to_user_id": "1962928470394339332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060295818046042208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leporava 好暧昧❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962928470394339332",
+        "conversation_id": "2060045853910347974",
+        "created_at": "2026-05-29T09:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060295818046042208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060295818046042208",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060045853910347974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 好那个😳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫只有X和🍠",
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位只要88感谢投喂",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15317,
+          "following_count": 163,
+          "like_count": 2087,
+          "listed_count": 30,
+          "media_count": 347,
+          "tweet_count": 1487
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T17:20:02.000Z",
+        "description": "🚪188",
+        "id": "1962928470394339332",
+        "name": "rabbit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045586585857753088/ciWjAd5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3578,
+          "following_count": 22,
+          "like_count": 201,
+          "listed_count": 10,
+          "media_count": 84,
+          "tweet_count": 597
+        },
+        "username": "leporava",
+        "verified": false
+      }
+    ]
+  }
+}

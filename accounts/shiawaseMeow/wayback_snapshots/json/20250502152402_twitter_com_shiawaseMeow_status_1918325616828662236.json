@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1918325582368260097"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1918325616828662236",
+    "created_at": "2025-05-02T15:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T16:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918325616828662236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AAaYn8jikZ",
+          "end": 28,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1918325616828662236/photo/1",
+          "media_key": "3_1918325582368260097",
+          "start": 5,
+          "url": "https://t.co/AAaYn8jikZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918325616828662236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁家小鸡 https://t.co/AAaYn8jikZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1918325582368260097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp9C9BSawAEqtHh.jpg",
+        "width": 1165
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918325582368260097"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1918325616828662236",
+        "created_at": "2025-05-02T15:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T16:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918325616828662236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AAaYn8jikZ",
+              "end": 28,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1918325616828662236/photo/1",
+              "media_key": "3_1918325582368260097",
+              "start": 5,
+              "url": "https://t.co/AAaYn8jikZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918325616828662236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁家小鸡 https://t.co/AAaYn8jikZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 绝望的neet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1899788877399023877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10770,
+          "following_count": 134,
+          "like_count": 1704,
+          "listed_count": 20,
+          "media_count": 211,
+          "tweet_count": 980
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

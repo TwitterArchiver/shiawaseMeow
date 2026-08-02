@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1942328730195788021",
+    "created_at": "2025-07-08T12:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T13:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942567632764543196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1703762928",
+          "start": 0,
+          "username": "1965chich"
+        },
+        {
+          "end": 22,
+          "id": "1881028579863203840",
+          "start": 11,
+          "username": "Moniko_711"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942567632764543196",
+    "in_reply_to_user_id": "1703762928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942448448227197137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1965chich @Moniko_711 这就是虐恋吗😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1942328730195788021",
+        "created_at": "2025-07-08T12:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T13:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942567632764543196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1703762928",
+              "start": 0,
+              "username": "1965chich"
+            },
+            {
+              "end": 22,
+              "id": "1881028579863203840",
+              "start": 11,
+              "username": "Moniko_711"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942567632764543196",
+        "in_reply_to_user_id": "1703762928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942448448227197137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1965chich @Moniko_711 这就是虐恋吗😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703762928",
+        "conversation_id": "1942328730195788021",
+        "created_at": "2025-07-08T04:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T05:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942448448227197137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881028579863203840",
+              "start": 0,
+              "username": "Moniko_711"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942448448227197137",
+        "in_reply_to_user_id": "1881028579863203840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942328730195788021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moniko_711 你也要好好吃饭喔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  ",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1927769315874402419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14584,
+          "following_count": 146,
+          "like_count": 1942,
+          "listed_count": 29,
+          "media_count": 272,
+          "tweet_count": 1184
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳爱中国 145/44kg 欢迎来到KFC的内心世界 带学生 有点社恐 喜欢看帅帅的女孩子/无性恋 /非跨/不会尊重人的关小黑屋/我的🐶@akui1121",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 69,
+                "username": "akui1121"
+              }
+            ]
+          }
+        },
+        "id": "1703762928",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "1878440851308994947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932716380283154432/s3qRERUB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6940,
+          "following_count": 1073,
+          "like_count": 18065,
+          "listed_count": 7,
+          "media_count": 245,
+          "tweet_count": 5855
+        },
+        "username": "1965chich",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T17:19:15.000Z",
+        "description": "FUN!FUN!FUN!",
+        "id": "1881028579863203840",
+        "name": "Moniko-",
+        "pinned_tweet_id": "1906927850256838801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922703292054085632/oBSEg7hi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 76,
+          "like_count": 4923,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1314
+        },
+        "username": "Moniko_711",
+        "verified": false
+      }
+    ]
+  }
+}

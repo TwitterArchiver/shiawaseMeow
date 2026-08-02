@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1830938335348670464"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1830938479578239094",
+    "created_at": "2024-09-03T11:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T12:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1830938479578239094"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n7mih1oeum",
+          "end": 30,
+          "expanded_url": "https://twitter.com/shiawaseMeow/status/1830938479578239094/video/1",
+          "media_key": "7_1830938335348670464",
+          "start": 7,
+          "url": "https://t.co/N7mIH1OEum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830938479578239094",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看懂的都哭了 https://t.co/N7mIH1OEum"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2500,
+        "height": 1440,
+        "media_key": "7_1830938335348670464",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1830938335348670464/pu/img/17wHytYSVPjEvOeg.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1830938335348670464/pu/vid/avc1/320x426/Q-Z-OxQfiLUYDtNF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1830938335348670464/pu/vid/avc1/480x640/uM2hwYbamL0bY2oi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1830938335348670464/pu/vid/avc1/720x960/YKX2mwqikbUkyEtA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1830938335348670464/pu/pl/npkISCOY3f7wN-G4.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1830938335348670464"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1830938479578239094",
+        "created_at": "2024-09-03T11:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T12:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830938479578239094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n7mih1oeum",
+              "end": 30,
+              "expanded_url": "https://twitter.com/shiawaseMeow/status/1830938479578239094/video/1",
+              "media_key": "7_1830938335348670464",
+              "start": 7,
+              "url": "https://t.co/N7mIH1OEum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830938479578239094",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看懂的都哭了 https://t.co/N7mIH1OEum"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "羡慕嫉妒恨爱和不爱包围了我",
+        "id": "2603784802",
+        "location": "迷う",
+        "name": "hiyorin",
+        "pinned_tweet_id": "1824449177591615604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821584807685701634/cDyN-RRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 29,
+          "like_count": 87,
+          "listed_count": 0,
+          "tweet_count": 120
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

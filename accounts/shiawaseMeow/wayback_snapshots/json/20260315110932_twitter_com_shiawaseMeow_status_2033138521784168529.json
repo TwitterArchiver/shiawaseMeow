@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2032884033513009553",
+    "created_at": "2026-03-15T11:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T12:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033138521784168529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1682272899619749888",
+          "start": 0,
+          "username": "kskblzdjd7755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033138521784168529",
+    "in_reply_to_user_id": "1682272899619749888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033073259072430203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kskblzdjd7755 不算被拘留吧，就是押在那等体检和毛发检报告啥的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2032884033513009553",
+        "created_at": "2026-03-15T11:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033138521784168529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682272899619749888",
+              "start": 0,
+              "username": "kskblzdjd7755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033138521784168529",
+        "in_reply_to_user_id": "1682272899619749888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033073259072430203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kskblzdjd7755 不算被拘留吧，就是押在那等体检和毛发检报告啥的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682272899619749888",
+        "conversation_id": "2032884033513009553",
+        "created_at": "2026-03-15T06:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T07:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033073259072430203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033073259072430203",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5443,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032884033513009553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 被拘留是什麼好事麼…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫备用唯一小号@hiyorinnosekai 永远19岁 | 私信详情",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位只要88感谢投喂",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15647,
+          "following_count": 154,
+          "like_count": 2056,
+          "listed_count": 29,
+          "media_count": 350,
+          "tweet_count": 1480
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T06:15:00.000Z",
+        "description": "开开心心每一天",
+        "id": "1682272899619749888",
+        "name": "letter_o0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029780028050001923/f_kmTgFV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 15,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 53
+        },
+        "username": "kskblzdjd7755",
+        "verified": false
+      }
+    ]
+  }
+}

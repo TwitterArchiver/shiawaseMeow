@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2079807446923751804",
+    "created_at": "2026-07-22T05:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T06:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079807446923751804"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079807446923751804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我道德败坏人生也失败了，本想不良但过得潇洒，最后我才发现一切都是一塌糊涂的🥲我已经不恨世界了，也不恨别人对我坏，一切都是命运，从一开始价值观就是错的，又能走上什么幸福的道路。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2079807446923751804",
+        "created_at": "2026-07-22T05:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079807446923751804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079807446923751804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我道德败坏人生也失败了，本想不良但过得潇洒，最后我才发现一切都是一塌糊涂的🥲我已经不恨世界了，也不恨别人对我坏，一切都是命运，从一开始价值观就是错的，又能走上什么幸福的道路。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "我是姬和酱呀♡\n盗用禁止🚫",
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位88",
+        "name": "姬和酱",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068649812048982016/TTM5l_or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15699,
+          "following_count": 168,
+          "like_count": 2184,
+          "listed_count": 31,
+          "media_count": 357,
+          "tweet_count": 1533
+        },
+        "url": "",
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

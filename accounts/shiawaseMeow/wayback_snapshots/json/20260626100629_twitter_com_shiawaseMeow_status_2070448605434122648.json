@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070448031212969984"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "2070448605434122648",
+    "created_at": "2026-06-26T10:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070448605434122648"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gKtdBhlwvm",
+          "end": 40,
+          "expanded_url": "https://x.com/shiawaseMeow/status/2070448605434122648/photo/1",
+          "media_key": "3_2070448031212969984",
+          "start": 17,
+          "url": "https://t.co/gKtdBhlwvm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070448605434122648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我建了一个dy，不过是低浮上…🥺 https://t.co/gKtdBhlwvm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1680,
+        "media_key": "3_2070448031212969984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLu1g8JbIAAXiN1.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070448031212969984"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "2070448605434122648",
+        "created_at": "2026-06-26T10:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070448605434122648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gKtdBhlwvm",
+              "end": 40,
+              "expanded_url": "https://x.com/shiawaseMeow/status/2070448605434122648/photo/1",
+              "media_key": "3_2070448031212969984",
+              "start": 17,
+              "url": "https://t.co/gKtdBhlwvm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070448605434122648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我建了一个dy，不过是低浮上…🥺 https://t.co/gKtdBhlwvm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫",
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位88",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068649812048982016/TTM5l_or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15395,
+          "following_count": 166,
+          "like_count": 2102,
+          "listed_count": 31,
+          "media_count": 353,
+          "tweet_count": 1512
+        },
+        "url": "",
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

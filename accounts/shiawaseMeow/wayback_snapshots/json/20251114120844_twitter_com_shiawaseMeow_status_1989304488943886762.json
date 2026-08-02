@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1988547756483363160",
+    "created_at": "2025-11-14T12:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T13:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989304488943886762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "232764451",
+          "start": 0,
+          "username": "bryanjofersion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989304488943886762",
+    "in_reply_to_user_id": "232764451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988927418149777651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bryanjofersion 你说话自己看得懂不？我一直都一个人住你在说你🐴呢，啥调"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1988547756483363160",
+        "created_at": "2025-11-14T12:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T13:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989304488943886762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "232764451",
+              "start": 0,
+              "username": "bryanjofersion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989304488943886762",
+        "in_reply_to_user_id": "232764451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988927418149777651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bryanjofersion 你说话自己看得懂不？我一直都一个人住你在说你🐴呢，啥调"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "232764451",
+        "conversation_id": "1988547756483363160",
+        "created_at": "2025-11-13T11:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T12:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988927418149777651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988927418149777651",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988547756483363160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 关键你家里人也不敢你出去，断绝关系啊，期待那一天的到来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1958534397021565120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15240,
+          "following_count": 148,
+          "like_count": 1917,
+          "listed_count": 31,
+          "media_count": 305,
+          "tweet_count": 1335
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-01T06:38:22.000Z",
+        "description": "",
+        "id": "232764451",
+        "name": "bryanjofersion",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 439,
+          "like_count": 61,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 10037
+        },
+        "username": "bryanjofersion",
+        "verified": false
+      }
+    ]
+  }
+}

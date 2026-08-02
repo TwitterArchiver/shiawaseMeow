@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1932376395734290665",
+    "created_at": "2025-06-10T14:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T15:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932443883709051345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1673045877315997697",
+          "start": 0,
+          "username": "softguo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932443883709051345",
+    "in_reply_to_user_id": "1673045877315997697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932376395734290665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@softguo 来武汉玩我送你老婆😙"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932376380299227136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtEuFGgXMAAAsLN.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1932376395734290665",
+        "created_at": "2025-06-10T14:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T15:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932443883709051345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1673045877315997697",
+              "start": 0,
+              "username": "softguo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932443883709051345",
+        "in_reply_to_user_id": "1673045877315997697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932376395734290665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@softguo 来武汉玩我送你老婆😙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932376380299227136"
+          ]
+        },
+        "author_id": "1673045877315997697",
+        "conversation_id": "1932376395734290665",
+        "created_at": "2025-06-10T09:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T10:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932376395734290665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dMw3cuFGrK",
+              "end": 38,
+              "expanded_url": "https://x.com/softguo/status/1932376395734290665/photo/1",
+              "media_key": "3_1932376380299227136",
+              "start": 15,
+              "url": "https://t.co/dMw3cuFGrK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932376395734290665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "随机抽取一个幸运儿给我买了吧 https://t.co/dMw3cuFGrK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13159,
+          "following_count": 141,
+          "like_count": 1853,
+          "listed_count": 28,
+          "media_count": 255,
+          "tweet_count": 1104
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T19:10:30.000Z",
+        "description": "坐标江苏 欢迎女孩子来找我玩^^🚪188",
+        "id": "1673045877315997697",
+        "name": "喜欢的人要及时吃掉",
+        "pinned_tweet_id": "1931313910176436518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885773795962863616/vE57uM91_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 135,
+          "like_count": 449,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 96
+        },
+        "username": "softguo",
+        "verified": false
+      }
+    ]
+  }
+}

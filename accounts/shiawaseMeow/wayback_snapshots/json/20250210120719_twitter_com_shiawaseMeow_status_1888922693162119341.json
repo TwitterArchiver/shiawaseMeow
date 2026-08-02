@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888590597474398208",
+        "3_1888590597768007680"
+      ],
+      "media_source_tweet_id": [
+        "1888591963169153189",
+        "1888591963169153189"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1888922693162119341",
+    "created_at": "2025-02-10T12:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T13:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888922693162119341"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "萝莉"
+        },
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "门槛哥"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2603784802",
+          "start": 3,
+          "username": "shiawaseMeow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jU2SkLhBX7",
+          "end": 54,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1888591963169153189/photo/1",
+          "media_key": "3_1888590597474398208",
+          "start": 31,
+          "url": "https://t.co/jU2SkLhBX7"
+        },
+        {
+          "display_url": "pic.x.com/jU2SkLhBX7",
+          "end": 54,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1888591963169153189/photo/1",
+          "media_key": "3_1888590597768007680",
+          "start": 31,
+          "url": "https://t.co/jU2SkLhBX7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888922693162119341",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888591963169153189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiawaseMeow: 浴衣🥺\n#萝莉 #门槛哥 https://t.co/jU2SkLhBX7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1888590597474398208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjWfJGiasAArKAx.jpg",
+        "width": 1162
+      },
+      {
+        "height": 1896,
+        "media_key": "3_1888590597768007680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjWfJHoa0AA2pxi.jpg",
+        "width": 1067
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888590597474398208",
+            "3_1888590597768007680"
+          ],
+          "media_source_tweet_id": [
+            "1888591963169153189",
+            "1888591963169153189"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1888922693162119341",
+        "created_at": "2025-02-10T12:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T13:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888922693162119341"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "萝莉"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "门槛哥"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2603784802",
+              "start": 3,
+              "username": "shiawaseMeow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jU2SkLhBX7",
+              "end": 54,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1888591963169153189/photo/1",
+              "media_key": "3_1888590597474398208",
+              "start": 31,
+              "url": "https://t.co/jU2SkLhBX7"
+            },
+            {
+              "display_url": "pic.x.com/jU2SkLhBX7",
+              "end": 54,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1888591963169153189/photo/1",
+              "media_key": "3_1888590597768007680",
+              "start": 31,
+              "url": "https://t.co/jU2SkLhBX7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888922693162119341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888591963169153189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiawaseMeow: 浴衣🥺\n#萝莉 #门槛哥 https://t.co/jU2SkLhBX7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888590597474398208",
+            "3_1888590597768007680"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1888591963169153189",
+        "created_at": "2025-02-09T14:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T15:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888591963169153189"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "萝莉"
+            },
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "门槛哥"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jU2SkLhBX7",
+              "end": 36,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1888591963169153189/photo/1",
+              "media_key": "3_1888590597474398208",
+              "start": 13,
+              "url": "https://t.co/jU2SkLhBX7"
+            },
+            {
+              "display_url": "pic.x.com/jU2SkLhBX7",
+              "end": 36,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1888591963169153189/photo/1",
+              "media_key": "3_1888590597768007680",
+              "start": 13,
+              "url": "https://t.co/jU2SkLhBX7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888591963169153189",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4639,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "浴衣🥺\n#萝莉 #门槛哥 https://t.co/jU2SkLhBX7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "4.0何も無いんだ\n备用@hiyorinnosekai（这个暂时登不上了\n（已成年20岁\n私信只回口令不闲聊  不要私信我互fo转了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "纯绿🚪288/520/1314",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1876979351096361050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3946,
+          "following_count": 113,
+          "like_count": 1372,
+          "listed_count": 5,
+          "media_count": 144,
+          "tweet_count": 757
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

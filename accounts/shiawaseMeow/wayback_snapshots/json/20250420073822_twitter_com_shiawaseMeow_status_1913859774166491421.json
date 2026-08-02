@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1913859774166491421",
+    "created_at": "2025-04-20T07:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T08:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913859774166491421"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1913859774166491421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的坚持不下去了，回学校就哭了一路，室友还在问我怎么又没来上学我不知道怎么说，室友真的对我挺不错的就是有时候很吵我一点都受不了，突然说话我都会被吓到，还有好多作业等着我补，而且我的未来一点希望都没有，好绝望好无助，妈妈让我休学但是我讨厌这种麻烦的事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1913859774166491421",
+        "created_at": "2025-04-20T07:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T08:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913859774166491421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913859774166491421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的坚持不下去了，回学校就哭了一路，室友还在问我怎么又没来上学我不知道怎么说，室友真的对我挺不错的就是有时候很吵我一点都受不了，突然说话我都会被吓到，还有好多作业等着我补，而且我的未来一点希望都没有，好绝望好无助，妈妈让我休学但是我讨厌这种麻烦的事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 绝望的neet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1899788877399023877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9249,
+          "following_count": 135,
+          "like_count": 1688,
+          "listed_count": 17,
+          "media_count": 194,
+          "tweet_count": 946
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

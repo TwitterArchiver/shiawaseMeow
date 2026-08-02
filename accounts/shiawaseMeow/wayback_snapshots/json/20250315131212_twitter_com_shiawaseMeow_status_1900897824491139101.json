@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1900897824491139101",
+    "created_at": "2025-03-15T13:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T14:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900897824491139101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rbb090110/stat…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Rbb090110/status/1900893125188743557",
+          "start": 14,
+          "url": "https://t.co/XeAtlnyflV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900897824491139101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900893125188743557",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家不要放过这个复活的籽籽 https://t.co/XeAtlnyflV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1900893074601242625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmFULhObcAECENL.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1900893074731204608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmFULhtagAANonK.jpg",
+        "width": 2017
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1900897824491139101",
+        "created_at": "2025-03-15T13:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T14:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900897824491139101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rbb090110/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Rbb090110/status/1900893125188743557",
+              "start": 14,
+              "url": "https://t.co/XeAtlnyflV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900897824491139101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900893125188743557",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家不要放过这个复活的籽籽 https://t.co/XeAtlnyflV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900893074601242625",
+            "3_1900893074731204608"
+          ]
+        },
+        "author_id": "1900891403686940672",
+        "conversation_id": "1900893125188743557",
+        "created_at": "2025-03-15T12:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T13:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900893125188743557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L6CtbFSHHn",
+              "end": 28,
+              "expanded_url": "https://x.com/Rbb090110/status/1900893125188743557/photo/1",
+              "media_key": "3_1900893074601242625",
+              "start": 5,
+              "url": "https://t.co/L6CtbFSHHn"
+            },
+            {
+              "display_url": "pic.x.com/L6CtbFSHHn",
+              "end": 28,
+              "expanded_url": "https://x.com/Rbb090110/status/1900893125188743557/photo/1",
+              "media_key": "3_1900893074731204608",
+              "start": 5,
+              "url": "https://t.co/L6CtbFSHHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900893125188743557",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "堂堂复活 https://t.co/L6CtbFSHHn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 19岁 | 158-46kg | 邦邦人音游狗 | 管人吃 holo的忠实粉丝 湊あくあ单推人 |金丝熊和猫猫的铲屎官 \nʚ(◜𖥦◝ )ɞ爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "陪聊🚪99/288/520/1314 线下过门再问价",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1899788877399023877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5406,
+          "following_count": 126,
+          "like_count": 1489,
+          "listed_count": 9,
+          "media_count": 154,
+          "tweet_count": 790
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T12:46:54.000Z",
+        "description": "如果明天能结婚",
+        "id": "1900891403686940672",
+        "name": "籽籽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900891653994680321/rohUdC_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "Rbb090110",
+        "verified": false
+      }
+    ]
+  }
+}

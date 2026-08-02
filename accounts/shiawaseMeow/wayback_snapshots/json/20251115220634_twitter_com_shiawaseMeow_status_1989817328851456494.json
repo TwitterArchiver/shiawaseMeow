@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1981785505282093284",
+    "created_at": "2025-11-15T22:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T23:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989817328851456494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1707045259468025856",
+          "start": 0,
+          "username": "a1206151770"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989817328851456494",
+    "in_reply_to_user_id": "1707045259468025856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986987998320431187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a1206151770 我也不知道，也许是串串吧～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1981785505282093284",
+        "created_at": "2025-11-15T22:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T23:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989817328851456494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1707045259468025856",
+              "start": 0,
+              "username": "a1206151770"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989817328851456494",
+        "in_reply_to_user_id": "1707045259468025856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986987998320431187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a1206151770 我也不知道，也许是串串吧～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707045259468025856",
+        "conversation_id": "1981785505282093284",
+        "created_at": "2025-11-08T02:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T03:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986987998320431187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986987998320431187",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981785505282093284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 这是缅因猫吗？好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1958534397021565120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15213,
+          "following_count": 148,
+          "like_count": 1918,
+          "listed_count": 31,
+          "media_count": 306,
+          "tweet_count": 1337
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T14:51:28.000Z",
+        "description": "喜欢涩涩和故事，无论是悲伤还是高兴的，如果你想说我会是一个合格的听众。如果悲伤不知怎么发泄可以来找我倾诉。",
+        "id": "1707045259468025856",
+        "name": "涩涩大魔王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760122917772500992/HBSCl6SL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 239,
+          "like_count": 834,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 318
+        },
+        "username": "a1206151770",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1863597470934343849",
+    "created_at": "2024-12-02T15:41:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T16:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863609477339230441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1529112019013861376",
+          "start": 0,
+          "username": "skra_ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863609477339230441",
+    "in_reply_to_user_id": "1529112019013861376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863603938853114084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skra_ku 你也是QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1863597470934343849",
+        "created_at": "2024-12-02T15:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T16:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863609477339230441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1529112019013861376",
+              "start": 0,
+              "username": "skra_ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863609477339230441",
+        "in_reply_to_user_id": "1529112019013861376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863603938853114084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skra_ku 你也是QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529112019013861376",
+        "conversation_id": "1863597470934343849",
+        "created_at": "2024-12-02T15:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T16:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863603938853114084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863603938853114084",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863597470934343849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 真可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "ノンブレス・オブリージュ",
+        "id": "2603784802",
+        "location": "🚪288/520/1314",
+        "name": "hiyorin🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2000,
+          "following_count": 96,
+          "like_count": 918,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 553
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T14:48:21.000Z",
+        "description": "電脳少女マレーシア人 (っ- ‸ - ς)🐹🍮🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yuii.com_4/pro…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yuii.com_4/profilecard/?igsh=MWJ1enJkbDJnYXh3cg==",
+                "start": 0,
+                "url": "https://t.co/NvnUwGqQID"
+              }
+            ]
+          }
+        },
+        "id": "1529112019013861376",
+        "name": "アヤナ",
+        "pinned_tweet_id": "1861347053433168270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863517661512224768/2CSFInM2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13434,
+          "following_count": 310,
+          "like_count": 10529,
+          "listed_count": 40,
+          "media_count": 265,
+          "tweet_count": 3710
+        },
+        "url": "https://t.co/NvnUwGqQID",
+        "username": "skra_ku",
+        "verified": false
+      }
+    ]
+  }
+}

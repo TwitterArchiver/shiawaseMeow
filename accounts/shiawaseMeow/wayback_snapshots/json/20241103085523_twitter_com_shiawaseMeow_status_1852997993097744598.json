@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1851965163521691648"
+      ],
+      "media_source_tweet_id": [
+        "1851965168693186802"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1852997993097744598",
+    "created_at": "2024-11-03T08:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T09:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852997993097744598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1256820357178089479",
+          "start": 3,
+          "username": "meeeeton333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7RGOmCH9dM",
+          "end": 73,
+          "expanded_url": "https://x.com/meeeeton333/status/1851965168693186802/photo/1",
+          "media_key": "3_1851965163521691648",
+          "start": 50,
+          "url": "https://t.co/7RGOmCH9dM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852997993097744598",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2325
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851965168693186802",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meeeeton333: 気遣いが出来て優しい人がタイプらしいふんわりとした雰囲気の女の子 https://t.co/7RGOmCH9dM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1852997993097744598].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1852997993097744598",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1852997993097744598"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1851965163521691648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbOAgQwb0AA-du0.jpg",
+        "width": 1478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851965163521691648"
+          ]
+        },
+        "author_id": "1256820357178089479",
+        "conversation_id": "1851965168693186802",
+        "created_at": "2024-10-31T12:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T13:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851965168693186802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7RGOmCH9dM",
+              "end": 56,
+              "expanded_url": "https://x.com/meeeeton333/status/1851965168693186802/photo/1",
+              "media_key": "3_1851965163521691648",
+              "start": 33,
+              "url": "https://t.co/7RGOmCH9dM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851965168693186802",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6051,
+          "impression_count": 701117,
+          "like_count": 27642,
+          "quote_count": 20,
+          "reply_count": 22,
+          "retweet_count": 2325
+        },
+        "reply_settings": "everyone",
+        "text": "気遣いが出来て優しい人がタイプらしいふんわりとした雰囲気の女の子 https://t.co/7RGOmCH9dM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "能不能也对我留点爱",
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 87,
+          "like_count": 446,
+          "listed_count": 0,
+          "tweet_count": 431
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-03T05:38:50.000Z",
+        "description": "成人向けのイラストや漫画を描いてます。 高校生含む18歳未満の方はフォロー禁止です。 ◆FANBOX 【https://t.co/U4OzFDZk84】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "meeeeton333.fanbox.cc",
+                "end": 75,
+                "expanded_url": "https://meeeeton333.fanbox.cc/",
+                "start": 52,
+                "url": "https://t.co/U4OzFDZk84"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/37625681",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/37625681",
+                "start": 0,
+                "url": "https://t.co/zOZZfxvazt"
+              }
+            ]
+          }
+        },
+        "id": "1256820357178089479",
+        "name": "みーと🔞",
+        "pinned_tweet_id": "1685998932315586562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1391766738522443780/fcJNioUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444384,
+          "following_count": 602,
+          "like_count": 12771,
+          "listed_count": 3380,
+          "tweet_count": 10020
+        },
+        "url": "https://t.co/zOZZfxvazt",
+        "username": "meeeeton333",
+        "verified": false
+      }
+    ]
+  }
+}

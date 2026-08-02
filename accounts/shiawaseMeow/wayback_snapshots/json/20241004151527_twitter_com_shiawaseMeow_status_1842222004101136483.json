@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1841762022809354241"
+      ],
+      "media_source_tweet_id": [
+        "1842109903088885766"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1842222004101136483",
+    "created_at": "2024-10-04T15:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T16:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842222004101136483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1719223435",
+          "start": 3,
+          "username": "qaltted"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XajCl57XPA",
+          "end": 56,
+          "expanded_url": "https://x.com/qaltted/status/1842109903088885766/photo/1",
+          "media_key": "3_1841762022809354241",
+          "start": 33,
+          "url": "https://t.co/XajCl57XPA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842222004101136483",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1231
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842109903088885766",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qaltted: 挿入れる直前のドキドキ感が好きです…💗 https://t.co/XajCl57XPA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1842222004101136483].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1842222004101136483",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1842222004101136483"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1342,
+        "media_key": "3_1841762022809354241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY9AzTpbQAEmXXW.png",
+        "width": 955
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841762022809354241"
+          ]
+        },
+        "author_id": "1719223435",
+        "conversation_id": "1842109903088885766",
+        "created_at": "2024-10-04T07:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T08:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842109903088885766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XajCl57XPA",
+              "end": 43,
+              "expanded_url": "https://x.com/qaltted/status/1842109903088885766/photo/1",
+              "media_key": "3_1841762022809354241",
+              "start": 20,
+              "url": "https://t.co/XajCl57XPA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842109903088885766",
+        "lang": "ja",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3675,
+          "impression_count": 305260,
+          "like_count": 14094,
+          "quote_count": 9,
+          "reply_count": 7,
+          "retweet_count": 1231
+        },
+        "reply_settings": "everyone",
+        "text": "挿入れる直前のドキドキ感が好きです…💗 https://t.co/XajCl57XPA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "世界も涙も強さも忘れて",
+        "id": "2603784802",
+        "location": "🚪288/520/1314",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 70,
+          "like_count": 274,
+          "listed_count": 0,
+          "tweet_count": 296
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-01T14:22:06.000Z",
+        "description": "エロ漫画描きです。サークルからももたると\nFANBOX:https://t.co/nIShektitr\nFantia:https://t.co/657eblJqFq\nDLsite:https://t.co/bUBv9lnxa7\nFANZA:https://t.co/AtdNo6jeUd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/pzKCL",
+                "end": 51,
+                "expanded_url": "https://x.gd/pzKCL",
+                "start": 28,
+                "url": "https://t.co/nIShektitr"
+              },
+              {
+                "display_url": "x.gd/voMLU",
+                "end": 82,
+                "expanded_url": "https://x.gd/voMLU",
+                "start": 59,
+                "url": "https://t.co/657eblJqFq"
+              },
+              {
+                "display_url": "x.gd/iMnxA",
+                "end": 113,
+                "expanded_url": "https://x.gd/iMnxA",
+                "start": 90,
+                "url": "https://t.co/bUBv9lnxa7"
+              },
+              {
+                "display_url": "x.gd/jYix4",
+                "end": 143,
+                "expanded_url": "https://x.gd/jYix4",
+                "start": 120,
+                "url": "https://t.co/AtdNo6jeUd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=274961",
+                "start": 0,
+                "url": "https://t.co/2uRBSTuJAV"
+              }
+            ]
+          }
+        },
+        "id": "1719223435",
+        "name": "きんだつ🔞月曜東ワ36a",
+        "pinned_tweet_id": "1821854055985287460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655471511384514560/njY4wvYt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413772,
+          "following_count": 989,
+          "like_count": 20550,
+          "listed_count": 3061,
+          "tweet_count": 14990
+        },
+        "url": "https://t.co/2uRBSTuJAV",
+        "username": "qaltted",
+        "verified": false
+      }
+    ]
+  }
+}

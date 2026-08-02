@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1874687430449910088",
+    "created_at": "2025-01-02T05:22:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T06:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874687799053705298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1673686218549219329",
+          "start": 0,
+          "username": "Ovoxo030ww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874687799053705298",
+    "in_reply_to_user_id": "1673686218549219329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874687575774146906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ovoxo030ww 不算保底，因为要夹到两个下面的替代物才能兑换"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1874687430449910088",
+        "created_at": "2025-01-02T05:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T06:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874687799053705298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1673686218549219329",
+              "start": 0,
+              "username": "Ovoxo030ww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874687799053705298",
+        "in_reply_to_user_id": "1673686218549219329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874687575774146906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ovoxo030ww 不算保底，因为要夹到两个下面的替代物才能兑换"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673686218549219329",
+        "conversation_id": "1874687430449910088",
+        "created_at": "2025-01-02T05:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T06:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874687575774146906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874687575774146906",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874687430449910088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 保底大神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "私は眠りに\n@hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪288/520/1314",
+        "name": "hiyorin🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2428,
+          "following_count": 98,
+          "like_count": 1111,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 683
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T13:34:28.000Z",
+        "description": "好友位98｜随缘聊天请过268｜线下688可抵扣｜出原味可定制",
+        "id": "1673686218549219329",
+        "location": "天國",
+        "name": "兔兔大王",
+        "pinned_tweet_id": "1854384130542514571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872151973841317888/sGd5QBoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4176,
+          "following_count": 35,
+          "like_count": 2221,
+          "listed_count": 13,
+          "media_count": 21,
+          "tweet_count": 919
+        },
+        "username": "Ovoxo030ww",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1940503789527879783",
+    "created_at": "2025-07-04T07:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T08:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941039836674380007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1514184165314469899",
+          "start": 0,
+          "username": "xiezhangtong22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941039836674380007",
+    "in_reply_to_user_id": "1514184165314469899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940800044690780575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiezhangtong22 乌龟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1940503789527879783",
+        "created_at": "2025-07-04T07:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T08:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941039836674380007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1514184165314469899",
+              "start": 0,
+              "username": "xiezhangtong22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941039836674380007",
+        "in_reply_to_user_id": "1514184165314469899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940800044690780575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiezhangtong22 乌龟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514184165314469899",
+        "conversation_id": "1940503789527879783",
+        "created_at": "2025-07-03T15:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T16:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940800044690780575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940800044690780575",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940503789527879783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 硬核破防模式？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "武汉🚪188/288/520/1314  ",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1927769315874402419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13688,
+          "following_count": 144,
+          "like_count": 1935,
+          "listed_count": 29,
+          "media_count": 267,
+          "tweet_count": 1175
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-13T10:10:20.000Z",
+        "description": "",
+        "id": "1514184165314469899",
+        "name": "全场最渣",
+        "pinned_tweet_id": "1534009004761948162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616380277286215681/mXCXlfdF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 35,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 167
+        },
+        "username": "xiezhangtong22",
+        "verified": false
+      }
+    ]
+  }
+}

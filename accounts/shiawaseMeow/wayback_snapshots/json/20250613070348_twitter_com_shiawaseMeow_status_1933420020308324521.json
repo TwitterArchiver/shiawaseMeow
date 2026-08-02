@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933420005074567168"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1933420020308324521",
+    "created_at": "2025-06-13T07:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T08:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933420020308324521"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 7,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "线下"
+        },
+        {
+          "end": 20,
+          "start": 16,
+          "tag": "爸爸活"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XawKewsk8j",
+          "end": 50,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1933420020308324521/photo/1",
+          "media_key": "3_1933420005074567168",
+          "start": 27,
+          "url": "https://t.co/XawKewsk8j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933420020308324521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想接纯绿线下 #门槛哥 #线下 #爸爸活 \n求支持喵 https://t.co/XawKewsk8j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1933420005074567168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtTjQDwagAAecK3.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933420005074567168"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1933420020308324521",
+        "created_at": "2025-06-13T07:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T08:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933420020308324521"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 7,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "线下"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XawKewsk8j",
+              "end": 50,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1933420020308324521/photo/1",
+              "media_key": "3_1933420005074567168",
+              "start": 27,
+              "url": "https://t.co/XawKewsk8j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933420020308324521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想接纯绿线下 #门槛哥 #线下 #爸爸活 \n求支持喵 https://t.co/XawKewsk8j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13231,
+          "following_count": 141,
+          "like_count": 1870,
+          "listed_count": 28,
+          "media_count": 259,
+          "tweet_count": 1116
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

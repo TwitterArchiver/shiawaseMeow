@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935258920244903936",
+        "3_1935258920244977664"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1935258928859988429",
+    "created_at": "2025-06-18T08:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T09:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935258928859988429"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/B7rZTx9Qeu",
+          "end": 33,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1935258928859988429/photo/1",
+          "media_key": "3_1935258920244903936",
+          "start": 10,
+          "url": "https://t.co/B7rZTx9Qeu"
+        },
+        {
+          "display_url": "pic.x.com/B7rZTx9Qeu",
+          "end": 33,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1935258928859988429/photo/1",
+          "media_key": "3_1935258920244977664",
+          "start": 10,
+          "url": "https://t.co/B7rZTx9Qeu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935258928859988429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没有人和我玩好无聊 https://t.co/B7rZTx9Qeu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935258920244903936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GttrvAmagAAzgi7.jpg",
+        "width": 1157
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1935258920244977664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GttrvAmboAAMt2D.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935258920244903936",
+            "3_1935258920244977664"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1935258928859988429",
+        "created_at": "2025-06-18T08:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T09:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935258928859988429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B7rZTx9Qeu",
+              "end": 33,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1935258928859988429/photo/1",
+              "media_key": "3_1935258920244903936",
+              "start": 10,
+              "url": "https://t.co/B7rZTx9Qeu"
+            },
+            {
+              "display_url": "pic.x.com/B7rZTx9Qeu",
+              "end": 33,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1935258928859988429/photo/1",
+              "media_key": "3_1935258920244977664",
+              "start": 10,
+              "url": "https://t.co/B7rZTx9Qeu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935258928859988429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有人和我玩好无聊 https://t.co/B7rZTx9Qeu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13405,
+          "following_count": 143,
+          "like_count": 1895,
+          "listed_count": 29,
+          "media_count": 259,
+          "tweet_count": 1139
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

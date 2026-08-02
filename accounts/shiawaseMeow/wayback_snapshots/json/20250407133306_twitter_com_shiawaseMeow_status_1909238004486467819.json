@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1909237953072877571",
+        "3_1909235719811596288"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1909238004486467819",
+    "created_at": "2025-04-07T13:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T14:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909238004486467819"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NXwG9e85I3",
+          "end": 28,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1909238004486467819/photo/1",
+          "media_key": "3_1909237953072877571",
+          "start": 5,
+          "url": "https://t.co/NXwG9e85I3"
+        },
+        {
+          "display_url": "pic.x.com/NXwG9e85I3",
+          "end": 28,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1909238004486467819/photo/1",
+          "media_key": "3_1909235719811596288",
+          "start": 5,
+          "url": "https://t.co/NXwG9e85I3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909238004486467819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我太弱了 https://t.co/NXwG9e85I3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1909238004486467819].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1909238004486467819",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1909238004486467819"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1909237953072877571",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn75zYCaUAMHgSd.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1909235719811596288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn73xYfbgAAxg0L.jpg",
+        "width": 1164
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 绝望的neet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1899788877399023877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5741,
+          "following_count": 129,
+          "like_count": 1583,
+          "listed_count": 11,
+          "media_count": 177,
+          "tweet_count": 858
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

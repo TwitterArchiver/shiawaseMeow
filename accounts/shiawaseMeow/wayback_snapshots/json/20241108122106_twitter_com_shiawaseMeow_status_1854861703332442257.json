@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1854861703332442257",
+    "created_at": "2024-11-08T12:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-08T13:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1854861703332442257"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1854861703332442257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天特别特别开心因为周四到下周一都没课，所有室友都回家了，一个人的时间很自由很安静，昨天把作业都写完了今天一个人出门觅食戴耳机坐一下午，回寝室之后可以很安静的休息没有人吵闹，可以安心打游戏，没有不必要的社交，如果每天都能保持这种健康社交生活状态我会乐观开朗热爱生活。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1854861703332442257",
+        "created_at": "2024-11-08T12:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T13:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854861703332442257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854861703332442257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天特别特别开心因为周四到下周一都没课，所有室友都回家了，一个人的时间很自由很安静，昨天把作业都写完了今天一个人出门觅食戴耳机坐一下午，回寝室之后可以很安静的休息没有人吵闹，可以安心打游戏，没有不必要的社交，如果每天都能保持这种健康社交生活状态我会乐观开朗热爱生活。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "能不能也对我留点爱",
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 87,
+          "like_count": 556,
+          "listed_count": 0,
+          "tweet_count": 485
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2021959081544786217",
+    "created_at": "2026-02-12T16:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T17:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021981971220770974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "887323707370332160",
+          "start": 0,
+          "username": "ResistantJs_AA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021981971220770974",
+    "in_reply_to_user_id": "887323707370332160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021981238253564114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ResistantJs_AA 咋调啊我不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2021959081544786217",
+        "created_at": "2026-02-12T16:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021981971220770974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "887323707370332160",
+              "start": 0,
+              "username": "ResistantJs_AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021981971220770974",
+        "in_reply_to_user_id": "887323707370332160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021981238253564114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ResistantJs_AA 咋调啊我不知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "887323707370332160",
+        "conversation_id": "2021959081544786217",
+        "created_at": "2026-02-12T16:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021981238253564114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021981238253564114",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021959081544786217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 没有聊天选项啊 只能干看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫备用唯一小号@hiyorinnosekai 永远19岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "10r验证🚪188/288/520/1314  🥺",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15393,
+          "following_count": 149,
+          "like_count": 1998,
+          "listed_count": 28,
+          "media_count": 341,
+          "tweet_count": 1437
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-18T14:50:32.000Z",
+        "description": "嗯。",
+        "id": "887323707370332160",
+        "location": "California, USA",
+        "name": "Jason Jiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/906634666471342080/KRFdV9fg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 128,
+          "like_count": 927,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 172
+        },
+        "username": "ResistantJs_AA",
+        "verified": false
+      }
+    ]
+  }
+}

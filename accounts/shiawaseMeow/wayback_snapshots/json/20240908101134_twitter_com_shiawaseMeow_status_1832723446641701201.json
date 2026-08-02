@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1832614849202794980",
+    "created_at": "2024-09-08T10:11:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-08T11:11:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832723446641701201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1553107630511603712",
+          "start": 0,
+          "username": "JiZhenYouZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832723446641701201",
+    "in_reply_to_user_id": "1553107630511603712",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832614849202794980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiZhenYouZi 一眼7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1832614849202794980",
+        "created_at": "2024-09-08T10:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T11:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832723446641701201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1553107630511603712",
+              "start": 0,
+              "username": "JiZhenYouZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832723446641701201",
+        "in_reply_to_user_id": "1553107630511603712",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832614849202794980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiZhenYouZi 一眼7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832453861048774659"
+          ]
+        },
+        "author_id": "1553107630511603712",
+        "conversation_id": "1832614849202794980",
+        "created_at": "2024-09-08T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832614849202794980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nocuv2jhuk",
+              "end": 31,
+              "expanded_url": "https://twitter.com/JiZhenYouZi/status/1832614849202794980/photo/1",
+              "media_key": "3_1832453861048774659",
+              "start": 8,
+              "url": "https://t.co/NocuV2JHuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832614849202794980",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 74074,
+          "like_count": 277,
+          "quote_count": 14,
+          "reply_count": 369,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜谁是中国人 https://t.co/NocuV2JHuk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "羡慕嫉妒恨爱和不爱包围了我",
+        "id": "2603784802",
+        "location": "迷う",
+        "name": "hiyorin",
+        "pinned_tweet_id": "1824449177591615604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 47,
+          "like_count": 158,
+          "listed_count": 0,
+          "tweet_count": 171
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T19:58:53.000Z",
+        "description": "叶底黄鹂一两声，日长飞絮轻。",
+        "id": "1553107630511603712",
+        "location": "东亚",
+        "name": "纪真由子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821428357503873024/yksf06KG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7209,
+          "following_count": 2216,
+          "like_count": 11060,
+          "listed_count": 30,
+          "tweet_count": 11285
+        },
+        "username": "JiZhenYouZi",
+        "verified": true
+      }
+    ]
+  }
+}

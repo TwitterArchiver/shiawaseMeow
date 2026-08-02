@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1874687200740409344",
+        "3_1874687200744587264"
+      ]
+    },
+    "author_id": "2603784802",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1874687430449910088",
+    "created_at": "2025-01-02T05:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T06:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1874687430449910088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vuqi0wgVEs",
+          "end": 59,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1874687430449910088/photo/1",
+          "media_key": "3_1874687200740409344",
+          "start": 36,
+          "url": "https://t.co/vuqi0wgVEs"
+        },
+        {
+          "display_url": "pic.x.com/vuqi0wgVEs",
+          "end": 59,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1874687430449910088/photo/1",
+          "media_key": "3_1874687200744587264",
+          "start": 36,
+          "url": "https://t.co/vuqi0wgVEs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874687430449910088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来长沙也是玩中二节奏😹还花90快夹到了中二节奏的玩偶 我是夹娃娃大神了 https://t.co/vuqi0wgVEs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1874687200740409344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgQ6E5kagAAjf2C.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1874687200744587264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgQ6E5laQAAODb2.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874687200740409344",
+            "3_1874687200744587264"
+          ]
+        },
+        "author_id": "2603784802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1874687430449910088",
+        "created_at": "2025-01-02T05:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T06:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874687430449910088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vuqi0wgVEs",
+              "end": 59,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1874687430449910088/photo/1",
+              "media_key": "3_1874687200740409344",
+              "start": 36,
+              "url": "https://t.co/vuqi0wgVEs"
+            },
+            {
+              "display_url": "pic.x.com/vuqi0wgVEs",
+              "end": 59,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1874687430449910088/photo/1",
+              "media_key": "3_1874687200744587264",
+              "start": 36,
+              "url": "https://t.co/vuqi0wgVEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874687430449910088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来长沙也是玩中二节奏😹还花90快夹到了中二节奏的玩偶 我是夹娃娃大神了 https://t.co/vuqi0wgVEs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "私は眠りに\n@hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪288/520/1314",
+        "name": "hiyorin🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2428,
+          "following_count": 98,
+          "like_count": 1111,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 682
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

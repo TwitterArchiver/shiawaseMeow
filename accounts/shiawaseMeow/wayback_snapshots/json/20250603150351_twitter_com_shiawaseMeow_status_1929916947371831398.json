@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1929880131033825285",
+    "created_at": "2025-06-03T15:03:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T16:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929916947371831398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1347773306922000384",
+          "start": 0,
+          "username": "NerveCulture"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929916947371831398",
+    "in_reply_to_user_id": "1347773306922000384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929914961301586407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NerveCulture 我给它戴了专门的牵引绳并且剪了飞羽，飞不远也飞不走🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1929880131033825285",
+        "created_at": "2025-06-03T15:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T16:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929916947371831398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1347773306922000384",
+              "start": 0,
+              "username": "NerveCulture"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929916947371831398",
+        "in_reply_to_user_id": "1347773306922000384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929914961301586407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NerveCulture 我给它戴了专门的牵引绳并且剪了飞羽，飞不远也飞不走🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1347773306922000384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Birds",
+              "id": "857678661352251392",
+              "name": "Birds"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Birds",
+              "id": "857678661352251392",
+              "name": "Birds"
+            }
+          }
+        ],
+        "conversation_id": "1929880131033825285",
+        "created_at": "2025-06-03T14:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T15:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929914961301586407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929914961301586407",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929880131033825285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow I've never seen a pet bird outside, what if it ran away?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿陪聊 不约不线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12491,
+          "following_count": 140,
+          "like_count": 1839,
+          "listed_count": 25,
+          "media_count": 250,
+          "tweet_count": 1084
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-09T05:13:21.000Z",
+        "description": "I love my cats, and you should too.\nhttps://t.co/I3qYTPXybi\nhttps://t.co/SAvEoMJMeU\nhttps://t.co/VHkL7EY7gA\nhttps://t.co/SJmrmfpyAm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.com/nerveculture",
+                "end": 59,
+                "expanded_url": "http://twitch.com/nerveculture",
+                "start": 36,
+                "url": "https://t.co/I3qYTPXybi"
+              },
+              {
+                "display_url": "youtube.com/@nerveculture",
+                "end": 83,
+                "expanded_url": "https://youtube.com/@nerveculture",
+                "start": 60,
+                "url": "https://t.co/SAvEoMJMeU"
+              },
+              {
+                "display_url": "nerveculture.com",
+                "end": 107,
+                "expanded_url": "http://nerveculture.com",
+                "start": 84,
+                "url": "https://t.co/VHkL7EY7gA"
+              },
+              {
+                "display_url": "discord.gg/d9j8jwvQqF",
+                "end": 131,
+                "expanded_url": "https://discord.gg/d9j8jwvQqF",
+                "start": 108,
+                "url": "https://t.co/SJmrmfpyAm"
+              }
+            ]
+          }
+        },
+        "id": "1347773306922000384",
+        "name": "Nerveculture",
+        "pinned_tweet_id": "1879374452938727867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762608988456194049/9LKcAbYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 2626,
+          "like_count": 7361,
+          "listed_count": 0,
+          "media_count": 346,
+          "tweet_count": 421
+        },
+        "username": "NerveCulture",
+        "verified": false
+      }
+    ]
+  }
+}

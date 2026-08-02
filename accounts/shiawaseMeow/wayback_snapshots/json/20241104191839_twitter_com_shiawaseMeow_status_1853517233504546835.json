@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1853495658948554979",
+    "created_at": "2024-11-04T19:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T20:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853517233504546835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1442907058060161026",
+          "start": 0,
+          "username": "finerain8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853517233504546835",
+    "in_reply_to_user_id": "1442907058060161026",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853495658948554979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@finerain8 这完全就是我。。。😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1853495658948554979",
+        "created_at": "2024-11-04T19:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T20:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853517233504546835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442907058060161026",
+              "start": 0,
+              "username": "finerain8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853517233504546835",
+        "in_reply_to_user_id": "1442907058060161026",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853495658948554979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@finerain8 这完全就是我。。。😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442907058060161026",
+        "conversation_id": "1853495658948554979",
+        "created_at": "2024-11-04T17:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T18:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853495658948554979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1853495658948554979",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道怎么交朋友了，好久都没有交新朋友，很多老朋友也不怎么想主动联系慢慢就淡了。想玩好多游戏致命公司和骗子酒馆等等，一直找不到人，想想一个人玩也没什么大不了的于是我去了，但玩下来快乐会减半。好苦恼呢，脱离了固定的环境我不会交朋友了，我一直以来都是被动交友和回避态度，好烦让我想想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "能不能也对我留点爱",
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 86,
+          "like_count": 472,
+          "listed_count": 0,
+          "tweet_count": 447
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-28T17:40:33.000Z",
+        "description": "你是infp他是enfp，我是cptsd😋",
+        "id": "1442907058060161026",
+        "name": "我是大傻逼😋",
+        "pinned_tweet_id": "1748073225777733695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607646125254938624/-KdoSrcG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3746,
+          "following_count": 153,
+          "like_count": 6337,
+          "listed_count": 17,
+          "tweet_count": 1947
+        },
+        "username": "finerain8",
+        "verified": false
+      }
+    ]
+  }
+}

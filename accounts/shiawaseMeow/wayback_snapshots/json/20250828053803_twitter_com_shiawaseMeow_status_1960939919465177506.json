@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1959921398618702153",
+    "created_at": "2025-08-28T05:38:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T06:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960939919465177506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1857197270141382657",
+          "start": 0,
+          "username": "Merridie171095"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960939919465177506",
+    "in_reply_to_user_id": "1857197270141382657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959921398618702153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Merridie171095 これは私の写真です😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2068,
+        "media_key": "3_1959920987975380992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzMJwSQa8AAPyds.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1959921398618702153",
+        "created_at": "2025-08-28T05:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T06:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960939919465177506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1857197270141382657",
+              "start": 0,
+              "username": "Merridie171095"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960939919465177506",
+        "in_reply_to_user_id": "1857197270141382657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959921398618702153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Merridie171095 これは私の写真です😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959920987975380992"
+          ]
+        },
+        "author_id": "1857197270141382657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "1959921398618702153",
+        "created_at": "2025-08-25T10:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T11:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959921398618702153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yXzHNOg9fd",
+              "end": 46,
+              "expanded_url": "https://x.com/Merridie171095/status/1959921398618702153/photo/1",
+              "media_key": "3_1959920987975380992",
+              "start": 23,
+              "url": "https://t.co/yXzHNOg9fd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959921398618702153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 21082,
+          "like_count": 946,
+          "quote_count": 3,
+          "reply_count": 49,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "結婚してくれるなら今日からピル飲むのやめます https://t.co/yXzHNOg9fd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  ",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1958534397021565120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15239,
+          "following_count": 148,
+          "like_count": 1957,
+          "listed_count": 32,
+          "media_count": 287,
+          "tweet_count": 1258
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T23:02:01.000Z",
+        "description": "なくなりたい。愛されたい。\n本気の人だけ@zabusei1979",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "zabusei1979"
+              }
+            ]
+          }
+        },
+        "id": "1857197270141382657",
+        "name": "こはくです、",
+        "pinned_tweet_id": "1938760439351124468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935138187342741504/fAr6YiOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8099,
+          "following_count": 177,
+          "like_count": 36,
+          "listed_count": 11,
+          "media_count": 60,
+          "tweet_count": 326
+        },
+        "username": "Merridie171095",
+        "verified": false
+      }
+    ]
+  }
+}

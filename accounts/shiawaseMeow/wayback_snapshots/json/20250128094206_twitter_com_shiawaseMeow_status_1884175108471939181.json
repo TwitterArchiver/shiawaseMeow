@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1883906232764993705",
+    "created_at": "2025-01-28T09:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T10:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884175108471939181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1654741326922137600",
+          "start": 0,
+          "username": "TeddyDeerNoBeer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884175108471939181",
+    "in_reply_to_user_id": "1654741326922137600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884174655445164353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TeddyDeerNoBeer 这已经是我第四个号😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1883906232764993705",
+        "created_at": "2025-01-28T09:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T10:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884175108471939181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1654741326922137600",
+              "start": 0,
+              "username": "TeddyDeerNoBeer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884175108471939181",
+        "in_reply_to_user_id": "1654741326922137600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884174655445164353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeddyDeerNoBeer 这已经是我第四个号😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654741326922137600",
+        "conversation_id": "1883906232764993705",
+        "created_at": "2025-01-28T09:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T10:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884174655445164353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884174655445164353",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883906232764993705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 不是姐们，，，我才发现好像好久没刷到你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "4.0何も無いんだ\n备用@hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "纯绿🚪288/520/1314",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1876979351096361050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3426,
+          "following_count": 110,
+          "like_count": 1307,
+          "listed_count": 4,
+          "media_count": 140,
+          "tweet_count": 736
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T06:54:33.000Z",
+        "description": "反弹反弹反弹反弹反弹！",
+        "id": "1654741326922137600",
+        "location": "Irvine, CA",
+        "name": "TeddyDeer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864191652996501504/N6U_0onZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 248,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 594
+        },
+        "username": "TeddyDeerNoBeer",
+        "verified": false
+      }
+    ]
+  }
+}

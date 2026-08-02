@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1882820032964800870",
+    "created_at": "2025-01-25T07:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T08:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883061947308151187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1576673750870675456",
+          "start": 0,
+          "username": "didi07392064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883061947308151187",
+    "in_reply_to_user_id": "1576673750870675456",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882820756801020306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@didi07392064 ₍˄·͈༝·͈˄*₎◞ ̑̑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1882820032964800870",
+        "created_at": "2025-01-25T07:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T08:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883061947308151187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1576673750870675456",
+              "start": 0,
+              "username": "didi07392064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883061947308151187",
+        "in_reply_to_user_id": "1576673750870675456",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882820756801020306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didi07392064 ₍˄·͈༝·͈˄*₎◞ ̑̑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576673750870675456",
+        "conversation_id": "1882820032964800870",
+        "created_at": "2025-01-24T16:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T17:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882820756801020306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882820756801020306",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882820032964800870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 好萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "4.0何も無いんだ\n备用@hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "纯绿🚪288/520/1314",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1876979351096361050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3306,
+          "following_count": 108,
+          "like_count": 1289,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 726
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-02T20:41:36.000Z",
+        "description": "你对我的坏我心里都知道\n画画号@ohtheykillkenny",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "ohtheykillkenny"
+              }
+            ]
+          }
+        },
+        "id": "1576673750870675456",
+        "name": "那很坏了",
+        "pinned_tweet_id": "1872985877150089575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878073456056819712/0Ffu3rwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 275,
+          "like_count": 10917,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 6341
+        },
+        "username": "didi07392064",
+        "verified": false
+      }
+    ]
+  }
+}

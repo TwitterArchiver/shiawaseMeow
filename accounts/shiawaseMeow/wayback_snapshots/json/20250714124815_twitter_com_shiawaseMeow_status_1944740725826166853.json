@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1944658581456044229",
+    "created_at": "2025-07-14T12:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T13:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944740725826166853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1460497400888451072",
+          "start": 0,
+          "username": "zhendehaoshenqi"
+        },
+        {
+          "end": 32,
+          "id": "1857197270141382657",
+          "start": 17,
+          "username": "Merridie171095"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944740725826166853",
+    "in_reply_to_user_id": "1460497400888451072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944724286339678216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhendehaoshenqi @Merridie171095 已经是他第二个号了，真的好恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1944658581456044229",
+        "created_at": "2025-07-14T12:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T13:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944740725826166853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1460497400888451072",
+              "start": 0,
+              "username": "zhendehaoshenqi"
+            },
+            {
+              "end": 32,
+              "id": "1857197270141382657",
+              "start": 17,
+              "username": "Merridie171095"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944740725826166853",
+        "in_reply_to_user_id": "1460497400888451072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944724286339678216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhendehaoshenqi @Merridie171095 已经是他第二个号了，真的好恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1460497400888451072",
+        "conversation_id": "1944658581456044229",
+        "created_at": "2025-07-14T11:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T12:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944724286339678216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1857197270141382657",
+              "start": 0,
+              "username": "Merridie171095"
+            },
+            {
+              "end": 29,
+              "id": "2603784802",
+              "start": 16,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944724286339678216",
+        "in_reply_to_user_id": "1857197270141382657",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944658581456044229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Merridie171095 @shiawaseMeow"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  ",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1927769315874402419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14679,
+          "following_count": 145,
+          "like_count": 1961,
+          "listed_count": 32,
+          "media_count": 277,
+          "tweet_count": 1206
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-16T06:38:19.000Z",
+        "description": "",
+        "id": "1460497400888451072",
+        "name": "OTAKUHERO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897495684414152704/ka1xnD3Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 504,
+          "like_count": 20781,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 125
+        },
+        "username": "zhendehaoshenqi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T23:02:01.000Z",
+        "description": "なくなりたい。愛されたい。",
+        "id": "1857197270141382657",
+        "name": "こはくです、",
+        "pinned_tweet_id": "1938760439351124468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935138187342741504/fAr6YiOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3773,
+          "following_count": 178,
+          "like_count": 35,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 211
+        },
+        "username": "Merridie171095",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860624768053243904"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1860625155321676092",
+    "created_at": "2024-11-24T10:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T11:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1860625155321676092"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oqdoZk4YBM",
+          "end": 38,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1860625155321676092/photo/1",
+          "media_key": "3_1860624768053243904",
+          "start": 15,
+          "url": "https://t.co/oqdoZk4YBM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860625155321676092",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ᯠ _   ̫  _ ᯄ ੭ https://t.co/oqdoZk4YBM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1892,
+        "media_key": "3_1860624768053243904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdJEXlgbcAAwkvl.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860624768053243904"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1860625155321676092",
+        "created_at": "2024-11-24T10:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T11:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860625155321676092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oqdoZk4YBM",
+              "end": 38,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1860625155321676092/photo/1",
+              "media_key": "3_1860624768053243904",
+              "start": 15,
+              "url": "https://t.co/oqdoZk4YBM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860625155321676092",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ᯠ _   ̫  _ ᯄ ੭ https://t.co/oqdoZk4YBM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "フラッシュバック · 蝉の声 · 二度とは帰らぬ君。",
+        "id": "2603784802",
+        "location": "我很可爱 请给我钱",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 92,
+          "like_count": 865,
+          "listed_count": 1,
+          "tweet_count": 547
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1844053011553009664"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1844053596566110362",
+    "created_at": "2024-10-09T16:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T17:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1844053596566110362"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m7Pnxdulvi",
+          "end": 35,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1844053596566110362/video/1",
+          "media_key": "7_1844053011553009664",
+          "start": 12,
+          "url": "https://t.co/m7Pnxdulvi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1844053596566110362",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "普瑞巴林让我变得很开朗 https://t.co/m7Pnxdulvi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3371,
+        "height": 3840,
+        "media_key": "7_1844053011553009664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1844053011553009664/pu/img/v8VkaBMEkYbqufn-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1844053011553009664/pu/vid/avc1/320x568/we6B8JJS2NZqNtDT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1844053011553009664/pu/vid/avc1/480x852/C_hVXHIpYdtd-yaF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1844053011553009664/pu/vid/avc1/720x1280/n9SwkJ3FroRRHzdO.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1844053011553009664/pu/pl/6aApVx0MLVSHe10m.m3u8?tag=12"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1844053011553009664"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1844053596566110362",
+        "created_at": "2024-10-09T16:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T17:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1844053596566110362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m7Pnxdulvi",
+              "end": 35,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1844053596566110362/video/1",
+              "media_key": "7_1844053011553009664",
+              "start": 12,
+              "url": "https://t.co/m7Pnxdulvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844053596566110362",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林让我变得很开朗 https://t.co/m7Pnxdulvi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "世界も涙も強さも忘れて",
+        "id": "2603784802",
+        "location": "🚪520",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 73,
+          "like_count": 301,
+          "listed_count": 0,
+          "tweet_count": 318
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

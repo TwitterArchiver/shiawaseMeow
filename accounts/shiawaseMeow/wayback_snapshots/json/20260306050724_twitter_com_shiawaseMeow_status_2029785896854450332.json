@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2029746458673762621",
+    "created_at": "2026-03-06T05:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T06:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029785896854450332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1621529119648514048",
+          "start": 0,
+          "username": "kawalyq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029785896854450332",
+    "in_reply_to_user_id": "1621529119648514048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029779322316492902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawalyq 就是室友分西瓜没有要我去也没告诉我，我一个人在教室坐着没朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2029746458673762621",
+        "created_at": "2026-03-06T05:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T06:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029785896854450332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1621529119648514048",
+              "start": 0,
+              "username": "kawalyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029785896854450332",
+        "in_reply_to_user_id": "1621529119648514048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029779322316492902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawalyq 就是室友分西瓜没有要我去也没告诉我，我一个人在教室坐着没朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621529119648514048",
+        "conversation_id": "2029746458673762621",
+        "created_at": "2026-03-06T04:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T05:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029779322316492902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029779322316492902",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029746458673762621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 分西瓜那里没看懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫备用唯一小号@hiyorinnosekai 永远19岁 | 私信详情",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位只要88感谢投喂",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15375,
+          "following_count": 151,
+          "like_count": 2051,
+          "listed_count": 28,
+          "media_count": 345,
+          "tweet_count": 1463
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T15:20:58.000Z",
+        "description": "追寻戏剧性的故事情节 ｜ 广州摄影接互勉，高质量可委托 ｜ 纯乐子人，面对抽象人有概率掉落小红包  ｜ 希望多认识些朋友，可互fo",
+        "id": "1621529119648514048",
+        "location": "未来道具研究所",
+        "name": "Kawa",
+        "pinned_tweet_id": "1727364393179234311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755993988400898048/cEWbqndo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 208,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1104
+        },
+        "username": "kawalyq",
+        "verified": false
+      }
+    ]
+  }
+}

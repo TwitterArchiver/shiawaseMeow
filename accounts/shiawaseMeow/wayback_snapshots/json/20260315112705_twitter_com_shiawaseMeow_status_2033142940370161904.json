@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2033136554399674402",
+    "created_at": "2026-03-15T11:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T12:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033142940370161904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2000107313039097857",
+          "start": 0,
+          "username": "AitorQuint6029"
+        },
+        {
+          "end": 32,
+          "id": "1676572709742944259",
+          "start": 16,
+          "username": "Technology80420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033142940370161904",
+    "in_reply_to_user_id": "2000107313039097857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033142592917884935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AitorQuint6029 @Technology80420 不是自己的，是要换了那里的衬衫和马甲，哎，和你说不清，当时就是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2033136554399674402",
+        "created_at": "2026-03-15T11:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033142940370161904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2000107313039097857",
+              "start": 0,
+              "username": "AitorQuint6029"
+            },
+            {
+              "end": 32,
+              "id": "1676572709742944259",
+              "start": 16,
+              "username": "Technology80420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033142940370161904",
+        "in_reply_to_user_id": "2000107313039097857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033142592917884935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AitorQuint6029 @Technology80420 不是自己的，是要换了那里的衬衫和马甲，哎，和你说不清，当时就是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000107313039097857",
+        "conversation_id": "2033136554399674402",
+        "created_at": "2026-03-15T11:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033142592917884935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1676572709742944259",
+              "start": 0,
+              "username": "Technology80420"
+            },
+            {
+              "end": 30,
+              "id": "2603784802",
+              "start": 17,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033142592917884935",
+        "in_reply_to_user_id": "1676572709742944259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033136985284530685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Technology80420 @shiawaseMeow 骗人的，看守所穿的衣服都是自己的，只不过外面穿个马甲，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫备用唯一小号@hiyorinnosekai 永远19岁 | 私信详情",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位只要88感谢投喂",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15648,
+          "following_count": 154,
+          "like_count": 2056,
+          "listed_count": 29,
+          "media_count": 350,
+          "tweet_count": 1479
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T07:35:36.000Z",
+        "description": "",
+        "id": "2000107313039097857",
+        "name": "Aitor Quintana Martin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020919406289879040/z77L1L5w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 69,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 857
+        },
+        "username": "AitorQuint6029",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T12:44:33.000Z",
+        "description": "业余摄影师 she/her",
+        "id": "1676572709742944259",
+        "location": "地球",
+        "name": "TechnologyMatrix科技矩阵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676575730111598595/d9Z8YgeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 2104,
+          "like_count": 66551,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 4573
+        },
+        "username": "Technology80420",
+        "verified": false
+      }
+    ]
+  }
+}

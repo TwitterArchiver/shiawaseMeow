@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1851038541989708150",
+    "created_at": "2024-10-28T23:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-29T00:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1851038541989708150"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1851038541989708150",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "反正我这个人也很随便，只要能陪我就行，其他的我都再也不想管再也不想去深思去追究了。。我就这样吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1851038541989708150",
+        "created_at": "2024-10-28T23:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T00:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851038541989708150"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1851038541989708150",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "反正我这个人也很随便，只要能陪我就行，其他的我都再也不想管再也不想去深思去追究了。。我就这样吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "能不能也对我留点爱",
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 85,
+          "like_count": 398,
+          "listed_count": 0,
+          "tweet_count": 412
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

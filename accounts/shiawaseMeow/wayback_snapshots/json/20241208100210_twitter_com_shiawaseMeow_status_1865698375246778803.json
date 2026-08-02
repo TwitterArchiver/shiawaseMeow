@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1865697080301518977",
+    "created_at": "2024-12-08T10:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T11:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865698375246778803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1072466455617261569",
+          "start": 0,
+          "username": "Nian_0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865698375246778803",
+    "in_reply_to_user_id": "1072466455617261569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865697080301518977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nian_0v0 草🌚🌚🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1865697080301518977",
+        "created_at": "2024-12-08T10:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T11:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865698375246778803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1072466455617261569",
+              "start": 0,
+              "username": "Nian_0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865698375246778803",
+        "in_reply_to_user_id": "1072466455617261569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865697080301518977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nian_0v0 草🌚🌚🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1072466455617261569",
+        "conversation_id": "1865697080301518977",
+        "created_at": "2024-12-08T09:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T10:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865697080301518977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shiawasemeow/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/shiawasemeow/status/1865425657750262125",
+              "start": 5,
+              "url": "https://t.co/dLADywEsIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865697080301518977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865425657750262125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求教程。 https://t.co/dLADywEsIL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "ノンブレス・オブリージュ\n另一個我 @hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin🎀🐾",
+        "pinned_tweet_id": "1864188853613171155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 98,
+          "like_count": 943,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 574
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-11T12:21:43.000Z",
+        "description": "不加微信.没有门槛.随缘私联｜紫鸟vpn：https://t.co/NtzWG5GTt7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ziniao.xyz/#/register?cod…",
+                "end": 44,
+                "expanded_url": "https://ziniao.xyz/#/register?code=YdrgIU77",
+                "start": 21,
+                "url": "https://t.co/NtzWG5GTt7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nian_ovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nian_ovo",
+                "start": 0,
+                "url": "https://t.co/OewUEl36PH"
+              }
+            ]
+          }
+        },
+        "id": "1072466455617261569",
+        "location": "我不想上学我好累",
+        "name": "我不想去学校",
+        "pinned_tweet_id": "1855499932322652512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820695676868866048/A22aFiKF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 165,
+          "like_count": 646,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 1206
+        },
+        "url": "https://t.co/OewUEl36PH",
+        "username": "Nian_0v0",
+        "verified": false
+      }
+    ]
+  }
+}

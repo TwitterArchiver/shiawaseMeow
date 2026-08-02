@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1928280220110397538",
+    "created_at": "2025-05-31T01:55:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T02:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928631333779091658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1596489618429562882",
+          "start": 0,
+          "username": "plzjustluvmeqwq"
+        },
+        {
+          "end": 25,
+          "id": "1546031395465822208",
+          "start": 17,
+          "username": "aknnn_a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928631333779091658",
+    "in_reply_to_user_id": "1596489618429562882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928345729745273182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plzjustluvmeqwq @aknnn_a 实际上衣服二手都卖不了几个钱而且店主还要求巨多一直删改推迟工资 300的衣服寄拍付你50拍室外视频谁想接🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1928280220110397538",
+        "created_at": "2025-05-31T01:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T02:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928631333779091658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596489618429562882",
+              "start": 0,
+              "username": "plzjustluvmeqwq"
+            },
+            {
+              "end": 25,
+              "id": "1546031395465822208",
+              "start": 17,
+              "username": "aknnn_a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928631333779091658",
+        "in_reply_to_user_id": "1596489618429562882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928345729745273182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plzjustluvmeqwq @aknnn_a 实际上衣服二手都卖不了几个钱而且店主还要求巨多一直删改推迟工资 300的衣服寄拍付你50拍室外视频谁想接🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596489618429562882",
+        "conversation_id": "1928280220110397538",
+        "created_at": "2025-05-30T07:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T08:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928345729745273182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1546031395465822208",
+              "start": 0,
+              "username": "aknnn_a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928345729745273182",
+        "in_reply_to_user_id": "1546031395465822208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928280220110397538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aknnn_a 特别是那种有店家找她们寄拍的，我操给她们钱还送她们衣服，我哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿陪聊 不约不线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12317,
+          "following_count": 140,
+          "like_count": 1823,
+          "listed_count": 24,
+          "media_count": 239,
+          "tweet_count": 1064
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T13:03:22.000Z",
+        "description": "你好我是纱奈｜推文内容多为自拍和生活｜会有负能发言｜有男朋友｜我没有朋友我想和女孩子做朋友",
+        "id": "1596489618429562882",
+        "name": "Lollipop",
+        "pinned_tweet_id": "1918495745256325232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925452664349106177/MU-HE6q__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2895,
+          "following_count": 206,
+          "like_count": 7383,
+          "listed_count": 5,
+          "media_count": 346,
+          "tweet_count": 3113
+        },
+        "username": "plzjustluvmeqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T07:19:53.000Z",
+        "description": "",
+        "id": "1546031395465822208",
+        "name": "Yuri",
+        "pinned_tweet_id": "1861584556257878041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909595047772979200/mILeY5ve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 139,
+          "like_count": 4692,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 974
+        },
+        "username": "aknnn_a",
+        "verified": false
+      }
+    ]
+  }
+}

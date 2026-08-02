@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1885623472791105536"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1885623785031864686",
+    "created_at": "2025-02-01T09:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T10:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885623785031864686"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/042mWxWsX5",
+          "end": 28,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1885623785031864686/video/1",
+          "media_key": "7_1885623472791105536",
+          "start": 5,
+          "url": "https://t.co/042mWxWsX5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885623785031864686",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喵喵喵？ https://t.co/042mWxWsX5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10470,
+        "height": 3840,
+        "media_key": "7_1885623472791105536",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1885623472791105536/pu/img/LG2h7QID8ItveOAY.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1885623472791105536/pu/vid/avc1/320x568/m2d9JIfimwCUUxMu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1885623472791105536/pu/vid/avc1/480x852/Gk8WSASOezyqJNE-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1885623472791105536/pu/vid/avc1/720x1280/-h__jJVBS7MzlgNj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1885623472791105536/pu/pl/P8OYM0DbDERfofYf.m3u8?tag=12"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1885623472791105536"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1885623785031864686",
+        "created_at": "2025-02-01T09:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T10:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885623785031864686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/042mWxWsX5",
+              "end": 28,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1885623785031864686/video/1",
+              "media_key": "7_1885623472791105536",
+              "start": 5,
+              "url": "https://t.co/042mWxWsX5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885623785031864686",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵？ https://t.co/042mWxWsX5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "4.0何も無いんだ\n备用@hiyorinnosekai（这个暂时登不上了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "纯绿🚪288/520/1314",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1876979351096361050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3651,
+          "following_count": 112,
+          "like_count": 1336,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 743
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1906929565592961025"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1906929748909166799",
+    "created_at": "2025-04-01T04:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T05:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906929748909166799"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gbCCnrkNMg",
+          "end": 36,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1906929748909166799/video/1",
+          "media_key": "7_1906929565592961025",
+          "start": 13,
+          "url": "https://t.co/gbCCnrkNMg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906929748909166799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这种呆傻的喵咪最好欺负了 https://t.co/gbCCnrkNMg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20765,
+        "height": 1920,
+        "media_key": "7_1906929565592961025",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1906929565592961025/pu/img/JwoIXPLshVTSLu8s.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906929565592961025/pu/vid/avc1/320x568/XspH3d-XenspsNGL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906929565592961025/pu/vid/avc1/480x852/lLMgkhOs9Y3bTO6u.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906929565592961025/pu/vid/avc1/720x1280/UstWmouJqSI4lJzQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1906929565592961025/pu/pl/It00wMp5JY4qydnA.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1906929565592961025"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1906929748909166799",
+        "created_at": "2025-04-01T04:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T05:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906929748909166799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gbCCnrkNMg",
+              "end": 36,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1906929748909166799/video/1",
+              "media_key": "7_1906929565592961025",
+              "start": 13,
+              "url": "https://t.co/gbCCnrkNMg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906929748909166799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种呆傻的喵咪最好欺负了 https://t.co/gbCCnrkNMg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 绝望的neet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1899788877399023877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5703,
+          "following_count": 125,
+          "like_count": 1545,
+          "listed_count": 11,
+          "media_count": 166,
+          "tweet_count": 824
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

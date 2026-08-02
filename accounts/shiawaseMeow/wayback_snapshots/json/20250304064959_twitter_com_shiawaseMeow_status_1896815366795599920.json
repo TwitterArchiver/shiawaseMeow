@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1896428956452311509",
+    "created_at": "2025-03-04T06:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T07:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896815366795599920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1837843837349449728",
+          "start": 0,
+          "username": "yuzhoushuijiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896815366795599920",
+    "in_reply_to_user_id": "1837843837349449728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896428956452311509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzhoushuijiao 我再也不这样了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1896428956452311509",
+        "created_at": "2025-03-04T06:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T07:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896815366795599920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1837843837349449728",
+              "start": 0,
+              "username": "yuzhoushuijiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896815366795599920",
+        "in_reply_to_user_id": "1837843837349449728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896428956452311509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzhoushuijiao 我再也不这样了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837843837349449728",
+        "conversation_id": "1896428956452311509",
+        "created_at": "2025-03-03T05:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T06:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896428956452311509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896428956452311509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 32205,
+          "like_count": 304,
+          "quote_count": 8,
+          "reply_count": 75,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "你们会引用对方的消息一句一句回应吗？你们会在通完电话之后再发文字或者表情包，还是就留下一个通话时间结束聊天？你们会在对方睡着的时候发很多消息吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n（已成年19岁 | 纯绿陪聊🚪288/520/1314 | 线下过门询价\n备注联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "我很可爱请给我钱",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1896786991225958700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5016,
+          "following_count": 121,
+          "like_count": 1466,
+          "listed_count": 8,
+          "media_count": 149,
+          "tweet_count": 778
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T13:18:18.000Z",
+        "description": "有感觉耳朵烫烫的吗？我好想你呀",
+        "id": "1837843837349449728",
+        "location": "呼吸这一秒的心意",
+        "name": "宇宙水饺",
+        "pinned_tweet_id": "1895168783226151005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839328108958371840/4vrL_ap9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6398,
+          "following_count": 139,
+          "like_count": 9075,
+          "listed_count": 9,
+          "media_count": 830,
+          "tweet_count": 6357
+        },
+        "username": "yuzhoushuijiao",
+        "verified": false
+      }
+    ]
+  }
+}

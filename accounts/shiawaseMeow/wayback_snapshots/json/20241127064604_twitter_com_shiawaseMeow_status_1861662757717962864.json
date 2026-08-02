@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1861340177828036775",
+    "created_at": "2024-11-27T06:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T07:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861662757717962864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1789136300819566592",
+          "start": 0,
+          "username": "CleverKiwi14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861662757717962864",
+    "in_reply_to_user_id": "1789136300819566592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861340177828036775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CleverKiwi14 对不起下次换个软件找"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1861340177828036775",
+        "created_at": "2024-11-27T06:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T07:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861662757717962864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1789136300819566592",
+              "start": 0,
+              "username": "CleverKiwi14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861662757717962864",
+        "in_reply_to_user_id": "1789136300819566592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861340177828036775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CleverKiwi14 对不起下次换个软件找"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789136300819566592",
+        "conversation_id": "1861340177828036775",
+        "created_at": "2024-11-26T09:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T10:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861340177828036775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861340177828036775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 90691,
+          "like_count": 740,
+          "quote_count": 20,
+          "reply_count": 117,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "一群在X上找真爱的傻逼…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "フラッシュバック · 蝉の声 · 二度とは帰らぬ君。",
+        "id": "2603784802",
+        "location": "我很可爱 请给我钱",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 93,
+          "like_count": 892,
+          "listed_count": 1,
+          "tweet_count": 563
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T03:32:01.000Z",
+        "description": "只是我的心事/四爱/勿扰",
+        "id": "1789136300819566592",
+        "name": "kiwi（求暴富版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841040829869137930/5vsQ8Zdl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2646,
+          "following_count": 109,
+          "like_count": 3290,
+          "listed_count": 2,
+          "tweet_count": 1632
+        },
+        "username": "CleverKiwi14",
+        "verified": false
+      }
+    ]
+  }
+}

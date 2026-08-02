@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1853777151692243379",
+    "created_at": "2024-11-05T12:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-05T13:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1853777151692243379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shiawaseMeow/s…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/shiawaseMeow/status/1853743418486432255",
+          "start": 41,
+          "url": "https://t.co/VycU6agIPU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853777151692243379",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853743418486432255",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你要是看见这条你就去把那个退了，我懒得拿我也不想要前任的东西。能不能别恶心人？。 https://t.co/VycU6agIPU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1853777151692243379",
+        "created_at": "2024-11-05T12:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T13:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853777151692243379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shiawaseMeow/s…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/shiawaseMeow/status/1853743418486432255",
+              "start": 41,
+              "url": "https://t.co/VycU6agIPU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853777151692243379",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853743418486432255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你要是看见这条你就去把那个退了，我懒得拿我也不想要前任的东西。能不能别恶心人？。 https://t.co/VycU6agIPU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1853743418486432255",
+        "created_at": "2024-11-05T10:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T11:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853743418486432255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1853743418486432255",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥我有个莫名其妙的快递是别人买给我的🙀啥意思谁给我寄炸弹了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "能不能也对我留点爱",
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 87,
+          "like_count": 477,
+          "listed_count": 0,
+          "tweet_count": 453
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

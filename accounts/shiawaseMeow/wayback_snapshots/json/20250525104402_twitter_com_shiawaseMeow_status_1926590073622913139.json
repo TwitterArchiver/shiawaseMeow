@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1926250812939841998",
+    "created_at": "2025-05-25T10:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T11:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926590073622913139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850566498412318720",
+          "start": 0,
+          "username": "luobo4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926590073622913139",
+    "in_reply_to_user_id": "1850566498412318720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926250812939841998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luobo4444 这期删了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1926250812939841998",
+        "created_at": "2025-05-25T10:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T11:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926590073622913139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1850566498412318720",
+              "start": 0,
+              "username": "luobo4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926590073622913139",
+        "in_reply_to_user_id": "1850566498412318720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926250812939841998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobo4444 这期删了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850566498412318720",
+        "conversation_id": "1926250812939841998",
+        "created_at": "2025-05-24T12:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T13:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926250812939841998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926250812939841998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2133,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "因为你从小缺爱又自卑 也渴望被爱 受委屈的時候没有父亲為你出头没有母亲为你悉心指导 没有人撑腰 這些年你就像野草一样坚强的给自己做避风港 辛苦又滚烫 以至于外界的人随便对你伸出手你就分不清是人是鬼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11363,
+          "following_count": 141,
+          "like_count": 1805,
+          "listed_count": 21,
+          "media_count": 233,
+          "tweet_count": 1042
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:54:25.000Z",
+        "description": "ig： yanyan_kawa1｜空蝉原｜06｜INFP｜ 高中生｜不互关互转｜日本語学习中｜乌蒙dx｜随缘fo｜是的我是萝卜哥｜🚪128",
+        "id": "1850566498412318720",
+        "location": "空蝉如此世，幻灭若朝霞",
+        "name": "hara🥕",
+        "pinned_tweet_id": "1850571520382521422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902213129842642944/arvYOjXR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6639,
+          "following_count": 272,
+          "like_count": 2452,
+          "listed_count": 9,
+          "media_count": 301,
+          "tweet_count": 1709
+        },
+        "username": "luobo4444",
+        "verified": false
+      }
+    ]
+  }
+}

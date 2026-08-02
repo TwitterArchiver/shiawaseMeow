@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2081302662470148221",
+    "created_at": "2026-07-27T01:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T02:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081558799442440314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025288475206189056",
+          "start": 0,
+          "username": "mi0599458659662"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081558799442440314",
+    "in_reply_to_user_id": "2025288475206189056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081302662470148221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mi0599458659662 我和前男友哥就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2081302662470148221",
+        "created_at": "2026-07-27T01:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T02:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081558799442440314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025288475206189056",
+              "start": 0,
+              "username": "mi0599458659662"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081558799442440314",
+        "in_reply_to_user_id": "2025288475206189056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081302662470148221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi0599458659662 我和前男友哥就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025288475206189056",
+        "conversation_id": "2081302662470148221",
+        "created_at": "2026-07-26T08:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T09:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081302662470148221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081302662470148221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 29292,
+          "like_count": 203,
+          "quote_count": 5,
+          "reply_count": 73,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下。我是你对象。每天宅在家。什么也不做。天天打游戏。你一回来就黏着你。然后你走进厨房发现我吃了一天的泡面。还不洗碗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "我是姬和酱呀♡\n盗用禁止🚫",
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位88",
+        "name": "姬和酱",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068649812048982016/TTM5l_or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15681,
+          "following_count": 168,
+          "like_count": 2197,
+          "listed_count": 31,
+          "media_count": 357,
+          "tweet_count": 1537
+        },
+        "url": "",
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T19:16:29.000Z",
+        "description": "最不爱变脸之人",
+        "id": "2025288475206189056",
+        "name": "T . T",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081458447498063872/dZsVmSCH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 3,
+          "like_count": 1246,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 300
+        },
+        "url": "",
+        "username": "mi0599458659662",
+        "verified": false
+      }
+    ]
+  }
+}

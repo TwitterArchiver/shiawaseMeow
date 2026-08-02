@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1834200646821543983",
+    "created_at": "2024-09-12T13:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T14:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834216427634799043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1466608101038358533",
+          "start": 0,
+          "username": "jiaopi_O3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834216427634799043",
+    "in_reply_to_user_id": "1466608101038358533",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834216370403508358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaopi_O3O 我也觉得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1834200646821543983",
+        "created_at": "2024-09-12T13:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T14:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834216427634799043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1466608101038358533",
+              "start": 0,
+              "username": "jiaopi_O3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834216427634799043",
+        "in_reply_to_user_id": "1466608101038358533",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834216370403508358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaopi_O3O 我也觉得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1466608101038358533",
+        "conversation_id": "1834200646821543983",
+        "created_at": "2024-09-12T13:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T14:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834216370403508358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834216370403508358",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834200646821543983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 这个好像一个小虎牙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "世界も涙も強さも忘れて",
+        "id": "2603784802",
+        "location": "迷う",
+        "name": "hiyorin",
+        "pinned_tweet_id": "1824449177591615604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 52,
+          "like_count": 204,
+          "listed_count": 0,
+          "tweet_count": 211
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-03T03:20:06.000Z",
+        "description": "-👦🏻2.7版本-偶尔会出现很多BUG",
+        "id": "1466608101038358533",
+        "location": "北京, 中华人民共和国",
+        "name": "JOJO",
+        "pinned_tweet_id": "1592544895390355456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1469528479204921345/ucWojJFE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 241,
+          "like_count": 394,
+          "listed_count": 0,
+          "tweet_count": 237
+        },
+        "username": "jiaopi_O3O",
+        "verified": false
+      }
+    ]
+  }
+}

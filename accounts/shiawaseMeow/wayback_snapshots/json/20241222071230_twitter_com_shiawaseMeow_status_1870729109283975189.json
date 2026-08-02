@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1870725012640223584",
+    "created_at": "2024-12-22T07:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T08:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870729109283975189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1781705852522831872",
+          "start": 0,
+          "username": "BANFAN_KK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870729109283975189",
+    "in_reply_to_user_id": "1781705852522831872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870727181342810620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BANFAN_KK 不是疹子的感觉， 像不痛不痒的皮下色素沉淀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1870725012640223584",
+        "created_at": "2024-12-22T07:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T08:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870729109283975189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1781705852522831872",
+              "start": 0,
+              "username": "BANFAN_KK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870729109283975189",
+        "in_reply_to_user_id": "1781705852522831872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870727181342810620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BANFAN_KK 不是疹子的感觉， 像不痛不痒的皮下色素沉淀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781705852522831872",
+        "conversation_id": "1870725012640223584",
+        "created_at": "2024-12-22T07:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T08:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870727181342810620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870727181342810620",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870725012640223584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 会不会是过敏了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "ノンブレス・オブリージュ\n另一個我 @hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "纯绿🚪288/520/1314",
+        "name": "hiyorin🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2401,
+          "following_count": 96,
+          "like_count": 1056,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 650
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T15:26:01.000Z",
+        "description": "谢谢",
+        "id": "1781705852522831872",
+        "name": "🦷ice",
+        "pinned_tweet_id": "1868865589449834989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796475873941696513/0CQB_HEB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 258,
+          "like_count": 4158,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1799
+        },
+        "username": "BANFAN_KK",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1866889233513975866",
+    "created_at": "2024-12-11T17:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T18:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866891588347236822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1604107401354809344",
+          "start": 0,
+          "username": "lliz3o3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866891588347236822",
+    "in_reply_to_user_id": "1604107401354809344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866889233513975866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lliz3o3 我看吐了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1866889233513975866",
+        "created_at": "2024-12-11T17:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T18:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866891588347236822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1604107401354809344",
+              "start": 0,
+              "username": "lliz3o3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866891588347236822",
+        "in_reply_to_user_id": "1604107401354809344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866889233513975866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lliz3o3 我看吐了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866889224307585024"
+          ]
+        },
+        "author_id": "1604107401354809344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1866889233513975866",
+        "created_at": "2024-12-11T16:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T17:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866889233513975866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LN1D3kvLd5",
+              "end": 31,
+              "expanded_url": "https://x.com/lliz3o3/status/1866889233513975866/photo/1",
+              "media_key": "3_1866889224307585024",
+              "start": 8,
+              "url": "https://t.co/LN1D3kvLd5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866889233513975866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太恶心了……. https://t.co/LN1D3kvLd5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "ノンブレス・オブリージュ\n另一個我 @hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2154,
+          "following_count": 94,
+          "like_count": 960,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 582
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T13:33:18.000Z",
+        "description": "你又来看我了嘛(՞ o̴̶̷̤ ̫ o̴̶̷̤ ՞) 🥰提问箱https://t.co/G2TXorTfeQ 🚪88/188/520无上限",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lliz3o3",
+                "end": 54,
+                "expanded_url": "https://ngl.link/lliz3o3",
+                "start": 31,
+                "url": "https://t.co/G2TXorTfeQ"
+              }
+            ]
+          }
+        },
+        "id": "1604107401354809344",
+        "location": "死屍堆",
+        "name": "死屍 ᓚᘏᗢ",
+        "pinned_tweet_id": "1826491814867861898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753573665256734720/Qn8kNY5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 57,
+          "like_count": 5260,
+          "listed_count": 4,
+          "media_count": 92,
+          "tweet_count": 1092
+        },
+        "username": "lliz3o3",
+        "verified": false
+      }
+    ]
+  }
+}

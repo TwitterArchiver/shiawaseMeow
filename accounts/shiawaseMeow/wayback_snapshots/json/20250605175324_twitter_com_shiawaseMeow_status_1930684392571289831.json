@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930684249688154112"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1930684392571289831",
+    "created_at": "2025-06-05T17:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T18:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930684392571289831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TEe0u4vA7j",
+          "end": 35,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1930684392571289831/photo/1",
+          "media_key": "3_1930684249688154112",
+          "start": 12,
+          "url": "https://t.co/TEe0u4vA7j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930684392571289831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喹硫平没有你我怎么活😭 https://t.co/TEe0u4vA7j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930684249688154112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GssrGIwaoAA37S6.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930684249688154112"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1930684392571289831",
+        "created_at": "2025-06-05T17:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T18:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930684392571289831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TEe0u4vA7j",
+              "end": 35,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1930684392571289831/photo/1",
+              "media_key": "3_1930684249688154112",
+              "start": 12,
+              "url": "https://t.co/TEe0u4vA7j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930684392571289831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喹硫平没有你我怎么活😭 https://t.co/TEe0u4vA7j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿陪聊 不约不线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13166,
+          "following_count": 140,
+          "like_count": 1843,
+          "listed_count": 27,
+          "media_count": 252,
+          "tweet_count": 1092
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

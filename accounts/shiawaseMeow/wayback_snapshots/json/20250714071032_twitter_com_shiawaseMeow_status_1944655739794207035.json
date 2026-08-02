@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1944367197285199917",
+    "created_at": "2025-07-14T07:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T08:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944655739794207035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1444449256224534528",
+          "start": 0,
+          "username": "inrags3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944655739794207035",
+    "in_reply_to_user_id": "1444449256224534528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944502686612898105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inrags3 玩的是乌龟模式吗🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1944367197285199917",
+        "created_at": "2025-07-14T07:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T08:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944655739794207035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1444449256224534528",
+              "start": 0,
+              "username": "inrags3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944655739794207035",
+        "in_reply_to_user_id": "1444449256224534528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944502686612898105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inrags3 玩的是乌龟模式吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444449256224534528",
+        "conversation_id": "1944367197285199917",
+        "created_at": "2025-07-13T21:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T22:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944502686612898105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944502686612898105",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944367197285199917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 一般般"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  ",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1927769315874402419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14670,
+          "following_count": 146,
+          "like_count": 1960,
+          "listed_count": 32,
+          "media_count": 276,
+          "tweet_count": 1203
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-02T23:49:16.000Z",
+        "description": "",
+        "id": "1444449256224534528",
+        "name": "律",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939812858788732928/VOQdlBPy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 471,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 21
+        },
+        "username": "inrags3",
+        "verified": false
+      }
+    ]
+  }
+}

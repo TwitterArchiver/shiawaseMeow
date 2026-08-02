@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1866023126867607780",
+    "created_at": "2024-12-09T08:31:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T09:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866038040319402162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1529112019013861376",
+          "start": 0,
+          "username": "skra_ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866038040319402162",
+    "in_reply_to_user_id": "1529112019013861376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866023492266947033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skra_ku 奶猫最萌了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1866023126867607780",
+        "created_at": "2024-12-09T08:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T09:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866038040319402162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1529112019013861376",
+              "start": 0,
+              "username": "skra_ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866038040319402162",
+        "in_reply_to_user_id": "1529112019013861376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866023492266947033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skra_ku 奶猫最萌了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529112019013861376",
+        "conversation_id": "1866023126867607780",
+        "created_at": "2024-12-09T07:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T08:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866023492266947033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866023492266947033",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866023126867607780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 好可爱啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "ノンブレス・オブリージュ\n另一個我 @hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin🎀🐾",
+        "pinned_tweet_id": "1864188853613171155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 98,
+          "like_count": 949,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 570
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T14:48:21.000Z",
+        "description": "電脳少女マレーシア人 (っ- ‸ - ς)🐹🍮🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yuii.com_4/pro…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yuii.com_4/profilecard/?igsh=MWJ1enJkbDJnYXh3cg==",
+                "start": 0,
+                "url": "https://t.co/NvnUwGqQID"
+              }
+            ]
+          }
+        },
+        "id": "1529112019013861376",
+        "name": "アヤナ",
+        "pinned_tweet_id": "1825185317357593023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866004777542529024/1DJjKS1v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13561,
+          "following_count": 320,
+          "like_count": 10942,
+          "listed_count": 41,
+          "media_count": 286,
+          "tweet_count": 3847
+        },
+        "url": "https://t.co/NvnUwGqQID",
+        "username": "skra_ku",
+        "verified": false
+      }
+    ]
+  }
+}

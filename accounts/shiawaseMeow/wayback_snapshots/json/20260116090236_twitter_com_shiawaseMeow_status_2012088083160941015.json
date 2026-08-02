@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2012088015456534528"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "2012088083160941015",
+    "created_at": "2026-01-16T09:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T10:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012088083160941015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tbBgjkjb1w",
+          "end": 32,
+          "expanded_url": "https://x.com/shiawaseMeow/status/2012088083160941015/video/1",
+          "media_key": "13_2012088015456534528",
+          "start": 9,
+          "url": "https://t.co/tbBgjkjb1w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012088083160941015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁给我配个bgm https://t.co/tbBgjkjb1w"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8200,
+        "height": 1280,
+        "media_key": "13_2012088015456534528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2012088015456534528/img/Zq7mKZnfR79TU34u.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012088015456534528/vid/avc1/320x568/lPqae1Rg99182Fkj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012088015456534528/vid/avc1/480x852/t7HXoSwcpDYpLpK3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012088015456534528/vid/avc1/720x1280/r9J-HODiRio3klnV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2012088015456534528/pl/9DjPf4gYMReZiRoA.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012088015456534528"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "2012088083160941015",
+        "created_at": "2026-01-16T09:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T10:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012088083160941015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tbBgjkjb1w",
+              "end": 32,
+              "expanded_url": "https://x.com/shiawaseMeow/status/2012088083160941015/video/1",
+              "media_key": "13_2012088015456534528",
+              "start": 9,
+              "url": "https://t.co/tbBgjkjb1w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012088083160941015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁给我配个bgm https://t.co/tbBgjkjb1w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫备用唯一小号@hiyorinnosekai 永远19岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪随意/188/288/520/1314  谢谢你我爱你",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15436,
+          "following_count": 147,
+          "like_count": 1975,
+          "listed_count": 27,
+          "media_count": 333,
+          "tweet_count": 1401
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

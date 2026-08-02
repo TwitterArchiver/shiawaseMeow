@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1876682697437065216"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1876682703464169675",
+    "created_at": "2025-01-07T17:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T18:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1876682703464169675"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VulmAHBLsT",
+          "end": 23,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1876682703464169675/photo/1",
+          "media_key": "3_1876682697437065216",
+          "start": 0,
+          "url": "https://t.co/VulmAHBLsT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876682703464169675",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/VulmAHBLsT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1876682697437065216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgtQ-GDbsAAH3j4.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876682697437065216"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1876682703464169675",
+        "created_at": "2025-01-07T17:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T18:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876682703464169675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VulmAHBLsT",
+              "end": 23,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1876682703464169675/photo/1",
+              "media_key": "3_1876682697437065216",
+              "start": 0,
+              "url": "https://t.co/VulmAHBLsT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876682703464169675",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VulmAHBLsT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "私は眠りに\n@hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪288/520/1314",
+        "name": "hiyorin🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2432,
+          "following_count": 98,
+          "like_count": 1133,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 690
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1889646190578303076",
+    "created_at": "2025-02-12T12:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T13:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889646190578303076"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shiawaseMeow/s…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/shiawaseMeow/status/1889645906787524768",
+          "start": 25,
+          "url": "https://t.co/07MmwRyixv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889646190578303076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889645906787524768",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在好好营业了你们可以支持我一下吗🥹求转发求扩散 https://t.co/07MmwRyixv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1889646190578303076",
+        "created_at": "2025-02-12T12:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T13:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889646190578303076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shiawaseMeow/s…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/shiawaseMeow/status/1889645906787524768",
+              "start": 25,
+              "url": "https://t.co/07MmwRyixv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889646190578303076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889645906787524768",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在好好营业了你们可以支持我一下吗🥹求转发求扩散 https://t.co/07MmwRyixv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889645763669663745",
+            "3_1889645763673858049"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1889645906787524768",
+        "created_at": "2025-02-12T12:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T13:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889645906787524768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/azeBAXxpTs",
+              "end": 39,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1889645906787524768/photo/1",
+              "media_key": "3_1889645763669663745",
+              "start": 16,
+              "url": "https://t.co/azeBAXxpTs"
+            },
+            {
+              "display_url": "pic.x.com/azeBAXxpTs",
+              "end": 39,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1889645906787524768/photo/1",
+              "media_key": "3_1889645763673858049",
+              "start": 16,
+              "url": "https://t.co/azeBAXxpTs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889645906787524768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种呆傻的孩子长得都一样TAT https://t.co/azeBAXxpTs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "4.0何も無いんだ\n备用@hiyorinnosekai\n（已成年20岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "纯绿🚪288/520/1314",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1876979351096361050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3949,
+          "following_count": 113,
+          "like_count": 1377,
+          "listed_count": 4,
+          "media_count": 147,
+          "tweet_count": 759
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

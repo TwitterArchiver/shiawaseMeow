@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1869036849261645876",
+    "created_at": "2024-12-17T16:04:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T17:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869051151477522892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679438854913421312",
+          "start": 0,
+          "username": "SinFatality"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869051151477522892",
+    "in_reply_to_user_id": "1679438854913421312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869048708152909912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SinFatality 每个月我都这样安慰自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1869036849261645876",
+        "created_at": "2024-12-17T16:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T17:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869051151477522892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679438854913421312",
+              "start": 0,
+              "username": "SinFatality"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869051151477522892",
+        "in_reply_to_user_id": "1679438854913421312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869048708152909912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SinFatality 每个月我都这样安慰自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679438854913421312",
+        "conversation_id": "1869036849261645876",
+        "created_at": "2024-12-17T15:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T16:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869048708152909912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869048708152909912",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869036849261645876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 花钱在自己身上和宠物身上都是有价值的，这些钱并没有白白浪费，而是转化成了生活价值，所以不用因此而焦虑，如果过度消费了那就之后稍微注意一下好啦！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "ノンブレス・オブリージュ\n另一個我 @hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin🎀🐾",
+        "pinned_tweet_id": "1865055340926296385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2172,
+          "following_count": 93,
+          "like_count": 1017,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 620
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T10:33:25.000Z",
+        "description": "Bessel Equation",
+        "id": "1679438854913421312",
+        "name": "千早",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832827139785420800/vjaCmcYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 333,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 92
+        },
+        "username": "SinFatality",
+        "verified": false
+      }
+    ]
+  }
+}

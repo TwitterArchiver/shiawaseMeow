@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2020078196474216609",
+    "created_at": "2026-02-07T10:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T11:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020078196474216609"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2020078196474216609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谈恋爱的话，还是最喜欢天天一起宅在家里了！两个人都不爱出门，偶尔出去吃下好吃的路边摊或者漂亮饭，你上班的时候我就乖乖在家睡到下午起床，心情好的话打扫一下卫生，晚上两个人和猫咪一起窝在软软的沙发上打游戏或者看动漫，平淡的生活没有什么可以吵闹的，只是待在一起就会觉得很幸福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2020078196474216609",
+        "created_at": "2026-02-07T10:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T11:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020078196474216609"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020078196474216609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谈恋爱的话，还是最喜欢天天一起宅在家里了！两个人都不爱出门，偶尔出去吃下好吃的路边摊或者漂亮饭，你上班的时候我就乖乖在家睡到下午起床，心情好的话打扫一下卫生，晚上两个人和猫咪一起窝在软软的沙发上打游戏或者看动漫，平淡的生活没有什么可以吵闹的，只是待在一起就会觉得很幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫备用唯一小号@hiyorinnosekai 永远19岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  🥺谢谢你喜欢我",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15326,
+          "following_count": 149,
+          "like_count": 1996,
+          "listed_count": 28,
+          "media_count": 338,
+          "tweet_count": 1422
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

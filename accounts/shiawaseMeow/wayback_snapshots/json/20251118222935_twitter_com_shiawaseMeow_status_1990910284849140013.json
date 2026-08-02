@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1990676335199728003",
+    "created_at": "2025-11-18T22:29:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T23:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990910284849140013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1447077027257864193",
+          "start": 0,
+          "username": "parakin888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990910284849140013",
+    "in_reply_to_user_id": "1447077027257864193",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990676335199728003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@parakin888 この人は私の写真を盗用したのですが、どうしてあなたたちは見えないのですか？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1990676335199728003",
+        "created_at": "2025-11-18T22:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T23:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990910284849140013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1447077027257864193",
+              "start": 0,
+              "username": "parakin888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990910284849140013",
+        "in_reply_to_user_id": "1447077027257864193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990676335199728003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@parakin888 この人は私の写真を盗用したのですが、どうしてあなたたちは見えないのですか？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1447077027257864193",
+        "conversation_id": "1990676335199728003",
+        "created_at": "2025-11-18T06:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T07:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990676335199728003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/merridie171095…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/merridie171095/status/1990623731560136850",
+              "start": 15,
+              "url": "https://t.co/A27jmk4kZO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990676335199728003",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990623731560136850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "いや、遺伝子は子孫の物です🧐 https://t.co/A27jmk4kZO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1958534397021565120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15590,
+          "following_count": 149,
+          "like_count": 1929,
+          "listed_count": 32,
+          "media_count": 309,
+          "tweet_count": 1346
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-10T05:50:40.000Z",
+        "description": "",
+        "id": "1447077027257864193",
+        "name": "パラキンコ",
+        "pinned_tweet_id": "1480479754256273411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1480492537911865346/cfpQsudR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 1225,
+          "like_count": 1906,
+          "listed_count": 23,
+          "media_count": 155,
+          "tweet_count": 2455
+        },
+        "username": "parakin888",
+        "verified": false
+      }
+    ]
+  }
+}

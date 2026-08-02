@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1838450472774230100",
+    "created_at": "2024-09-24T05:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T06:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838450472774230100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1595700376203771904",
+          "start": 3,
+          "username": "user88881102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838450472774230100",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838313009720295778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @user88881102: 你为什么关注了那个我讨厌的人？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1838450472774230100",
+        "created_at": "2024-09-24T05:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T06:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838450472774230100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1595700376203771904",
+              "start": 3,
+              "username": "user88881102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838450472774230100",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838313009720295778",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @user88881102: 你为什么关注了那个我讨厌的人？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595700376203771904",
+        "conversation_id": "1838313009720295778",
+        "created_at": "2024-09-23T20:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T21:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838313009720295778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1838313009720295778",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 777,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你为什么关注了那个我讨厌的人？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "世界も涙も強さも忘れて",
+        "id": "2603784802",
+        "location": "I pray",
+        "name": "hiyorin",
+        "pinned_tweet_id": "1836730312723763520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 66,
+          "like_count": 243,
+          "listed_count": 0,
+          "tweet_count": 248
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T08:46:39.000Z",
+        "description": "我写字",
+        "id": "1595700376203771904",
+        "name": "yangfan666",
+        "pinned_tweet_id": "1595701757954650112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799529203525996544/uZtnEPpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3614,
+          "following_count": 2768,
+          "like_count": 4009,
+          "listed_count": 7,
+          "tweet_count": 2438
+        },
+        "username": "user88881102",
+        "verified": false
+      }
+    ]
+  }
+}

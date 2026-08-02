@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2013917661391122701",
+    "created_at": "2026-01-21T11:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T12:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013932386971738330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1857197270141382657",
+          "start": 0,
+          "username": "Merridie171095"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/shiawasemeow/s…",
+          "end": 76,
+          "expanded_url": "https://x.com/shiawasemeow/status/1972253728964223438?s=46",
+          "start": 53,
+          "url": "https://t.co/MgJlVMWsdk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013932386971738330",
+    "in_reply_to_user_id": "1857197270141382657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972253728964223438",
+        "type": "quoted"
+      },
+      {
+        "id": "2013917661391122701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Merridie171095 無断で、私の写真のウォーターマークをAIで除去するとは、甚だしい行為です\nhttps://t.co/MgJlVMWsdk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972253714661752832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G17aTdVbwAAxTAM.jpg",
+        "width": 1268
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972253714640728065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G17aTdQa8AEGWLj.jpg",
+        "width": 1190
+      },
+      {
+        "height": 924,
+        "media_key": "3_2013917334185123841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_LfJS8bIAE1DgC.jpg",
+        "width": 565
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2013917661391122701",
+        "created_at": "2026-01-21T11:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013932386971738330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1857197270141382657",
+              "start": 0,
+              "username": "Merridie171095"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/shiawasemeow/s…",
+              "end": 76,
+              "expanded_url": "https://x.com/shiawasemeow/status/1972253728964223438?s=46",
+              "start": 53,
+              "url": "https://t.co/MgJlVMWsdk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013932386971738330",
+        "in_reply_to_user_id": "1857197270141382657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972253728964223438",
+            "type": "quoted"
+          },
+          {
+            "id": "2013917661391122701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Merridie171095 無断で、私の写真のウォーターマークをAIで除去するとは、甚だしい行為です\nhttps://t.co/MgJlVMWsdk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972253714661752832",
+            "3_1972253714640728065"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1972253728964223438",
+        "created_at": "2025-09-28T10:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T11:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972253728964223438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KgsyLnJqXx",
+              "end": 31,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1972253728964223438/photo/1",
+              "media_key": "3_1972253714661752832",
+              "start": 8,
+              "url": "https://t.co/KgsyLnJqXx"
+            },
+            {
+              "display_url": "pic.x.com/KgsyLnJqXx",
+              "end": 31,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1972253728964223438/photo/1",
+              "media_key": "3_1972253714640728065",
+              "start": 8,
+              "url": "https://t.co/KgsyLnJqXx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972253728964223438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 13624,
+          "like_count": 168,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "好久不见qwq https://t.co/KgsyLnJqXx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013917334185123841"
+          ]
+        },
+        "author_id": "1857197270141382657",
+        "conversation_id": "2013917661391122701",
+        "created_at": "2026-01-21T10:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T11:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013917661391122701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rJXxRneyBU",
+              "end": 45,
+              "expanded_url": "https://x.com/Merridie171095/status/2013917661391122701/photo/1",
+              "media_key": "3_2013917334185123841",
+              "start": 22,
+              "url": "https://t.co/rJXxRneyBU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013917661391122701",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 540,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一回も浮気したことない男性っていますか？？ https://t.co/rJXxRneyBU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫备用唯一小号@hiyorinnosekai 永远19岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪随意/188/288/520/1314  谢谢你我爱你",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15510,
+          "following_count": 147,
+          "like_count": 1977,
+          "listed_count": 27,
+          "media_count": 335,
+          "tweet_count": 1406
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T23:02:01.000Z",
+        "description": "なくなりたい。愛されたい。\n本気の人だけ@zabusei1979",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "zabusei1979"
+              }
+            ]
+          }
+        },
+        "id": "1857197270141382657",
+        "name": "こはくです、",
+        "pinned_tweet_id": "1972123511427944797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935138187342741504/fAr6YiOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16986,
+          "following_count": 156,
+          "like_count": 53,
+          "listed_count": 28,
+          "media_count": 198,
+          "tweet_count": 631
+        },
+        "username": "Merridie171095",
+        "verified": false
+      }
+    ]
+  }
+}

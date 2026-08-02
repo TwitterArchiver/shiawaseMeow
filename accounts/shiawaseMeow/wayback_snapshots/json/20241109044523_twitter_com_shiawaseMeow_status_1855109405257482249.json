@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1855099848237940875",
+    "created_at": "2024-11-09T04:45:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T05:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855109405257482249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1853676046845124608",
+          "start": 0,
+          "username": "zz7b0035"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855109405257482249",
+    "in_reply_to_user_id": "1853676046845124608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855106891657175126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zz7b0035 高中也没朋友😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1855099848237940875",
+        "created_at": "2024-11-09T04:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T05:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855109405257482249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1853676046845124608",
+              "start": 0,
+              "username": "zz7b0035"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855109405257482249",
+        "in_reply_to_user_id": "1853676046845124608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855106891657175126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zz7b0035 高中也没朋友😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853676046845124608",
+        "conversation_id": "1855099848237940875",
+        "created_at": "2024-11-09T04:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T05:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855106891657175126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855106891657175126",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855099848237940875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 我感觉高中留下的朋友反而比大学更长久"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "能不能也对我留点爱",
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 87,
+          "like_count": 573,
+          "listed_count": 0,
+          "tweet_count": 493
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T05:49:58.000Z",
+        "description": "好孤单",
+        "id": "1853676046845124608",
+        "location": "青岛",
+        "name": "zz7b",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853676208250380288/gZjpd0eU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 23,
+          "like_count": 8,
+          "listed_count": 0,
+          "tweet_count": 13
+        },
+        "username": "zz7b0035",
+        "verified": false
+      }
+    ]
+  }
+}

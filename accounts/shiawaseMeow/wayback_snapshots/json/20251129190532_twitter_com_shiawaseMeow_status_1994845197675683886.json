@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1994680182138179913",
+    "created_at": "2025-11-29T19:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T20:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994845197675683886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1718872973497757696",
+          "start": 0,
+          "username": "k8junho"
+        },
+        {
+          "end": 24,
+          "id": "1857197270141382657",
+          "start": 9,
+          "username": "Merridie171095"
+        },
+        {
+          "end": 30,
+          "id": "1720665183188922368",
+          "start": 25,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994845197675683886",
+    "in_reply_to_user_id": "1718872973497757696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994722435300823557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k8junho @Merridie171095 @grok 俺だ！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1994680182138179913",
+        "created_at": "2025-11-29T19:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T20:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994845197675683886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1718872973497757696",
+              "start": 0,
+              "username": "k8junho"
+            },
+            {
+              "end": 24,
+              "id": "1857197270141382657",
+              "start": 9,
+              "username": "Merridie171095"
+            },
+            {
+              "end": 30,
+              "id": "1720665183188922368",
+              "start": 25,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994845197675683886",
+        "in_reply_to_user_id": "1718872973497757696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994722435300823557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k8junho @Merridie171095 @grok 俺だ！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718872973497757696",
+        "conversation_id": "1994680182138179913",
+        "created_at": "2025-11-29T10:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T11:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994722435300823557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1857197270141382657",
+              "start": 0,
+              "username": "Merridie171095"
+            },
+            {
+              "end": 21,
+              "id": "1720665183188922368",
+              "start": 16,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994722435300823557",
+        "in_reply_to_user_id": "1857197270141382657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994680182138179913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Merridie171095 @grok この写真の元ツイは？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1958534397021565120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15652,
+          "following_count": 149,
+          "like_count": 1967,
+          "listed_count": 32,
+          "media_count": 316,
+          "tweet_count": 1365
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-30T06:10:34.000Z",
+        "description": "見ないで！",
+        "id": "1718872973497757696",
+        "name": "くずうるふ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958892954258743296/ONUmdQ5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 472,
+          "like_count": 2917,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 68
+        },
+        "username": "k8junho",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T23:02:01.000Z",
+        "description": "なくなりたい。愛されたい。\n本気の人だけ@zabusei1979",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "zabusei1979"
+              }
+            ]
+          }
+        },
+        "id": "1857197270141382657",
+        "name": "こはくです、",
+        "pinned_tweet_id": "1972123511427944797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935138187342741504/fAr6YiOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14994,
+          "following_count": 160,
+          "like_count": 49,
+          "listed_count": 28,
+          "media_count": 150,
+          "tweet_count": 531
+        },
+        "username": "Merridie171095",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6711725,
+          "following_count": 3,
+          "like_count": 79,
+          "listed_count": 5391,
+          "media_count": 2760710,
+          "tweet_count": 70315679
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

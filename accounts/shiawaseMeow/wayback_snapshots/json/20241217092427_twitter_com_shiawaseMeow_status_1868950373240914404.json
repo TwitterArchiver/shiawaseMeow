@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1868780391483744458",
+    "created_at": "2024-12-17T09:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T10:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868950373240914404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1662505852924772352",
+          "start": 0,
+          "username": "xuexitongLOVEU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868950373240914404",
+    "in_reply_to_user_id": "1662505852924772352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868780391483744458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuexitongLOVEU 我开过🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1868780391483744458",
+        "created_at": "2024-12-17T09:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T10:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868950373240914404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1662505852924772352",
+              "start": 0,
+              "username": "xuexitongLOVEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868950373240914404",
+        "in_reply_to_user_id": "1662505852924772352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868780391483744458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuexitongLOVEU 我开过🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662505852924772352",
+        "conversation_id": "1868780391483744458",
+        "created_at": "2024-12-16T22:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T23:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868780391483744458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1868780391483744458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1452,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的互关们，你们会开户吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "ノンブレス・オブリージュ\n另一個我 @hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin🎀🐾",
+        "pinned_tweet_id": "1865055340926296385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2171,
+          "following_count": 93,
+          "like_count": 1015,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 620
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T17:07:51.000Z",
+        "description": "学习强国\n学♂习群群号1012226951\n查骗子， 查小三，开户查档找\n@yycxo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 37,
+                "username": "yycxo"
+              }
+            ]
+          }
+        },
+        "id": "1662505852924772352",
+        "name": "学习通",
+        "pinned_tweet_id": "1860686423629951298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859395078420406272/VYjNYSjG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2071,
+          "following_count": 1239,
+          "like_count": 5075,
+          "listed_count": 3,
+          "media_count": 294,
+          "tweet_count": 2134
+        },
+        "username": "xuexitongLOVEU",
+        "verified": false
+      }
+    ]
+  }
+}

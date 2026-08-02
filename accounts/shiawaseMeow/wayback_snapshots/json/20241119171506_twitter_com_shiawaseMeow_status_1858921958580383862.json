@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1858920786851254272"
+      ],
+      "media_source_tweet_id": [
+        "1858920866299736337"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1858921958580383862",
+    "created_at": "2024-11-19T17:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T18:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858921958580383862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1774688315704483840",
+          "start": 3,
+          "username": "TiaoYi23130"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x6zCYyIX6G",
+          "end": 75,
+          "expanded_url": "https://x.com/TiaoYi23130/status/1858920866299736337/video/1",
+          "media_key": "7_1858920786851254272",
+          "start": 52,
+          "url": "https://t.co/x6zCYyIX6G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858921958580383862",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858920866299736337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TiaoYi23130: 简单唱了Limp Bizkit的take a look around https://t.co/x6zCYyIX6G"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 134716,
+        "height": 1280,
+        "media_key": "7_1858920786851254272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1858920786851254272/pu/img/QEMnhV7KPjziM0VX.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1858920786851254272/pu/vid/avc1/320x742/pYOxgTT6JY9xfwXu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1858920786851254272/pu/vid/avc1/480x1112/Asu387_xs5Wi5XRX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1858920786851254272/pu/vid/avc1/552x1280/oItRLAesIRPWW1Cl.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1858920786851254272/pu/pl/4hrOEWO0QmEgZy38.m3u8?tag=12"
+          }
+        ],
+        "width": 552
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1858920786851254272"
+          ],
+          "media_source_tweet_id": [
+            "1858920866299736337"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1858921958580383862",
+        "created_at": "2024-11-19T17:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T18:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858921958580383862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1774688315704483840",
+              "start": 3,
+              "username": "TiaoYi23130"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x6zCYyIX6G",
+              "end": 75,
+              "expanded_url": "https://x.com/TiaoYi23130/status/1858920866299736337/video/1",
+              "media_key": "7_1858920786851254272",
+              "start": 52,
+              "url": "https://t.co/x6zCYyIX6G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858921958580383862",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858920866299736337",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TiaoYi23130: 简单唱了Limp Bizkit的take a look around https://t.co/x6zCYyIX6G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1858920786851254272"
+          ]
+        },
+        "author_id": "1774688315704483840",
+        "conversation_id": "1858920866299736337",
+        "created_at": "2024-11-19T17:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T18:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858920866299736337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x6zCYyIX6G",
+              "end": 58,
+              "expanded_url": "https://x.com/TiaoYi23130/status/1858920866299736337/video/1",
+              "media_key": "7_1858920786851254272",
+              "start": 35,
+              "url": "https://t.co/x6zCYyIX6G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858920866299736337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "简单唱了Limp Bizkit的take a look around https://t.co/x6zCYyIX6G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "能不能也对我留点爱",
+        "id": "2603784802",
+        "location": "🚪288 纯纯纯绿",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 88,
+          "like_count": 862,
+          "listed_count": 1,
+          "tweet_count": 595
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T06:40:47.000Z",
+        "description": "",
+        "id": "1774688315704483840",
+        "location": "666层",
+        "name": "一条海参",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794176441971810304/bVB20vu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 46,
+          "like_count": 1023,
+          "listed_count": 0,
+          "tweet_count": 234
+        },
+        "username": "TiaoYi23130",
+        "verified": false
+      }
+    ]
+  }
+}

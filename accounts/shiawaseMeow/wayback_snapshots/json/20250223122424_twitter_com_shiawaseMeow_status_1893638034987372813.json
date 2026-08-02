@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1893621312708284609",
+    "created_at": "2025-02-23T12:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T13:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893638034987372813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1654741326922137600",
+          "start": 0,
+          "username": "TeddyDeerNoBeer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893638034987372813",
+    "in_reply_to_user_id": "1654741326922137600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893637735363027394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TeddyDeerNoBeer 😭😭😭我要哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1893621312708284609",
+        "created_at": "2025-02-23T12:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T13:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893638034987372813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1654741326922137600",
+              "start": 0,
+              "username": "TeddyDeerNoBeer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893638034987372813",
+        "in_reply_to_user_id": "1654741326922137600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893637735363027394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeddyDeerNoBeer 😭😭😭我要哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654741326922137600",
+        "conversation_id": "1893621312708284609",
+        "created_at": "2025-02-23T12:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T13:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893637735363027394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893637735363027394",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893621312708284609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 仅仅发这种图还转生四次哈哈哈😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "4周目 请善待我\n备用@hiyorinnosekai\n（已成年20岁 | 欢迎过🚪纯绿288/520/1314\n备注联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "我很可爱请给我钱",
+        "name": "姬和酱🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4788,
+          "following_count": 117,
+          "like_count": 1425,
+          "listed_count": 7,
+          "media_count": 145,
+          "tweet_count": 770
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T06:54:33.000Z",
+        "description": "反弹反弹反弹反弹反弹！",
+        "id": "1654741326922137600",
+        "location": "Irvine, CA",
+        "name": "TeddyDeer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889769278641172480/r8amS8FP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 278,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 642
+        },
+        "username": "TeddyDeerNoBeer",
+        "verified": false
+      }
+    ]
+  }
+}

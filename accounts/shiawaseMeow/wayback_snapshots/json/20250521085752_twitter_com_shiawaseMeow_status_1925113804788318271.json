@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925113794688372736",
+        "3_1925113794680020992"
+      ]
+    },
+    "author_id": "2603784802",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1925113804788318271",
+    "created_at": "2025-05-21T08:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T09:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925113804788318271"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qWCDpk3D6F",
+          "end": 89,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1925113804788318271/photo/1",
+          "media_key": "3_1925113794688372736",
+          "start": 66,
+          "url": "https://t.co/qWCDpk3D6F"
+        },
+        {
+          "display_url": "pic.x.com/qWCDpk3D6F",
+          "end": 89,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1925113804788318271/photo/1",
+          "media_key": "3_1925113794680020992",
+          "start": 66,
+          "url": "https://t.co/qWCDpk3D6F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925113804788318271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是利爪of撕裂者的操控者/双剑轮椅战士/熟练使用双剑给怪物修脚并取得胜利/身经百战战无不胜的怪物猎人「姬和酱G」（究极的姬和酱） https://t.co/qWCDpk3D6F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1925113794688372736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grdgy-ya0AAx8xN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925113794680020992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grdgy-wbYAA7gpv.jpg",
+        "width": 1426
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925113794688372736",
+            "3_1925113794680020992"
+          ]
+        },
+        "author_id": "2603784802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1925113804788318271",
+        "created_at": "2025-05-21T08:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T09:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925113804788318271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qWCDpk3D6F",
+              "end": 89,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1925113804788318271/photo/1",
+              "media_key": "3_1925113794688372736",
+              "start": 66,
+              "url": "https://t.co/qWCDpk3D6F"
+            },
+            {
+              "display_url": "pic.x.com/qWCDpk3D6F",
+              "end": 89,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1925113804788318271/photo/1",
+              "media_key": "3_1925113794680020992",
+              "start": 66,
+              "url": "https://t.co/qWCDpk3D6F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925113804788318271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是利爪of撕裂者的操控者/双剑轮椅战士/熟练使用双剑给怪物修脚并取得胜利/身经百战战无不胜的怪物猎人「姬和酱G」（究极的姬和酱） https://t.co/qWCDpk3D6F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11291,
+          "following_count": 141,
+          "like_count": 1790,
+          "listed_count": 21,
+          "media_count": 227,
+          "tweet_count": 1021
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

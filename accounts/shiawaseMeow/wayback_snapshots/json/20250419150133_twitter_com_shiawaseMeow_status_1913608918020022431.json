@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913608828782043136",
+        "3_1913608828782039040"
+      ]
+    },
+    "author_id": "2603784802",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1201620375613788161",
+          "name": "Nintendo 3DS"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1201620375613788161",
+          "name": "Nintendo 3DS"
+        }
+      }
+    ],
+    "conversation_id": "1913608918020022431",
+    "created_at": "2025-04-19T15:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T16:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913608918020022431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MPJiLd5Zm5",
+          "end": 49,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1913608918020022431/photo/1",
+          "media_key": "3_1913608828782043136",
+          "start": 26,
+          "url": "https://t.co/MPJiLd5Zm5"
+        },
+        {
+          "display_url": "pic.x.com/MPJiLd5Zm5",
+          "end": 49,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1913608918020022431/photo/1",
+          "media_key": "3_1913608828782039040",
+          "start": 26,
+          "url": "https://t.co/MPJiLd5Zm5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913608918020022431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "男朋友把nds给我玩了又给我买了一个小3ds！！！ https://t.co/MPJiLd5Zm5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1913608828782043136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go6BF06a4AALWEz.jpg",
+        "width": 1156
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1913608828782039040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go6BF06a0AAw__v.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913608828782043136",
+            "3_1913608828782039040"
+          ]
+        },
+        "author_id": "2603784802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201620375613788161",
+              "name": "Nintendo 3DS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201620375613788161",
+              "name": "Nintendo 3DS"
+            }
+          }
+        ],
+        "conversation_id": "1913608918020022431",
+        "created_at": "2025-04-19T15:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T16:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913608918020022431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MPJiLd5Zm5",
+              "end": 49,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1913608918020022431/photo/1",
+              "media_key": "3_1913608828782043136",
+              "start": 26,
+              "url": "https://t.co/MPJiLd5Zm5"
+            },
+            {
+              "display_url": "pic.x.com/MPJiLd5Zm5",
+              "end": 49,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1913608918020022431/photo/1",
+              "media_key": "3_1913608828782039040",
+              "start": 26,
+              "url": "https://t.co/MPJiLd5Zm5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913608918020022431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男朋友把nds给我玩了又给我买了一个小3ds！！！ https://t.co/MPJiLd5Zm5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "关注你就是我喜欢你 你们好我是善良的小女孩  希望你们喜欢我\n备用@hiyorinnosekai\n 绝望的neet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1899788877399023877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9005,
+          "following_count": 135,
+          "like_count": 1686,
+          "listed_count": 17,
+          "media_count": 193,
+          "tweet_count": 940
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

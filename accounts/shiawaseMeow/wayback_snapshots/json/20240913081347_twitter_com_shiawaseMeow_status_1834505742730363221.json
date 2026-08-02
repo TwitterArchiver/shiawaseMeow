@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1834505719762354176"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1834505742730363221",
+    "created_at": "2024-09-13T08:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T09:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1834505742730363221"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5rpsn4vubc",
+          "end": 25,
+          "expanded_url": "https://twitter.com/shiawaseMeow/status/1834505742730363221/photo/1",
+          "media_key": "3_1834505719762354176",
+          "start": 2,
+          "url": "https://t.co/5rpSn4VubC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834505742730363221",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1 https://t.co/5rpSn4VubC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1834505719762354176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXV5O4TbgAAwZZw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834505719762354176"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1834505742730363221",
+        "created_at": "2024-09-13T08:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T09:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834505742730363221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5rpsn4vubc",
+              "end": 25,
+              "expanded_url": "https://twitter.com/shiawaseMeow/status/1834505742730363221/photo/1",
+              "media_key": "3_1834505719762354176",
+              "start": 2,
+              "url": "https://t.co/5rpSn4VubC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834505742730363221",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1 https://t.co/5rpSn4VubC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "世界も涙も強さも忘れて",
+        "id": "2603784802",
+        "location": "迷う",
+        "name": "hiyorin",
+        "pinned_tweet_id": "1824449177591615604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 55,
+          "like_count": 205,
+          "listed_count": 0,
+          "tweet_count": 219
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

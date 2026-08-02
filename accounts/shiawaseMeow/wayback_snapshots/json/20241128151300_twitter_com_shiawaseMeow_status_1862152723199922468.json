@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1862152723199922468",
+    "created_at": "2024-11-28T15:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T16:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862152723199922468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1538448868362203136",
+          "start": 3,
+          "username": "evol37635732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862152723199922468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862132123819463049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @evol37635732: 我是一个特别沉溺互联网的小女孩，我特别享受互联网上别人夸我可爱，但是变可爱要很多钱染头发要钱化妆品要钱可爱的衣服要钱，我要是没钱变可爱，就没有人夸我了，没人夸我我感觉这辈子都完了…我唯一精神支柱就没了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1862152723199922468",
+        "created_at": "2024-11-28T15:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T16:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862152723199922468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1538448868362203136",
+              "start": 3,
+              "username": "evol37635732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862152723199922468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862132123819463049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @evol37635732: 我是一个特别沉溺互联网的小女孩，我特别享受互联网上别人夸我可爱，但是变可爱要很多钱染头发要钱化妆品要钱可爱的衣服要钱，我要是没钱变可爱，就没有人夸我了，没人夸我我感觉这辈子都完了…我唯一精神支柱就没了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538448868362203136",
+        "conversation_id": "1862132123819463049",
+        "created_at": "2024-11-28T13:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T14:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862132123819463049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862132123819463049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 312,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是一个特别沉溺互联网的小女孩，我特别享受互联网上别人夸我可爱，但是变可爱要很多钱染头发要钱化妆品要钱可爱的衣服要钱，我要是没钱变可爱，就没有人夸我了，没人夸我我感觉这辈子都完了…我唯一精神支柱就没了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "フラッシュバック · 蝉の声 · 二度とは帰らぬ君。",
+        "id": "2603784802",
+        "location": "我很可爱 请给我钱",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 93,
+          "like_count": 908,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 578
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T09:09:39.000Z",
+        "description": "https://t.co/R7DvpmB4Li",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mmiyabi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mmiyabi",
+                "start": 0,
+                "url": "https://t.co/R7DvpmB4Li"
+              }
+            ]
+          }
+        },
+        "id": "1538448868362203136",
+        "location": "🚪288/520",
+        "name": "みややや",
+        "pinned_tweet_id": "1860349199700885581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815140042538721280/Te_pWM2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 215,
+          "like_count": 15367,
+          "listed_count": 7,
+          "media_count": 96,
+          "tweet_count": 2845
+        },
+        "username": "evol37635732",
+        "verified": false
+      }
+    ]
+  }
+}

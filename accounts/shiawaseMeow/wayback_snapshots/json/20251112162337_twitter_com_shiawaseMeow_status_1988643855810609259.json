@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1988547756483363160",
+    "created_at": "2025-11-12T16:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T17:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988643855810609259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1464584140209197057",
+          "start": 0,
+          "username": "gebensieauf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988643855810609259",
+    "in_reply_to_user_id": "1464584140209197057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988563089759859144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gebensieauf 我也是这样想的，就是感觉复学会很困难qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1988547756483363160",
+        "created_at": "2025-11-12T16:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988643855810609259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1464584140209197057",
+              "start": 0,
+              "username": "gebensieauf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988643855810609259",
+        "in_reply_to_user_id": "1464584140209197057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988563089759859144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gebensieauf 我也是这样想的，就是感觉复学会很困难qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464584140209197057",
+        "conversation_id": "1988547756483363160",
+        "created_at": "2025-11-12T11:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T12:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988563089759859144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988563089759859144",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988547756483363160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 本科学历能拿到还是不要放弃的好，很痛苦可以考虑多休学一年出门走走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1958534397021565120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15217,
+          "following_count": 148,
+          "like_count": 1910,
+          "listed_count": 31,
+          "media_count": 305,
+          "tweet_count": 1330
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-27T13:17:37.000Z",
+        "description": "error……",
+        "id": "1464584140209197057",
+        "name": "不有佳咏为欢几何",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892620740341514241/rvG99RZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 352,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 82
+        },
+        "username": "gebensieauf",
+        "verified": false
+      }
+    ]
+  }
+}

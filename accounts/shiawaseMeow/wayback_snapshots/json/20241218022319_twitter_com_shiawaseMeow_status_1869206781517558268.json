@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1869206781517558268",
+    "created_at": "2024-12-18T02:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T03:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869206781517558268"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 68,
+          "start": 63,
+          "tag": "委托女友"
+        },
+        {
+          "end": 73,
+          "start": 69,
+          "tag": "地雷系"
+        },
+        {
+          "end": 78,
+          "start": 74,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 83,
+          "start": 79,
+          "tag": "妈妈活"
+        },
+        {
+          "end": 89,
+          "start": 84,
+          "tag": "一日女友"
+        },
+        {
+          "end": 95,
+          "start": 90,
+          "tag": "租借女友"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "金主"
+        },
+        {
+          "end": 104,
+          "start": 100,
+          "tag": "求包养"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "萝莉"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "魅魔"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "母狗"
+        },
+        {
+          "end": 119,
+          "start": 117,
+          "tag": "骚"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "巨乳"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "门槛"
+        },
+        {
+          "end": 132,
+          "start": 128,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 137,
+          "start": 133,
+          "tag": "门槛姐"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1851290257888870400",
+          "start": 3,
+          "username": "kisa113762"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869206781517558268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868944443703017703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kisa113762: 露脸视频引流一天就删\n2888线下非绿做一次  1666线下半绿一次！！！出了做什么都可以\n\n#委托女友 #地雷系 #爸爸活 #妈妈活 #一日女友 #租借女友 #金主 #求包养 #萝莉 #魅魔 #母狗 #骚 #巨乳 #门槛 #门槛哥 #门槛姐 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1869206781517558268].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1869206781517558268",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1869206781517558268"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1868944414372151296"
+          ]
+        },
+        "author_id": "1851290257888870400",
+        "conversation_id": "1868944443703017703",
+        "created_at": "2024-12-17T09:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T10:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868944443703017703"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "委托女友"
+            },
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "地雷系"
+            },
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "妈妈活"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "一日女友"
+            },
+            {
+              "end": 79,
+              "start": 74,
+              "tag": "租借女友"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "金主"
+            },
+            {
+              "end": 88,
+              "start": 84,
+              "tag": "求包养"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "萝莉"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "魅魔"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "母狗"
+            },
+            {
+              "end": 103,
+              "start": 101,
+              "tag": "骚"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "巨乳"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "门槛"
+            },
+            {
+              "end": 116,
+              "start": 112,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "门槛姐"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "线下"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "女高中生"
+            },
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "找金主"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "原味"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "陪聊"
+            },
+            {
+              "end": 150,
+              "start": 145,
+              "tag": "电子宠物"
+            },
+            {
+              "end": 156,
+              "start": 151,
+              "tag": "虚拟女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HTxbzoGDtb",
+              "end": 180,
+              "expanded_url": "https://x.com/kisa113762/status/1868944443703017703/video/1",
+              "media_key": "7_1868944414372151296",
+              "start": 157,
+              "url": "https://t.co/HTxbzoGDtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868944443703017703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 16018,
+          "like_count": 250,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "露脸视频引流一天就删\n2888线下非绿做一次  1666线下半绿一次！！！出了做什么都可以\n\n#委托女友 #地雷系 #爸爸活 #妈妈活 #一日女友 #租借女友 #金主 #求包养 #萝莉 #魅魔 #母狗 #骚 #巨乳 #门槛 #门槛哥 #门槛姐 #线下 #女高中生 #找金主 #原味 #陪聊 #电子宠物 #虚拟女友 https://t.co/HTxbzoGDtb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "ノンブレス・オブリージュ\n另一個我 @hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "电子女友🚪288/520/1314",
+        "name": "hiyorin🎀🐾",
+        "pinned_tweet_id": "1865055340926296385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 95,
+          "like_count": 1025,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 623
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T15:49:42.000Z",
+        "description": "ip杭州 🚪线上88/150 线下150/288/520/1314 门槛不退 视频验证20 口令红包520以上带姓 是一只带舌钉的小猫哦 胸围d！！门槛不退做了任何让我生气的事情会删好友 我是神精病请原谅我",
+        "id": "1851290257888870400",
+        "name": "casaki千叶咲",
+        "pinned_tweet_id": "1868944443703017703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851859023022219264/oO5hpXUE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3677,
+          "following_count": 102,
+          "like_count": 2,
+          "listed_count": 9,
+          "media_count": 139,
+          "tweet_count": 596
+        },
+        "username": "kisa113762",
+        "verified": false
+      }
+    ]
+  }
+}

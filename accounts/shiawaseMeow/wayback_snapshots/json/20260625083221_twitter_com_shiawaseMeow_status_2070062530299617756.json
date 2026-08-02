@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2068920139492569263",
+    "created_at": "2026-06-25T08:32:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T09:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070062530299617756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1727363604532674560",
+          "start": 0,
+          "username": "zisong_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070062530299617756",
+    "in_reply_to_user_id": "1727363604532674560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069812403840364544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zisong_official 什么粉丝群"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2068920139492569263",
+        "created_at": "2026-06-25T08:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070062530299617756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1727363604532674560",
+              "start": 0,
+              "username": "zisong_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070062530299617756",
+        "in_reply_to_user_id": "1727363604532674560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069812403840364544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zisong_official 什么粉丝群"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727363604532674560",
+        "conversation_id": "2068920139492569263",
+        "created_at": "2026-06-24T15:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069812403840364544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069812403840364544",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068920139492569263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 89dx粉丝群里的那个是本人吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫",
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位88",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068649812048982016/TTM5l_or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15399,
+          "following_count": 166,
+          "like_count": 2099,
+          "listed_count": 31,
+          "media_count": 352,
+          "tweet_count": 1511
+        },
+        "url": "",
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T16:29:38.000Z",
+        "description": "",
+        "id": "1727363604532674560",
+        "name": "你抱着我掉眼泪说这个世界太复杂T^T",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819734929980166144/Jso27HSn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 43,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "zisong_official",
+        "verified": false
+      }
+    ]
+  }
+}

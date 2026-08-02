@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1925566003704160476",
+    "created_at": "2025-05-22T14:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T15:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925566003704160476"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sshissshi11/st…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/sshissshi11/status/1925425562077856217",
+          "start": 27,
+          "url": "https://t.co/x6171QOXcS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925566003704160476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925425562077856217",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这样的人赚的都比我多呵呵，你们就珍惜我这种真实的人吧 https://t.co/x6171QOXcS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1310,
+        "media_key": "3_1925425553689255939",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grh8VvkboAMS-hY.jpg",
+        "width": 929
+      },
+      {
+        "height": 1326,
+        "media_key": "3_1925425553710227461",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grh8VvpboAUbBaR.jpg",
+        "width": 982
+      },
+      {
+        "height": 1317,
+        "media_key": "3_1925425553710227460",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grh8VvpboAQdS7e.jpg",
+        "width": 1026
+      },
+      {
+        "height": 1497,
+        "media_key": "3_1925425553727004673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grh8VvtboAEXX1b.jpg",
+        "width": 1117
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1925566003704160476",
+        "created_at": "2025-05-22T14:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T15:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925566003704160476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sshissshi11/st…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/sshissshi11/status/1925425562077856217",
+              "start": 27,
+              "url": "https://t.co/x6171QOXcS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925566003704160476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925425562077856217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这样的人赚的都比我多呵呵，你们就珍惜我这种真实的人吧 https://t.co/x6171QOXcS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925425553689255939",
+            "3_1925425553710227461",
+            "3_1925425553710227460",
+            "3_1925425553727004673"
+          ]
+        },
+        "author_id": "1880845685559554048",
+        "conversation_id": "1925425562077856217",
+        "created_at": "2025-05-22T05:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T06:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925425562077856217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YXdm0gWFPc",
+              "end": 61,
+              "expanded_url": "https://x.com/sshissshi11/status/1925425562077856217/photo/1",
+              "media_key": "3_1925425553689255939",
+              "start": 38,
+              "url": "https://t.co/YXdm0gWFPc"
+            },
+            {
+              "display_url": "pic.x.com/YXdm0gWFPc",
+              "end": 61,
+              "expanded_url": "https://x.com/sshissshi11/status/1925425562077856217/photo/1",
+              "media_key": "3_1925425553710227461",
+              "start": 38,
+              "url": "https://t.co/YXdm0gWFPc"
+            },
+            {
+              "display_url": "pic.x.com/YXdm0gWFPc",
+              "end": 61,
+              "expanded_url": "https://x.com/sshissshi11/status/1925425562077856217/photo/1",
+              "media_key": "3_1925425553710227460",
+              "start": 38,
+              "url": "https://t.co/YXdm0gWFPc"
+            },
+            {
+              "display_url": "pic.x.com/YXdm0gWFPc",
+              "end": 61,
+              "expanded_url": "https://x.com/sshissshi11/status/1925425562077856217/photo/1",
+              "media_key": "3_1925425553727004673",
+              "start": 38,
+              "url": "https://t.co/YXdm0gWFPc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925425562077856217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 54139,
+          "like_count": 262,
+          "quote_count": 15,
+          "reply_count": 74,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "图太多了放不下了 你就是这样的人 可以滚了（整理瓜条的宝宝我艾特评论区啦） https://t.co/YXdm0gWFPc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11331,
+          "following_count": 141,
+          "like_count": 1799,
+          "listed_count": 21,
+          "media_count": 228,
+          "tweet_count": 1027
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T05:12:20.000Z",
+        "description": "盗图替我挡灾｜没有发其他平台｜就这一个号 没有小号 其他均为骗子 谨防上当受骗",
+        "id": "1880845685559554048",
+        "location": "🚪288 绿色",
+        "name": "可爱的尿",
+        "pinned_tweet_id": "1909157232085975475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881922246291386368/yxLHG_Id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15471,
+          "following_count": 114,
+          "like_count": 4173,
+          "listed_count": 30,
+          "media_count": 197,
+          "tweet_count": 1782
+        },
+        "username": "sshissshi11",
+        "verified": false
+      }
+    ]
+  }
+}

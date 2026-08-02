@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863058460935417856"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1863058483572084754",
+    "created_at": "2024-12-01T03:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T04:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863058483572084754"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D6L9hw9VOg",
+          "end": 44,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1863058483572084754/photo/1",
+          "media_key": "3_1863058460935417856",
+          "start": 21,
+          "url": "https://t.co/D6L9hw9VOg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863058483572084754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用ai给我写道歉信的神人我竟然遇到了两个 https://t.co/D6L9hw9VOg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 516,
+        "media_key": "3_1863058460935417856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdrpzJ_XcAA667e.jpg",
+        "width": 543
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863058460935417856"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1863058483572084754",
+        "created_at": "2024-12-01T03:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T04:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863058483572084754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D6L9hw9VOg",
+              "end": 44,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1863058483572084754/photo/1",
+              "media_key": "3_1863058460935417856",
+              "start": 21,
+              "url": "https://t.co/D6L9hw9VOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863058483572084754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用ai给我写道歉信的神人我竟然遇到了两个 https://t.co/D6L9hw9VOg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "ノンブレス・オブリージュ",
+        "id": "2603784802",
+        "location": "🚪288/520/1314",
+        "name": "hiyorin🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985,
+          "following_count": 96,
+          "like_count": 912,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 541
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

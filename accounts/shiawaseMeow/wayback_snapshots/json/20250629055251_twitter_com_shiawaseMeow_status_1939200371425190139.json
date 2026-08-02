@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1939088326574920032",
+    "created_at": "2025-06-29T05:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T06:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939200371425190139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1928408793819254784",
+          "start": 0,
+          "username": "MingQi47555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939200371425190139",
+    "in_reply_to_user_id": "1928408793819254784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939157715219354046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MingQi47555 我没有朋友😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1939088326574920032",
+        "created_at": "2025-06-29T05:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T06:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939200371425190139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1928408793819254784",
+              "start": 0,
+              "username": "MingQi47555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939200371425190139",
+        "in_reply_to_user_id": "1928408793819254784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939157715219354046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MingQi47555 我没有朋友😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928408793819254784",
+        "conversation_id": "1939088326574920032",
+        "created_at": "2025-06-29T03:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T04:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939157715219354046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939157715219354046",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939088326574920032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 到底能不能思到普，明明你就有门哥门姐在乎，然后你还要刀自己，让自己难受让你的朋友们难受😠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "武汉🚪188/288/520/1314  ",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1927769315874402419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13557,
+          "following_count": 144,
+          "like_count": 1928,
+          "listed_count": 29,
+          "media_count": 264,
+          "tweet_count": 1161
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T11:11:10.000Z",
+        "description": "没有特别的地方",
+        "id": "1928408793819254784",
+        "name": "命歧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928928433725485056/Tpyh_FmM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 16,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "MingQi47555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933918235055079425"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1933918244718698897",
+    "created_at": "2025-06-14T16:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T17:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933918244718698897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OuFM5cogMy",
+          "end": 84,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1933918244718698897/photo/1",
+          "media_key": "3_1933918235055079425",
+          "start": 61,
+          "url": "https://t.co/OuFM5cogMy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933918244718698897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我只能说只有自卑自己丑的不行的人才会在网络上颜值攻击跟他陌不相识的人，况且我长得真不丑啊😂不然哪来的男朋友给我爆金币？？ https://t.co/OuFM5cogMy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1933918235055079425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtaoY3EbwAE7SyG.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933918235055079425"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1933918244718698897",
+        "created_at": "2025-06-14T16:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T17:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933918244718698897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OuFM5cogMy",
+              "end": 84,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1933918244718698897/photo/1",
+              "media_key": "3_1933918235055079425",
+              "start": 61,
+              "url": "https://t.co/OuFM5cogMy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933918244718698897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只能说只有自卑自己丑的不行的人才会在网络上颜值攻击跟他陌不相识的人，况且我长得真不丑啊😂不然哪来的男朋友给我爆金币？？ https://t.co/OuFM5cogMy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13261,
+          "following_count": 142,
+          "like_count": 1882,
+          "listed_count": 29,
+          "media_count": 257,
+          "tweet_count": 1120
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

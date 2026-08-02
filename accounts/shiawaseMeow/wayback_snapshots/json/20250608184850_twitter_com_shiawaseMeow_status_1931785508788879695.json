@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1931709447606550957",
+    "created_at": "2025-06-08T18:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T19:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931785508788879695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1758627409706758144",
+          "start": 0,
+          "username": "Asha203275"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931785508788879695",
+    "in_reply_to_user_id": "1758627409706758144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931742594066760124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asha203275 等我买了电脑我就去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1931709447606550957",
+        "created_at": "2025-06-08T18:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T19:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931785508788879695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1758627409706758144",
+              "start": 0,
+              "username": "Asha203275"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931785508788879695",
+        "in_reply_to_user_id": "1758627409706758144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931742594066760124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asha203275 等我买了电脑我就去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758627409706758144",
+        "conversation_id": "1931709447606550957",
+        "created_at": "2025-06-08T15:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T16:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931742594066760124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931742594066760124",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931709447606550957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 来玩荒野大剑，可以和龙角力，很爽的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  ",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13161,
+          "following_count": 140,
+          "like_count": 1841,
+          "listed_count": 28,
+          "media_count": 255,
+          "tweet_count": 1099
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T23:00:24.000Z",
+        "description": "",
+        "id": "1758627409706758144",
+        "name": "ash",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782764163523330048/hvUWKl_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 265,
+          "like_count": 2583,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 997
+        },
+        "username": "Asha203275",
+        "verified": false
+      }
+    ]
+  }
+}

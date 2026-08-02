@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895776146345639936"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1895776187592618458",
+    "created_at": "2025-03-01T10:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T11:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895776187592618458"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QEVLlWrC9L",
+          "end": 33,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1895776187592618458/photo/1",
+          "media_key": "3_1895776146345639936",
+          "start": 10,
+          "url": "https://t.co/QEVLlWrC9L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895776187592618458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就这样去江汉路玩 https://t.co/QEVLlWrC9L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1895776146345639936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk8mXGCXQAAs7GV.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895776146345639936"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1895776187592618458",
+        "created_at": "2025-03-01T10:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T11:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895776187592618458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QEVLlWrC9L",
+              "end": 33,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1895776187592618458/photo/1",
+              "media_key": "3_1895776146345639936",
+              "start": 10,
+              "url": "https://t.co/QEVLlWrC9L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895776187592618458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样去江汉路玩 https://t.co/QEVLlWrC9L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n（已成年19岁 | 🚪288/520/1314\n备注联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "我很可爱请给我钱",
+        "name": "姬和酱🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4838,
+          "following_count": 117,
+          "like_count": 1436,
+          "listed_count": 8,
+          "media_count": 146,
+          "tweet_count": 767
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

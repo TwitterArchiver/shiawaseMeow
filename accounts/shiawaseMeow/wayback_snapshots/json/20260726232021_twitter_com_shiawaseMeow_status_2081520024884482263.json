@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081519858555248640"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "2081520024884482263",
+    "created_at": "2026-07-26T23:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T00:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081520024884482263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ESkhbCa7uk",
+          "end": 30,
+          "expanded_url": "https://x.com/shiawaseMeow/status/2081520024884482263/photo/1",
+          "media_key": "3_2081519858555248640",
+          "start": 7,
+          "url": "https://t.co/ESkhbCa7uk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081520024884482263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🩸图就不放了 https://t.co/ESkhbCa7uk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2081519858555248640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOMLSHIbYAAoM_o.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081519858555248640"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "2081520024884482263",
+        "created_at": "2026-07-26T23:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T00:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081520024884482263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ESkhbCa7uk",
+              "end": 30,
+              "expanded_url": "https://x.com/shiawaseMeow/status/2081520024884482263/photo/1",
+              "media_key": "3_2081519858555248640",
+              "start": 7,
+              "url": "https://t.co/ESkhbCa7uk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081520024884482263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🩸图就不放了 https://t.co/ESkhbCa7uk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "我是姬和酱呀♡\n盗用禁止🚫",
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位88",
+        "name": "姬和酱",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068649812048982016/TTM5l_or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15680,
+          "following_count": 168,
+          "like_count": 2189,
+          "listed_count": 31,
+          "media_count": 358,
+          "tweet_count": 1537
+        },
+        "url": "",
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

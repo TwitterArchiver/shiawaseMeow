@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1857682573432074574",
+    "created_at": "2024-11-16T08:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T09:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857707733954474392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1455940830594752517",
+          "start": 0,
+          "username": "Kafka_kissu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857707733954474392",
+    "in_reply_to_user_id": "1455940830594752517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857682573432074574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kafka_kissu 1和7宝宝😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1857682573432074574",
+        "created_at": "2024-11-16T08:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T09:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857707733954474392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1455940830594752517",
+              "start": 0,
+              "username": "Kafka_kissu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857707733954474392",
+        "in_reply_to_user_id": "1455940830594752517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857682573432074574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kafka_kissu 1和7宝宝😽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857682559620231170"
+          ]
+        },
+        "author_id": "1455940830594752517",
+        "conversation_id": "1857682573432074574",
+        "created_at": "2024-11-16T07:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T08:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857682573432074574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZpMax3go0O",
+              "end": 28,
+              "expanded_url": "https://x.com/Kafka_kissu/status/1857682573432074574/photo/1",
+              "media_key": "3_1857682559620231170",
+              "start": 5,
+              "url": "https://t.co/ZpMax3go0O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857682573432074574",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可补充🥺 https://t.co/ZpMax3go0O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "能不能也对我留点爱",
+        "id": "2603784802",
+        "location": "🚪288 无福利",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1509,
+          "following_count": 88,
+          "like_count": 745,
+          "listed_count": 1,
+          "tweet_count": 561
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T16:52:14.000Z",
+        "description": "我是卡芙卡（ㄑㄧㄚˇ）。zhCN/enUS。ES，JP，KR看得懂不会写丨 亲友@akiakuno @shiawaseMeow @mottoye89 @Kaori1628304 @anzu_3207146943",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "akiakuno"
+              },
+              {
+                "end": 63,
+                "start": 50,
+                "username": "shiawaseMeow"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "mottoye89"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "Kaori1628304"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "anzu_3207146943"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kafka73678",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kafka73678",
+                "start": 0,
+                "url": "https://t.co/ibnapD0DVh"
+              }
+            ]
+          }
+        },
+        "id": "1455940830594752517",
+        "location": "Changwon-si, Republic of Korea",
+        "name": "Kafka",
+        "pinned_tweet_id": "1856324894742720902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838111071372263425/BgCXIvrw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 2200,
+          "like_count": 1859,
+          "listed_count": 0,
+          "tweet_count": 1774
+        },
+        "url": "https://t.co/ibnapD0DVh",
+        "username": "Kafka_kissu",
+        "verified": false
+      }
+    ]
+  }
+}

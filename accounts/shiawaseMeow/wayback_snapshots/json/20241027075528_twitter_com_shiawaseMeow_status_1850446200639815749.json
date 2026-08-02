@@ -1,0 +1,169 @@
+{
+  "data": {
+    "author_id": "2603784802",
+    "conversation_id": "1850446200639815749",
+    "created_at": "2024-10-27T07:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T08:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850446200639815749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1512311952114028548",
+          "start": 3,
+          "username": "yuki_sakuna"
+        }
+      ]
+    },
+    "id": "1850446200639815749",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20508
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850443565509312721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuki_sakuna: - - - - - - - - - ꒰ ♡ ꒱ - - - - - - - - - \n\n／✧︎*。\n\n本日20時から初配信！✨\n\n＼︎ ︎*。\n\nき、きんちょうしてます、、、\n\n温かい目で見守ってください🎀🐾\n\nhttps://t.co/Xe0…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "2603784802",
+        "conversation_id": "1850446200639815749",
+        "created_at": "2024-10-27T07:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T08:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850446200639815749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1512311952114028548",
+              "start": 3,
+              "username": "yuki_sakuna"
+            }
+          ]
+        },
+        "id": "1850446200639815749",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20508
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850443565509312721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuki_sakuna: - - - - - - - - - ꒰ ♡ ꒱ - - - - - - - - - \n\n／✧︎*。\n\n本日20時から初配信！✨\n\n＼︎ ︎*。\n\nき、きんちょうしてます、、、\n\n温かい目で見守ってください🎀🐾\n\nhttps://t.co/Xe0…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "フラッシュバック · 蝉の声 · 二度とは帰らぬ君。",
+        "id": "2603784802",
+        "location": "我很可爱 请给我钱",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 93,
+          "like_count": 897,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 571
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T06:10:51.000Z",
+        "description": "ゆうきさくなです^ ̳. ̫ . ̳^ฅ゛\n🐈 𓈒𓏸︎︎︎︎ https://t.co/gDTxnd7Pf3 🏡 𓈒𓏸︎︎︎︎ https://t.co/94hp0ZLusv \n🏷𓈒𓏸︎︎︎︎ #結城さくな",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 97,
+                "tag": "結城さくな"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yukisakuna.fanbox.cc",
+                "end": 54,
+                "expanded_url": "https://yukisakuna.fanbox.cc/",
+                "start": 31,
+                "url": "https://t.co/gDTxnd7Pf3"
+              },
+              {
+                "display_url": "yuuki-sakuna.com",
+                "end": 87,
+                "expanded_url": "https://yuuki-sakuna.com/",
+                "start": 64,
+                "url": "https://t.co/94hp0ZLusv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCrV1H…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCrV1Hf5r8P148idjoSfrGEQ",
+                "start": 0,
+                "url": "https://t.co/8gCRiUmhku"
+              }
+            ]
+          }
+        },
+        "id": "1512311952114028548",
+        "name": "結城さくな🎀🐾",
+        "pinned_tweet_id": "1850831747161964829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849739793967742976/fqnK60x7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574127,
+          "following_count": 59,
+          "like_count": 146,
+          "listed_count": 1426,
+          "media_count": 24,
+          "tweet_count": 74
+        },
+        "url": "https://t.co/8gCRiUmhku",
+        "username": "yuki_sakuna",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907012899882872832"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1907013209992613898",
+    "created_at": "2025-04-01T10:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T11:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907013209992613898"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 5,
+          "tag": "门槛哥"
+        },
+        {
+          "end": 13,
+          "start": 10,
+          "tag": "门槛"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bwv68XqP0e",
+          "end": 37,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1907013209992613898/photo/1",
+          "media_key": "3_1907012899882872832",
+          "start": 14,
+          "url": "https://t.co/Bwv68XqP0e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907013209992613898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孩子气\n #门槛哥 #门槛 https://t.co/Bwv68XqP0e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907012899882872832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GncSIO-bMAAbrO3.jpg",
+        "width": 1159
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907012899882872832"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1907013209992613898",
+        "created_at": "2025-04-01T10:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T11:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907013209992613898"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "门槛哥"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "门槛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bwv68XqP0e",
+              "end": 37,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1907013209992613898/photo/1",
+              "media_key": "3_1907012899882872832",
+              "start": 14,
+              "url": "https://t.co/Bwv68XqP0e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907013209992613898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子气\n #门槛哥 #门槛 https://t.co/Bwv68XqP0e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 绝望的neet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1899788877399023877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5690,
+          "following_count": 126,
+          "like_count": 1549,
+          "listed_count": 11,
+          "media_count": 167,
+          "tweet_count": 825
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

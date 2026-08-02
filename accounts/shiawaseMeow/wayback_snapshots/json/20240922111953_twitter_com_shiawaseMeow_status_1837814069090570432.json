@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1837814019279015936"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1837814069090570432",
+    "created_at": "2024-09-22T11:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T12:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1837814069090570432"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dgknmtwasy",
+          "end": 31,
+          "expanded_url": "https://twitter.com/shiawaseMeow/status/1837814069090570432/photo/1",
+          "media_key": "3_1837814019279015936",
+          "start": 8,
+          "url": "https://t.co/dGKNMtwASy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837814069090570432",
+    "lang": "tl",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "kawaii？ https://t.co/dGKNMtwASy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1971,
+        "media_key": "3_1837814019279015936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYE6HQZb0AAtE9B.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837814019279015936"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1837814069090570432",
+        "created_at": "2024-09-22T11:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T12:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837814069090570432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dgknmtwasy",
+              "end": 31,
+              "expanded_url": "https://twitter.com/shiawaseMeow/status/1837814069090570432/photo/1",
+              "media_key": "3_1837814019279015936",
+              "start": 8,
+              "url": "https://t.co/dGKNMtwASy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837814069090570432",
+        "lang": "tl",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "kawaii？ https://t.co/dGKNMtwASy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "世界も涙も強さも忘れて",
+        "id": "2603784802",
+        "location": "I pray",
+        "name": "hiyorin",
+        "pinned_tweet_id": "1836730312723763520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 64,
+          "like_count": 235,
+          "listed_count": 0,
+          "tweet_count": 232
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

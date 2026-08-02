@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1930109606082330886",
+    "created_at": "2025-06-04T07:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T08:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930165155146723452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795614541297950720",
+          "start": 0,
+          "username": "osakana_yui030"
+        },
+        {
+          "end": 28,
+          "id": "1328668224045498372",
+          "start": 16,
+          "username": "keaimianbao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930165155146723452",
+    "in_reply_to_user_id": "1795614541297950720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930109606082330886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@osakana_yui030 @keaimianbao 刘全又在偷懒了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930109599182663680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GskgdEzasAAJGZK.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1930109606082330886",
+        "created_at": "2025-06-04T07:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T08:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930165155146723452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795614541297950720",
+              "start": 0,
+              "username": "osakana_yui030"
+            },
+            {
+              "end": 28,
+              "id": "1328668224045498372",
+              "start": 16,
+              "username": "keaimianbao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930165155146723452",
+        "in_reply_to_user_id": "1795614541297950720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930109606082330886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@osakana_yui030 @keaimianbao 刘全又在偷懒了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930109599182663680"
+          ]
+        },
+        "author_id": "1795614541297950720",
+        "conversation_id": "1930109606082330886",
+        "created_at": "2025-06-04T03:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T04:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930109606082330886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1328668224045498372",
+              "start": 18,
+              "username": "keaimianbao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KYUn6yrPsJ",
+              "end": 65,
+              "expanded_url": "https://x.com/osakana_yui030/status/1930109606082330886/photo/1",
+              "media_key": "3_1930109599182663680",
+              "start": 42,
+              "url": "https://t.co/KYUn6yrPsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930109606082330886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 546,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你推特发你那死猪裸照加个敏感很难吗？@keaimianbao 奶子上有斑是得病吗？ https://t.co/KYUn6yrPsJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿陪聊 不约不线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12960,
+          "following_count": 140,
+          "like_count": 1841,
+          "listed_count": 26,
+          "media_count": 250,
+          "tweet_count": 1088
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T00:34:17.000Z",
+        "description": "我是一個會掉小珍珠的半清水。｜自傷｜精神病｜最好的朋友 @yuna_liii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "yuna_liii"
+              }
+            ]
+          }
+        },
+        "id": "1795614541297950720",
+        "location": "北京🚪377/777",
+        "name": "抽脂馬甲線",
+        "pinned_tweet_id": "1924816676409037206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924533309708877824/CpV9EhNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15999,
+          "following_count": 264,
+          "like_count": 2416,
+          "listed_count": 43,
+          "media_count": 377,
+          "tweet_count": 1509
+        },
+        "username": "osakana_yui030",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-17T11:56:17.000Z",
+        "description": "好吃的XX｜Switch｜闲聊🚪188 ｜没爱做｜欢迎女生私信｜电子日记本｜发癫｜疯狂吞噬小月亮",
+        "id": "1328668224045498372",
+        "location": "宇宙深处",
+        "name": "荞麦面",
+        "pinned_tweet_id": "1804224328562626941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1329071536871915523/IIcBKLIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 1152,
+          "like_count": 805,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 1866
+        },
+        "username": "keaimianbao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1856731486894109130",
+    "created_at": "2024-11-13T16:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T17:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1856731486894109130"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1856731486894109130",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看完了寒蝉解我幸福的在被窝里面流眼泪，大家最后都好好的真的太棒了，罪恶的人也能获得救赎，好美好的世界好感人好好哭……我们也一定要好好的なのです🥹🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1856731486894109130",
+        "created_at": "2024-11-13T16:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T17:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856731486894109130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856731486894109130",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看完了寒蝉解我幸福的在被窝里面流眼泪，大家最后都好好的真的太棒了，罪恶的人也能获得救赎，好美好的世界好感人好好哭……我们也一定要好好的なのです🥹🥹🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "能不能也对我留点爱",
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 88,
+          "like_count": 676,
+          "listed_count": 1,
+          "tweet_count": 541
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

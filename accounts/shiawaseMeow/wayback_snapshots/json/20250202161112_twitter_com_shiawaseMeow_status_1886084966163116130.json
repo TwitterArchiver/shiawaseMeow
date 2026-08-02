@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886084696037302272",
+        "3_1886084711585615872"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1886084966163116130",
+    "created_at": "2025-02-02T16:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T17:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1886084966163116130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aBs1cABvSO",
+          "end": 59,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1886084966163116130/photo/1",
+          "media_key": "3_1886084696037302272",
+          "start": 36,
+          "url": "https://t.co/aBs1cABvSO"
+        },
+        {
+          "display_url": "pic.x.com/aBs1cABvSO",
+          "end": 59,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1886084966163116130/photo/1",
+          "media_key": "3_1886084711585615872",
+          "start": 36,
+          "url": "https://t.co/aBs1cABvSO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886084966163116130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明天要去上海玩 准备了四套衣服 但是不知道按什么顺序穿 我急死了TAT https://t.co/aBs1cABvSO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1886084696037302272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Giy4CcOaoAAfkp1.jpg",
+        "width": 1139
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1886084711585615872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Giy4DWJbEAACuDB.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886084696037302272",
+            "3_1886084711585615872"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1886084966163116130",
+        "created_at": "2025-02-02T16:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T17:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886084966163116130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aBs1cABvSO",
+              "end": 59,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1886084966163116130/photo/1",
+              "media_key": "3_1886084696037302272",
+              "start": 36,
+              "url": "https://t.co/aBs1cABvSO"
+            },
+            {
+              "display_url": "pic.x.com/aBs1cABvSO",
+              "end": 59,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1886084966163116130/photo/1",
+              "media_key": "3_1886084711585615872",
+              "start": 36,
+              "url": "https://t.co/aBs1cABvSO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886084966163116130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天要去上海玩 准备了四套衣服 但是不知道按什么顺序穿 我急死了TAT https://t.co/aBs1cABvSO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "4.0何も無いんだ\n备用@hiyorinnosekai（这个暂时登不上了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "纯绿🚪288/520/1314",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1876979351096361050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3665,
+          "following_count": 112,
+          "like_count": 1339,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 744
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2049951976746889328",
+    "created_at": "2026-05-01T11:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T12:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050178060927045705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1846061432166928387",
+          "start": 0,
+          "username": "santtian0720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050178060927045705",
+    "in_reply_to_user_id": "1846061432166928387",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050040967865266503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@santtian0720 。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2049951976746889328",
+        "created_at": "2026-05-01T11:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050178060927045705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1846061432166928387",
+              "start": 0,
+              "username": "santtian0720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050178060927045705",
+        "in_reply_to_user_id": "1846061432166928387",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050040967865266503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@santtian0720 。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846061432166928387",
+        "conversation_id": "2049951976746889328",
+        "created_at": "2026-05-01T02:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T03:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050040967865266503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050040967865266503",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049951976746889328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 主要是怕你学坏，比起来那就什么都不重要了。想点好的，记点好的，放过别人，放过自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫姬和酱只有X和🍠",
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位只要88感谢投喂",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15416,
+          "following_count": 160,
+          "like_count": 2075,
+          "listed_count": 30,
+          "media_count": 342,
+          "tweet_count": 1476
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-15T05:32:07.000Z",
+        "description": "今日はまた見識生物物種多様性一天。",
+        "id": "1846061432166928387",
+        "location": "根源之涡",
+        "name": "Ritsuka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992013769556529153/HLpvKwGO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 12,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 118
+        },
+        "username": "santtian0720",
+        "verified": false
+      }
+    ]
+  }
+}

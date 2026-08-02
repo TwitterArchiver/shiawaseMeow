@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895461725576835072",
+        "3_1895461725572657152"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1895461787153432758",
+    "created_at": "2025-02-28T13:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T14:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895461787153432758"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MqhNlnsliA",
+          "end": 28,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1895461787153432758/photo/1",
+          "media_key": "3_1895461725576835072",
+          "start": 5,
+          "url": "https://t.co/MqhNlnsliA"
+        },
+        {
+          "display_url": "pic.x.com/MqhNlnsliA",
+          "end": 28,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1895461787153432758/photo/1",
+          "media_key": "3_1895461725572657152",
+          "start": 5,
+          "url": "https://t.co/MqhNlnsliA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895461787153432758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给我钱👅 https://t.co/MqhNlnsliA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1895461725576835072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk4IZZZbMAAVPLd.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1895461725572657152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk4IZZYbcAAjSRo.jpg",
+        "width": 1296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895461725576835072",
+            "3_1895461725572657152"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1895461787153432758",
+        "created_at": "2025-02-28T13:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T14:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895461787153432758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MqhNlnsliA",
+              "end": 28,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1895461787153432758/photo/1",
+              "media_key": "3_1895461725576835072",
+              "start": 5,
+              "url": "https://t.co/MqhNlnsliA"
+            },
+            {
+              "display_url": "pic.x.com/MqhNlnsliA",
+              "end": 28,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1895461787153432758/photo/1",
+              "media_key": "3_1895461725572657152",
+              "start": 5,
+              "url": "https://t.co/MqhNlnsliA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895461787153432758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给我钱👅 https://t.co/MqhNlnsliA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n（已成年19岁 | 🚪288/520/1314\n备注联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "我很可爱请给我钱",
+        "name": "姬和酱🎀🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4797,
+          "following_count": 116,
+          "like_count": 1449,
+          "listed_count": 7,
+          "media_count": 145,
+          "tweet_count": 767
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

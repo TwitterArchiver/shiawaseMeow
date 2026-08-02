@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1899756856186216448",
+        "3_1899756871847927808"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1899761491445748200",
+    "created_at": "2025-03-12T09:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T10:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899761491445748200"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PRpyG4NeiX",
+          "end": 81,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1899761491445748200/photo/1",
+          "media_key": "3_1899756856186216448",
+          "start": 58,
+          "url": "https://t.co/PRpyG4NeiX"
+        },
+        {
+          "display_url": "pic.x.com/PRpyG4NeiX",
+          "end": 81,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1899761491445748200/photo/1",
+          "media_key": "3_1899756871847927808",
+          "start": 58,
+          "url": "https://t.co/PRpyG4NeiX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899761491445748200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "（重新编辑了一下\n陪聊/线下见p2（要点开才能看到完整的）\n过门不会让你失望的QAQ\nʚ(◜𖥦◝ )ɞ求支持🥺🥺🥺 https://t.co/PRpyG4NeiX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1899756856186216448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl1Ky5yXoAA9hBR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1560,
+        "media_key": "3_1899756871847927808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl1Kz0IaYAACY9J.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899756856186216448",
+            "3_1899756871847927808"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1899761491445748200",
+        "created_at": "2025-03-12T09:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T10:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899761491445748200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PRpyG4NeiX",
+              "end": 81,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1899761491445748200/photo/1",
+              "media_key": "3_1899756856186216448",
+              "start": 58,
+              "url": "https://t.co/PRpyG4NeiX"
+            },
+            {
+              "display_url": "pic.x.com/PRpyG4NeiX",
+              "end": 81,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1899761491445748200/photo/1",
+              "media_key": "3_1899756871847927808",
+              "start": 58,
+              "url": "https://t.co/PRpyG4NeiX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899761491445748200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（重新编辑了一下\n陪聊/线下见p2（要点开才能看到完整的）\n过门不会让你失望的QAQ\nʚ(◜𖥦◝ )ɞ求支持🥺🥺🥺 https://t.co/PRpyG4NeiX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 19岁 | 158-46kg | 邦邦人音游狗 | 管人吃 holo的忠实粉丝 湊あくあ单推人 |金丝熊和猫猫的铲屎官 \nʚ(◜𖥦◝ )ɞ爱你们",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "陪聊🚪99/288/520/1314 线下过门再问价",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1899668744651305160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5385,
+          "following_count": 125,
+          "like_count": 1492,
+          "listed_count": 9,
+          "media_count": 152,
+          "tweet_count": 785
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

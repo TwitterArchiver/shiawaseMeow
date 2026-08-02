@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1862100147712528492",
+    "created_at": "2024-11-28T12:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T13:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862106967730491724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1538448868362203136",
+          "start": 0,
+          "username": "evol37635732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862106967730491724",
+    "in_reply_to_user_id": "1538448868362203136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862100147712528492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@evol37635732 上大学是这样的，有时候我都不想上学了想直接去上班"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1862100147712528492",
+        "created_at": "2024-11-28T12:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T13:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862106967730491724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1538448868362203136",
+              "start": 0,
+              "username": "evol37635732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862106967730491724",
+        "in_reply_to_user_id": "1538448868362203136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862100147712528492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@evol37635732 上大学是这样的，有时候我都不想上学了想直接去上班"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538448868362203136",
+        "conversation_id": "1862100147712528492",
+        "created_at": "2024-11-28T11:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T12:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862100147712528492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862100147712528492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要问我为什么不去上班，因为我平时要上课，我操你妈的学校我只能赚这种快钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "フラッシュバック · 蝉の声 · 二度とは帰らぬ君。",
+        "id": "2603784802",
+        "location": "我很可爱 请给我钱",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1596,
+          "following_count": 93,
+          "like_count": 897,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 572
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T09:09:39.000Z",
+        "description": "https://t.co/R7DvpmB4Li",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mmiyabi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mmiyabi",
+                "start": 0,
+                "url": "https://t.co/R7DvpmB4Li"
+              }
+            ]
+          }
+        },
+        "id": "1538448868362203136",
+        "location": "🚪288/520",
+        "name": "みややや",
+        "pinned_tweet_id": "1860349199700885581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815140042538721280/Te_pWM2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 212,
+          "like_count": 15204,
+          "listed_count": 7,
+          "media_count": 94,
+          "tweet_count": 2832
+        },
+        "username": "evol37635732",
+        "verified": false
+      }
+    ]
+  }
+}

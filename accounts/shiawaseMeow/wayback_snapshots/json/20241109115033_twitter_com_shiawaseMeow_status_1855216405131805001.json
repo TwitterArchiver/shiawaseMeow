@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1855216251251167232"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1855216405131805001",
+    "created_at": "2024-11-09T11:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T12:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1855216405131805001"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yP7EuvjcIO",
+          "end": 40,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1855216405131805001/video/1",
+          "media_key": "7_1855216251251167232",
+          "start": 17,
+          "url": "https://t.co/yP7EuvjcIO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855216405131805001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好肥猪。。我对不起合作方😭😭😭 https://t.co/yP7EuvjcIO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15146,
+        "height": 1462,
+        "media_key": "7_1855216251251167232",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1855216251251167232/pu/img/XwP6OTyO4k13NTS4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855216251251167232/pu/vid/avc1/320x504/2qjI8DERypKTN_45.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855216251251167232/pu/vid/avc1/480x756/u4NcP25AO1QjiUe1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855216251251167232/pu/vid/avc1/720x1136/-TZqeR7cS1189YqQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1855216251251167232/pu/pl/vgRV0boNryBlPVNm.m3u8?tag=12"
+          }
+        ],
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1855216251251167232"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1855216405131805001",
+        "created_at": "2024-11-09T11:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T12:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855216405131805001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yP7EuvjcIO",
+              "end": 40,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1855216405131805001/video/1",
+              "media_key": "7_1855216251251167232",
+              "start": 17,
+              "url": "https://t.co/yP7EuvjcIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855216405131805001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好肥猪。。我对不起合作方😭😭😭 https://t.co/yP7EuvjcIO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "能不能也对我留点爱",
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 87,
+          "like_count": 584,
+          "listed_count": 0,
+          "tweet_count": 499
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

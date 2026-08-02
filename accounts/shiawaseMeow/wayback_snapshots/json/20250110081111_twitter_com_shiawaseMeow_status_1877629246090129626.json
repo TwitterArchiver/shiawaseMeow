@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1877046704211390502",
+    "created_at": "2025-01-10T08:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T09:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877629246090129626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1455940830594752517",
+          "start": 0,
+          "username": "Kafka_kissu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877629246090129626",
+    "in_reply_to_user_id": "1455940830594752517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877046704211390502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kafka_kissu 我可以吗卡芙卡🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1877046704211390502",
+        "created_at": "2025-01-10T08:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T09:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877629246090129626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1455940830594752517",
+              "start": 0,
+              "username": "Kafka_kissu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877629246090129626",
+        "in_reply_to_user_id": "1455940830594752517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877046704211390502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kafka_kissu 我可以吗卡芙卡🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455940830594752517",
+        "conversation_id": "1877046704211390502",
+        "created_at": "2025-01-08T17:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T18:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877046704211390502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kojikaxiaolu_/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/kojikaxiaolu_/status/1877035532284228091",
+              "start": 29,
+              "url": "https://t.co/F1GF6t3YLX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877046704211390502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1477,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877035532284228091",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和我互关的人都是见了我的面之后可以直接把我摁在床上玩？🤔 https://t.co/F1GF6t3YLX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "何も無いんだ\n@hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪288/520/1314",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1876979351096361050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2586,
+          "following_count": 103,
+          "like_count": 1166,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 703
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T16:52:14.000Z",
+        "description": "世界公民，代号卡芙卡。 亲友@akiakuno @shiawaseMeow @Kaori1628304 @anzu_3207146943 @Hypon_shroom",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "akiakuno"
+              },
+              {
+                "end": 37,
+                "start": 24,
+                "username": "shiawaseMeow"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "Kaori1628304"
+              },
+              {
+                "end": 68,
+                "start": 52,
+                "username": "anzu_3207146943"
+              },
+              {
+                "end": 82,
+                "start": 69,
+                "username": "Hypon_shroom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kafka73678",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kafka73678",
+                "start": 0,
+                "url": "https://t.co/ibnapD065J"
+              }
+            ]
+          }
+        },
+        "id": "1455940830594752517",
+        "location": "🌍",
+        "name": "Kafka",
+        "pinned_tweet_id": "1858144985947767235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876655283524825088/RWF-ul2e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 2286,
+          "like_count": 3900,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 3231
+        },
+        "url": "https://t.co/ibnapD065J",
+        "username": "Kafka_kissu",
+        "verified": false
+      }
+    ]
+  }
+}

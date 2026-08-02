@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938571194577702912"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1938571202844614946",
+    "created_at": "2025-06-27T12:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T13:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938571202844614946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mai2IyqzoR",
+          "end": 27,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1938571202844614946/photo/1",
+          "media_key": "3_1938571194577702912",
+          "start": 4,
+          "url": "https://t.co/mai2IyqzoR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938571202844614946",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁想吸 https://t.co/mai2IyqzoR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938571194577702912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GucwOwCb0AA5yO6.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938571194577702912"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1938571202844614946",
+        "created_at": "2025-06-27T12:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T13:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938571202844614946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mai2IyqzoR",
+              "end": 27,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1938571202844614946/photo/1",
+              "media_key": "3_1938571194577702912",
+              "start": 4,
+              "url": "https://t.co/mai2IyqzoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938571202844614946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁想吸 https://t.co/mai2IyqzoR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1927769315874402419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13488,
+          "following_count": 143,
+          "like_count": 1913,
+          "listed_count": 28,
+          "media_count": 262,
+          "tweet_count": 1151
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

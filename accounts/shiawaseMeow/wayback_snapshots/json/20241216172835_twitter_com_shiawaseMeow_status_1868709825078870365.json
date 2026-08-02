@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1868693679650783373",
+    "created_at": "2024-12-16T17:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T18:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868709825078870365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679438854913421312",
+          "start": 0,
+          "username": "SinFatality"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868709825078870365",
+    "in_reply_to_user_id": "1679438854913421312",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868694645435482590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SinFatality 😫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1868693679650783373",
+        "created_at": "2024-12-16T17:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T18:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868709825078870365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679438854913421312",
+              "start": 0,
+              "username": "SinFatality"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868709825078870365",
+        "in_reply_to_user_id": "1679438854913421312",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868694645435482590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SinFatality 😫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679438854913421312",
+        "conversation_id": "1868693679650783373",
+        "created_at": "2024-12-16T16:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T17:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868694645435482590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868694645435482590",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868693679650783373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 对他们使用满门抄斩吧👊🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "ノンブレス・オブリージュ\n另一個我 @hiyorinnosekai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin🎀🐾",
+        "pinned_tweet_id": "1865055340926296385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2165,
+          "following_count": 93,
+          "like_count": 1006,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 621
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T10:33:25.000Z",
+        "description": "Bessel Equation",
+        "id": "1679438854913421312",
+        "name": "千早",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832827139785420800/vjaCmcYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 332,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 87
+        },
+        "username": "SinFatality",
+        "verified": false
+      }
+    ]
+  }
+}

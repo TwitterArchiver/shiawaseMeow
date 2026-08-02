@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1855099848237940875",
+    "created_at": "2024-11-09T17:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T18:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855303104109109635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1843812204157792256",
+          "start": 0,
+          "username": "crycry_angel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855303104109109635",
+    "in_reply_to_user_id": "1843812204157792256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855301768495989128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crycry_angel 宝宝🥹🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1855099848237940875",
+        "created_at": "2024-11-09T17:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T18:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855303104109109635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1843812204157792256",
+              "start": 0,
+              "username": "crycry_angel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855303104109109635",
+        "in_reply_to_user_id": "1843812204157792256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855301768495989128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crycry_angel 宝宝🥹🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843812204157792256",
+        "conversation_id": "1855099848237940875",
+        "created_at": "2024-11-09T17:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T18:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855301768495989128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855301768495989128",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855099848237940875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 我要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "能不能也对我留点爱",
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 87,
+          "like_count": 593,
+          "listed_count": 0,
+          "tweet_count": 507
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T00:34:40.000Z",
+        "description": "私信只回口令，不是黄推。因为我没钱吃饭所以我将会当赛博乞丐",
+        "id": "1843812204157792256",
+        "location": "heaven",
+        "name": "宅郁奶酪派",
+        "pinned_tweet_id": "1851896923952943195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848782834414014464/LBAnq-IX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 13,
+          "like_count": 92,
+          "listed_count": 0,
+          "tweet_count": 116
+        },
+        "username": "crycry_angel",
+        "verified": false
+      }
+    ]
+  }
+}

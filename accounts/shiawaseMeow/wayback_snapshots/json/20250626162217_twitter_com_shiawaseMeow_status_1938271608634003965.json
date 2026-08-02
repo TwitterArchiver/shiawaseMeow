@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1938271608634003965",
+    "created_at": "2025-06-26T16:22:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T17:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938271608634003965"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sppp11225/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/sppp11225/status/1938267249296740532",
+          "start": 5,
+          "url": "https://t.co/fUc9kCZUSL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938271608634003965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938267249296740532",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "两颗蘑菇 https://t.co/fUc9kCZUSL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1938267239054237696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuYbyNea4AAm9S7.jpg",
+        "width": 1324
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1938271608634003965",
+        "created_at": "2025-06-26T16:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T17:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938271608634003965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sppp11225/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/sppp11225/status/1938267249296740532",
+              "start": 5,
+              "url": "https://t.co/fUc9kCZUSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938271608634003965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938267249296740532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "两颗蘑菇 https://t.co/fUc9kCZUSL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938267239054237696"
+          ]
+        },
+        "author_id": "1896548896090075136",
+        "conversation_id": "1938267249296740532",
+        "created_at": "2025-06-26T16:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T17:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938267249296740532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SoB5edxMPV",
+              "end": 43,
+              "expanded_url": "https://x.com/sppp11225/status/1938267249296740532/photo/1",
+              "media_key": "3_1938267239054237696",
+              "start": 20,
+              "url": "https://t.co/SoB5edxMPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938267249296740532",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 温良小姬和 https://t.co/SoB5edxMPV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1927769315874402419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13492,
+          "following_count": 143,
+          "like_count": 1910,
+          "listed_count": 28,
+          "media_count": 261,
+          "tweet_count": 1150
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T13:11:29.000Z",
+        "description": "求永不封号教程🚪99/199/299全球🉑飞什么都接 @EsperanzaM55294 大号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "EsperanzaM55294"
+              }
+            ]
+          }
+        },
+        "id": "1896548896090075136",
+        "name": "小书包（树皮",
+        "pinned_tweet_id": "1932788403629928699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896549476594290688/L9MjFyCM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7523,
+          "following_count": 72,
+          "like_count": 172,
+          "listed_count": 20,
+          "media_count": 30,
+          "tweet_count": 226
+        },
+        "username": "sppp11225",
+        "verified": false
+      }
+    ]
+  }
+}

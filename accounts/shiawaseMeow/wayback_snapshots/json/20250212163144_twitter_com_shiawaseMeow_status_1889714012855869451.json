@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1889645906787524768",
+    "created_at": "2025-02-12T16:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T17:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889714012855869451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1038388973670789120",
+          "start": 0,
+          "username": "MinamiyaNagiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889714012855869451",
+    "in_reply_to_user_id": "1038388973670789120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889711166206709778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinamiyaNagiya 我也喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1889645906787524768",
+        "created_at": "2025-02-12T16:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T17:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889714012855869451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1038388973670789120",
+              "start": 0,
+              "username": "MinamiyaNagiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889714012855869451",
+        "in_reply_to_user_id": "1038388973670789120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889711166206709778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinamiyaNagiya 我也喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1038388973670789120",
+        "conversation_id": "1889645906787524768",
+        "created_at": "2025-02-12T16:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T17:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889711166206709778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889711166206709778",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889645906787524768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 我喜欢你（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "4.0何も無いんだ\n备用@hiyorinnosekai\n（已成年20岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "纯绿🚪288/520/1314",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1876979351096361050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3966,
+          "following_count": 115,
+          "like_count": 1377,
+          "listed_count": 4,
+          "media_count": 147,
+          "tweet_count": 763
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-08T11:29:58.000Z",
+        "description": "擦边小号@Nagiya_Nya丨不含糖不线下不互推丨看见喜欢的就会转，照片符合xp才关注丨🚪25送两个图包2选1丨购买图包请私信或过门槛后细聊\n欢迎同好私信扩列丨性骚扰和不知道怎么回的私信一律已读不回丨不接电诈推广丨粉丝群号325916100，只批qq等级＞=20且关注了的人加，zn和圈外人勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "Nagiya_Nya"
+              }
+            ]
+          }
+        },
+        "id": "1038388973670789120",
+        "location": "China",
+        "name": "凪夜Nagiya",
+        "pinned_tweet_id": "1847737690156065079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868271770027057152/4DHaBiqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21271,
+          "following_count": 3200,
+          "like_count": 49837,
+          "listed_count": 78,
+          "media_count": 576,
+          "tweet_count": 20215
+        },
+        "username": "MinamiyaNagiya",
+        "verified": false
+      }
+    ]
+  }
+}

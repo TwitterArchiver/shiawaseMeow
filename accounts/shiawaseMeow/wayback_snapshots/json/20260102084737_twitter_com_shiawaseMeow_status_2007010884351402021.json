@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007010875887288320"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "2007010884351402021",
+    "created_at": "2026-01-02T08:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T09:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007010884351402021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OndoSEZZOO",
+          "end": 29,
+          "expanded_url": "https://x.com/shiawaseMeow/status/2007010884351402021/photo/1",
+          "media_key": "3_2007010875887288320",
+          "start": 6,
+          "url": "https://t.co/OndoSEZZOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007010884351402021",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "=ᗜωᗜ= https://t.co/OndoSEZZOO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2007010875887288320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9pVwg2bgAAqoQf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007010875887288320"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "2007010884351402021",
+        "created_at": "2026-01-02T08:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T09:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007010884351402021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OndoSEZZOO",
+              "end": 29,
+              "expanded_url": "https://x.com/shiawaseMeow/status/2007010884351402021/photo/1",
+              "media_key": "3_2007010875887288320",
+              "start": 6,
+              "url": "https://t.co/OndoSEZZOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007010884351402021",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "=ᗜωᗜ= https://t.co/OndoSEZZOO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "盗用禁止🚫备用唯一小号@hiyorinnosekai   永远19岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "2003530023203144077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15543,
+          "following_count": 148,
+          "like_count": 1984,
+          "listed_count": 28,
+          "media_count": 327,
+          "tweet_count": 1391
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

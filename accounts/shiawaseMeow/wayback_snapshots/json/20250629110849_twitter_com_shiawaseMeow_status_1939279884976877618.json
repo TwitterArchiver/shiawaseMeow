@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939279878961926145"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1939279884976877618",
+    "created_at": "2025-06-29T11:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T12:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939279884976877618"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/57sFzgebdC",
+          "end": 32,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1939279884976877618/photo/1",
+          "media_key": "3_1939279878961926145",
+          "start": 9,
+          "url": "https://t.co/57sFzgebdC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939279884976877618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 594,
+      "like_count": 18,
+      "quote_count": 1,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的猫好像很爱我 https://t.co/57sFzgebdC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1939279878961926145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gum0xnGWkAEifAU.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939279878961926145"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1939279884976877618",
+        "created_at": "2025-06-29T11:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T12:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939279884976877618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/57sFzgebdC",
+              "end": 32,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1939279884976877618/photo/1",
+              "media_key": "3_1939279878961926145",
+              "start": 9,
+              "url": "https://t.co/57sFzgebdC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939279884976877618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 594,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的猫好像很爱我 https://t.co/57sFzgebdC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "武汉🚪188/288/520/1314  ",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1927769315874402419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13552,
+          "following_count": 144,
+          "like_count": 1932,
+          "listed_count": 29,
+          "media_count": 265,
+          "tweet_count": 1163
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970423362179735552"
+      ]
+    },
+    "author_id": "2603784802",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1970423381498679802",
+    "created_at": "2025-09-23T09:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T10:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970423381498679802"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/s1d5Xb7Yyz",
+          "end": 54,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1970423381498679802/photo/1",
+          "media_key": "3_1970423362179735552",
+          "start": 31,
+          "url": "https://t.co/s1d5Xb7Yyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970423381498679802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一想到昨天翡翠cd被人黑了我就难受😣生活不如意游戏也不如意 https://t.co/s1d5Xb7Yyz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_1970423362179735552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1hZm6_aoAALu4F.jpg",
+        "width": 408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970423362179735552"
+          ]
+        },
+        "author_id": "2603784802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1970423381498679802",
+        "created_at": "2025-09-23T09:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T10:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970423381498679802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s1d5Xb7Yyz",
+              "end": 54,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1970423381498679802/photo/1",
+              "media_key": "3_1970423362179735552",
+              "start": 31,
+              "url": "https://t.co/s1d5Xb7Yyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970423381498679802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一想到昨天翡翠cd被人黑了我就难受😣生活不如意游戏也不如意 https://t.co/s1d5Xb7Yyz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1958534397021565120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15536,
+          "following_count": 151,
+          "like_count": 1949,
+          "listed_count": 32,
+          "media_count": 293,
+          "tweet_count": 1283
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

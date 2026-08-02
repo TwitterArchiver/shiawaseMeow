@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1928230898970849472",
+    "created_at": "2025-05-29T23:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T00:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928230898970849472"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1928230898970849472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的脑子里面貌似住进了一个强迫症患者一直去想那些讨厌的事情好烦我真的不想再想起来了啊，可是离开让我痛苦的人也会好痛苦已经到了完全无法解决的地步，真觉得除了消灭我自己没有任何办法了为什么我的人生不能读档所以我好想销号而且退游再也不来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1928230898970849472",
+        "created_at": "2025-05-29T23:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T00:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928230898970849472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928230898970849472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的脑子里面貌似住进了一个强迫症患者一直去想那些讨厌的事情好烦我真的不想再想起来了啊，可是离开让我痛苦的人也会好痛苦已经到了完全无法解决的地步，真觉得除了消灭我自己没有任何办法了为什么我的人生不能读档所以我好想销号而且退游再也不来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿陪聊 不约不线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12253,
+          "following_count": 140,
+          "like_count": 1827,
+          "listed_count": 21,
+          "media_count": 238,
+          "tweet_count": 1057
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

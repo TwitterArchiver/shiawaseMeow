@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913527064772444160"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1913527090739290339",
+    "created_at": "2025-04-19T09:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T10:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913527090739290339"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HxvJf2Xp3H",
+          "end": 31,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1913527090739290339/photo/1",
+          "media_key": "3_1913527064772444160",
+          "start": 8,
+          "url": "https://t.co/HxvJf2Xp3H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913527090739290339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是你的女仆吗 https://t.co/HxvJf2Xp3H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1913527064772444160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go42uiPbgAA6x-a.jpg",
+        "width": 1143
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913527064772444160"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1913527090739290339",
+        "created_at": "2025-04-19T09:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T10:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913527090739290339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HxvJf2Xp3H",
+              "end": 31,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1913527090739290339/photo/1",
+              "media_key": "3_1913527064772444160",
+              "start": 8,
+              "url": "https://t.co/HxvJf2Xp3H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913527090739290339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是你的女仆吗 https://t.co/HxvJf2Xp3H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "关注你就是我喜欢你 你们好我是善良的小女孩  希望你们喜欢我\n备用@hiyorinnosekai\n 绝望的neet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1899788877399023877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8996,
+          "following_count": 140,
+          "like_count": 1683,
+          "listed_count": 17,
+          "media_count": 192,
+          "tweet_count": 939
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

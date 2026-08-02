@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1885623785031864686",
+    "created_at": "2025-02-12T17:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T18:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889726405283393795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1620100021269192705",
+          "start": 0,
+          "username": "xhifng99799890"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889726405283393795",
+    "in_reply_to_user_id": "1620100021269192705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889725240286032225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xhifng99799890 结城sakuna"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1885623785031864686",
+        "created_at": "2025-02-12T17:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T18:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889726405283393795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1620100021269192705",
+              "start": 0,
+              "username": "xhifng99799890"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889726405283393795",
+        "in_reply_to_user_id": "1620100021269192705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889725240286032225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhifng99799890 结城sakuna"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620100021269192705",
+        "conversation_id": "1885623785031864686",
+        "created_at": "2025-02-12T17:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T18:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889725240286032225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889725240286032225",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885623785031864686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 是结成嘛？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "4.0何も無いんだ\n备用@hiyorinnosekai\n（已成年20岁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "纯绿🚪288/520/1314",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1876979351096361050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3974,
+          "following_count": 115,
+          "like_count": 1382,
+          "listed_count": 4,
+          "media_count": 147,
+          "tweet_count": 766
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-30T16:42:14.000Z",
+        "description": "🇨🇳|男|喜欢猫猫鲨鱼",
+        "id": "1620100021269192705",
+        "name": "小懒🦈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887927028164481024/SOG5y6sy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 30,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 280
+        },
+        "username": "xhifng99799890",
+        "verified": false
+      }
+    ]
+  }
+}

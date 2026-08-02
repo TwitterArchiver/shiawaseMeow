@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917122908641701888"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1917122938710725096",
+    "created_at": "2025-04-29T07:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T08:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917122938710725096"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kKy7Fz3dRC",
+          "end": 35,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1917122938710725096/photo/1",
+          "media_key": "3_1917122908641701888",
+          "start": 12,
+          "url": "https://t.co/kKy7Fz3dRC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917122938710725096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "萝莉控什么的最讨厌了～ https://t.co/kKy7Fz3dRC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917122908641701888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpr9IMhaMAAGJ6j.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917122908641701888"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1917122938710725096",
+        "created_at": "2025-04-29T07:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T08:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917122938710725096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKy7Fz3dRC",
+              "end": 35,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1917122938710725096/photo/1",
+              "media_key": "3_1917122908641701888",
+              "start": 12,
+              "url": "https://t.co/kKy7Fz3dRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917122938710725096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "萝莉控什么的最讨厌了～ https://t.co/kKy7Fz3dRC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 绝望的neet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1899788877399023877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10649,
+          "following_count": 136,
+          "like_count": 1703,
+          "listed_count": 20,
+          "media_count": 206,
+          "tweet_count": 974
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

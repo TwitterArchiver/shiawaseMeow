@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1933918244718698897",
+    "created_at": "2025-06-14T16:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T17:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933925230457819353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763443831079657472",
+          "start": 0,
+          "username": "liangzai453482"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933925230457819353",
+    "in_reply_to_user_id": "1763443831079657472",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933924759663997163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangzai453482 TAT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1933918244718698897",
+        "created_at": "2025-06-14T16:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T17:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933925230457819353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763443831079657472",
+              "start": 0,
+              "username": "liangzai453482"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933925230457819353",
+        "in_reply_to_user_id": "1763443831079657472",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933924759663997163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangzai453482 TAT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763443831079657472",
+        "conversation_id": "1933918244718698897",
+        "created_at": "2025-06-14T16:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T17:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933924759663997163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933924759663997163",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933918244718698897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 宝宝你长得很可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13262,
+          "following_count": 142,
+          "like_count": 1885,
+          "listed_count": 29,
+          "media_count": 257,
+          "tweet_count": 1128
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T05:59:17.000Z",
+        "description": "没什么好说的",
+        "id": "1763443831079657472",
+        "name": "liang_zai_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763444331158089728/4Bm5wjJ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 481,
+          "like_count": 659,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 482
+        },
+        "username": "liangzai453482",
+        "verified": false
+      }
+    ]
+  }
+}

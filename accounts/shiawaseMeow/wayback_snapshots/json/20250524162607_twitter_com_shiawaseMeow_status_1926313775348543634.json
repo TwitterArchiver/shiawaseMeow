@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1926196997817503883",
+    "created_at": "2025-05-24T16:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T17:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926313775348543634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1645627834701082624",
+          "start": 0,
+          "username": "kira20194922529"
+        },
+        {
+          "end": 28,
+          "id": "1734571748635652096",
+          "start": 17,
+          "username": "jpxy120764"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926313775348543634",
+    "in_reply_to_user_id": "1645627834701082624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926197866734793050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kira20194922529 @jpxy120764 下次我再去六角亭复查估计我跟你一样要住院了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1926196997817503883",
+        "created_at": "2025-05-24T16:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T17:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926313775348543634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1645627834701082624",
+              "start": 0,
+              "username": "kira20194922529"
+            },
+            {
+              "end": 28,
+              "id": "1734571748635652096",
+              "start": 17,
+              "username": "jpxy120764"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926313775348543634",
+        "in_reply_to_user_id": "1645627834701082624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926197866734793050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kira20194922529 @jpxy120764 下次我再去六角亭复查估计我跟你一样要住院了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645627834701082624",
+        "conversation_id": "1926196997817503883",
+        "created_at": "2025-05-24T08:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T09:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926197866734793050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1734571748635652096",
+              "start": 0,
+              "username": "jpxy120764"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926197866734793050",
+        "in_reply_to_user_id": "1734571748635652096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926196997817503883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jpxy120764 我入驻六角亭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  陪聊无福利",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11326,
+          "following_count": 141,
+          "like_count": 1803,
+          "listed_count": 21,
+          "media_count": 232,
+          "tweet_count": 1041
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T03:20:33.000Z",
+        "description": "🚪30\n@keaiiea←这是我的黄推号\n入门可关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "keaiiea"
+              }
+            ]
+          }
+        },
+        "id": "1645627834701082624",
+        "location": "0.1km",
+        "name": "Jonas",
+        "pinned_tweet_id": "1914812256770199869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872088243606552576/btnTx5UM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 1338,
+          "like_count": 46739,
+          "listed_count": 1,
+          "media_count": 666,
+          "tweet_count": 3732
+        },
+        "username": "kira20194922529",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T13:52:20.000Z",
+        "description": "edtwt | shtwt | od | 负能 | 欢迎互fo | 女生除外私信只回口令相关",
+        "id": "1734571748635652096",
+        "location": "🚪52/88/128纯绿",
+        "name": "番茄炒拉面",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906941734468403200/66gaOv0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 123,
+          "like_count": 18913,
+          "listed_count": 1,
+          "media_count": 232,
+          "tweet_count": 2025
+        },
+        "username": "jpxy120764",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1847530264765112320"
+      ]
+    },
+    "author_id": "2603784802",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1847530424165360042",
+    "created_at": "2024-10-19T06:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T07:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1847530424165360042"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mE0Adc4ZaI",
+          "end": 35,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1847530424165360042/photo/1",
+          "media_key": "3_1847530264765112320",
+          "start": 12,
+          "url": "https://t.co/mE0Adc4ZaI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847530424165360042",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个人出来吃麦麦了＞＜ https://t.co/mE0Adc4ZaI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1847530264765112320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaO-_LcboAA7pfy.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847530264765112320"
+          ]
+        },
+        "author_id": "2603784802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1847530424165360042",
+        "created_at": "2024-10-19T06:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T07:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847530424165360042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mE0Adc4ZaI",
+              "end": 35,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1847530424165360042/photo/1",
+              "media_key": "3_1847530264765112320",
+              "start": 12,
+              "url": "https://t.co/mE0Adc4ZaI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847530424165360042",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个人出来吃麦麦了＞＜ https://t.co/mE0Adc4ZaI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "能不能也对我留点爱",
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 78,
+          "like_count": 352,
+          "listed_count": 0,
+          "tweet_count": 370
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

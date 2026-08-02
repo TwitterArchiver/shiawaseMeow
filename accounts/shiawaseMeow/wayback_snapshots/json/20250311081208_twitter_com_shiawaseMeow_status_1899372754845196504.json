@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1899372656899559424"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1899372754845196504",
+    "created_at": "2025-03-11T08:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T09:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899372754845196504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/scrJDL675Z",
+          "end": 30,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1899372754845196504/photo/1",
+          "media_key": "3_1899372656899559424",
+          "start": 7,
+          "url": "https://t.co/scrJDL675Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899372754845196504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不化妆的时候 https://t.co/scrJDL675Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1899372656899559424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlvtXj6WkAAzdmB.jpg",
+        "width": 1155
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899372656899559424"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1899372754845196504",
+        "created_at": "2025-03-11T08:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T09:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899372754845196504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/scrJDL675Z",
+              "end": 30,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1899372754845196504/photo/1",
+              "media_key": "3_1899372656899559424",
+              "start": 7,
+              "url": "https://t.co/scrJDL675Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899372754845196504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不化妆的时候 https://t.co/scrJDL675Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai\n（已成年19岁 | 纯绿陪聊🚪288/520/1314 | 线下过门询价\n备注联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "我很可爱请给我钱",
+        "name": "姬和酱🎀🐾",
+        "pinned_tweet_id": "1896786991225958700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5362,
+          "following_count": 122,
+          "like_count": 1486,
+          "listed_count": 9,
+          "media_count": 151,
+          "tweet_count": 786
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1833927470741160308",
+    "created_at": "2024-09-12T03:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T04:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834073484823331112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1793689669953257472",
+          "start": 0,
+          "username": "xy77qinqin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834073484823331112",
+    "in_reply_to_user_id": "1793689669953257472",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833927470741160308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xy77qinqin 我就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1833927470741160308",
+        "created_at": "2024-09-12T03:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T04:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834073484823331112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1793689669953257472",
+              "start": 0,
+              "username": "xy77qinqin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834073484823331112",
+        "in_reply_to_user_id": "1793689669953257472",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833927470741160308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xy77qinqin 我就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793689669953257472",
+        "conversation_id": "1833927470741160308",
+        "created_at": "2024-09-11T17:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T18:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833927470741160308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xie55551/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/xie55551/status/1833916764323020976",
+              "start": 9,
+              "url": "https://t.co/PkDmMbIRZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833927470741160308",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 354,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833916764323020976",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起 我就这样 https://t.co/PkDmMbIRZA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "世界も涙も強さも忘れて",
+        "id": "2603784802",
+        "location": "迷う",
+        "name": "hiyorin",
+        "pinned_tweet_id": "1824449177591615604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 52,
+          "like_count": 199,
+          "listed_count": 0,
+          "tweet_count": 204
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T17:05:34.000Z",
+        "description": "🚪288/520/1314",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xy2.0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xy2.0",
+                "start": 0,
+                "url": "https://t.co/vzLKffYyq8"
+              }
+            ]
+          }
+        },
+        "id": "1793689669953257472",
+        "location": "问坐标15米",
+        "name": "？",
+        "pinned_tweet_id": "1833821515709616407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833737976754642944/ili2nMgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2433,
+          "following_count": 302,
+          "like_count": 11245,
+          "listed_count": 7,
+          "tweet_count": 1832
+        },
+        "url": "https://t.co/vzLKffYyq8",
+        "username": "xy77qinqin",
+        "verified": false
+      }
+    ]
+  }
+}

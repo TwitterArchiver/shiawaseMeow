@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "1928230898970849472",
+    "created_at": "2025-05-30T12:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T13:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928424766014173559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1643214755547725831",
+          "start": 0,
+          "username": "travs486"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928424766014173559",
+    "in_reply_to_user_id": "1643214755547725831",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928415871942238586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@travs486 不行我太刀队友老打我 我一直在哭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2999,
+        "height": 720,
+        "media_key": "13_1928415762261405696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1928415762261405696/img/8sVLKz8d0O14BUqb.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928415762261405696/vid/avc1/480x270/5DXUo-8A3PDptIR7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928415762261405696/vid/avc1/640x360/DJ_bSt9GstxjCC5A.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928415762261405696/vid/avc1/1280x720/bQJxtpDi4TOzaxSx.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1928415762261405696/pl/ggCPBHYiir_3ABo8.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "1928230898970849472",
+        "created_at": "2025-05-30T12:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T13:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928424766014173559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643214755547725831",
+              "start": 0,
+              "username": "travs486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928424766014173559",
+        "in_reply_to_user_id": "1643214755547725831",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928415871942238586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@travs486 不行我太刀队友老打我 我一直在哭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928415762261405696"
+          ]
+        },
+        "author_id": "1643214755547725831",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201620375613788161",
+              "name": "Nintendo 3DS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201620375613788161",
+              "name": "Nintendo 3DS"
+            }
+          }
+        ],
+        "conversation_id": "1928230898970849472",
+        "created_at": "2025-05-30T11:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T12:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928415871942238586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oPEz7FkURt",
+              "end": 57,
+              "expanded_url": "https://x.com/travs486/status/1928415871942238586/video/1",
+              "media_key": "13_1928415762261405696",
+              "start": 34,
+              "url": "https://t.co/oPEz7FkURt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928415871942238586",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928408964217409945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow 你需要无敌的勇气太刀噗 可惜你是3ds https://t.co/oPEz7FkURt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  纯绿陪聊 不约不线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1920474634165567581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905137716607774720/oaQUox2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12318,
+          "following_count": 140,
+          "like_count": 1826,
+          "listed_count": 24,
+          "media_count": 238,
+          "tweet_count": 1061
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-04T11:32:01.000Z",
+        "description": "",
+        "id": "1643214755547725831",
+        "name": "Trav486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666269781241253888/bfYZFhjs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 669,
+          "like_count": 3295,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 6
+        },
+        "username": "travs486",
+        "verified": false
+      }
+    ]
+  }
+}

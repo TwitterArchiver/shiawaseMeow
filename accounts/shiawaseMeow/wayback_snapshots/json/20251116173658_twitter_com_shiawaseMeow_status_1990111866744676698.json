@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1990111795814797312"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1990111866744676698",
+    "created_at": "2025-11-16T17:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T18:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990111866744676698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HbnpxCDWfu",
+          "end": 32,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1990111866744676698/video/1",
+          "media_key": "13_1990111795814797312",
+          "start": 9,
+          "url": "https://t.co/HbnpxCDWfu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990111866744676698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "社恐小女孩出门了 https://t.co/HbnpxCDWfu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8109,
+        "height": 1280,
+        "media_key": "13_1990111795814797312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1990111795814797312/img/XZVO5DrQN5TwcMCE.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990111795814797312/vid/avc1/320x568/MjJfBPY7w_BP4bus.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990111795814797312/vid/avc1/480x852/1MYEZm4M5msMhKOW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990111795814797312/vid/avc1/720x1280/uFZxpptIUAlel3x2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1990111795814797312/pl/d0zRAKA7Jim_wHl1.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1990111795814797312"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1990111866744676698",
+        "created_at": "2025-11-16T17:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T18:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990111866744676698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HbnpxCDWfu",
+              "end": 32,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1990111866744676698/video/1",
+              "media_key": "13_1990111795814797312",
+              "start": 9,
+              "url": "https://t.co/HbnpxCDWfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990111866744676698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "社恐小女孩出门了 https://t.co/HbnpxCDWfu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "备用@hiyorinnosekai 这个女孩只活在连线世界",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "hiyorinnosekai"
+              }
+            ]
+          }
+        },
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314  无线下",
+        "name": "姬和酱G",
+        "pinned_tweet_id": "1958534397021565120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859483406639105/KxXNgT3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15203,
+          "following_count": 148,
+          "like_count": 1918,
+          "listed_count": 31,
+          "media_count": 308,
+          "tweet_count": 1339
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}

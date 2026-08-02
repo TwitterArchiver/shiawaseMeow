@@ -1,0 +1,170 @@
+{
+  "data": {
+    "author_id": "2603784802",
+    "conversation_id": "1850867714694521164",
+    "created_at": "2024-10-28T11:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-28T12:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850867714694521164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1512311952114028548",
+          "start": 3,
+          "username": "yuki_sakuna"
+        }
+      ]
+    },
+    "id": "1850867714694521164",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18816
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850831747161964829",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuki_sakuna: .·*.⟡ キービジュアル公開 ⟡.·*.\n\n♡YouTube: https://t.co/FsdOq5nU3c\n♡TikTok: https://t.co/VaadzWinE5\n♡FANBOX: https://t.co/cHEgHEhM3S…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "2603784802",
+        "conversation_id": "1850867714694521164",
+        "created_at": "2024-10-28T11:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T12:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850867714694521164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1512311952114028548",
+              "start": 3,
+              "username": "yuki_sakuna"
+            }
+          ]
+        },
+        "id": "1850867714694521164",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18816
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850831747161964829",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuki_sakuna: .·*.⟡ キービジュアル公開 ⟡.·*.\n\n♡YouTube: https://t.co/FsdOq5nU3c\n♡TikTok: https://t.co/VaadzWinE5\n♡FANBOX: https://t.co/cHEgHEhM3S…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "ノンブレス・オブリージュ",
+        "id": "2603784802",
+        "location": "🚪288",
+        "name": "hiyorin🎀🐾",
+        "pinned_tweet_id": "1864188853613171155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864287537822617602/QhVtvh7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2077,
+          "following_count": 97,
+          "like_count": 929,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 559
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T06:10:51.000Z",
+        "description": "ゆうきさくなです^ ̳. ̫ . ̳^ฅ゛ 🐈 𓈒𓏸︎︎︎︎ https://t.co/gDTxnd7Pf3 🏡 𓈒𓏸︎︎︎︎ https://t.co/94hp0ZLusv 🛍️ 𓈒𓏸︎︎︎︎ https://t.co/bsZosYtt3Q",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yukisakuna.fanbox.cc",
+                "end": 54,
+                "expanded_url": "https://yukisakuna.fanbox.cc/",
+                "start": 31,
+                "url": "https://t.co/gDTxnd7Pf3"
+              },
+              {
+                "display_url": "yuuki-sakuna.com",
+                "end": 87,
+                "expanded_url": "https://yuuki-sakuna.com/",
+                "start": 64,
+                "url": "https://t.co/94hp0ZLusv"
+              },
+              {
+                "display_url": "yuki-sakuna.stores.jp",
+                "end": 121,
+                "expanded_url": "https://yuki-sakuna.stores.jp/",
+                "start": 98,
+                "url": "https://t.co/bsZosYtt3Q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCrV1H…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCrV1Hf5r8P148idjoSfrGEQ",
+                "start": 0,
+                "url": "https://t.co/8gCRiUmhku"
+              }
+            ]
+          }
+        },
+        "id": "1512311952114028548",
+        "name": "結城さくな🎀🐾",
+        "pinned_tweet_id": "1863591452502348172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849739793967742976/fqnK60x7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584629,
+          "following_count": 69,
+          "like_count": 181,
+          "listed_count": 1477,
+          "media_count": 30,
+          "tweet_count": 107
+        },
+        "url": "https://t.co/8gCRiUmhku",
+        "username": "yuki_sakuna",
+        "verified": false
+      }
+    ]
+  }
+}
