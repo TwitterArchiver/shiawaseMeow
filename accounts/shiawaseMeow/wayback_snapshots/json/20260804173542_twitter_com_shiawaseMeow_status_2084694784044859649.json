@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2084683782817493354",
+    "created_at": "2026-08-04T17:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T18:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084694784044859649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2069870475124391936",
+          "start": 0,
+          "username": "xxsyyz001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084694784044859649",
+    "in_reply_to_user_id": "2069870475124391936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084694231428608271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxsyyz001 也可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2084683782817493354",
+        "created_at": "2026-08-04T17:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084694784044859649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2069870475124391936",
+              "start": 0,
+              "username": "xxsyyz001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084694784044859649",
+        "in_reply_to_user_id": "2069870475124391936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084694231428608271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxsyyz001 也可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069870475124391936",
+        "conversation_id": "2084683782817493354",
+        "created_at": "2026-08-04T17:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084694231428608271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2603784802",
+              "start": 0,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084694231428608271",
+        "in_reply_to_user_id": "2603784802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084683782817493354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawaseMeow emmm，喝酒吗还是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "我是姬和酱呀♡\n盗用禁止🚫",
+        "id": "2603784802",
+        "location": "🚪188/288/520/1314 好友位88",
+        "name": "姬和酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068649812048982016/TTM5l_or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15809,
+          "following_count": 168,
+          "like_count": 2201,
+          "listed_count": 32,
+          "media_count": 360,
+          "tweet_count": 1542
+        },
+        "url": "",
+        "username": "shiawaseMeow",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-24T19:50:22.000Z",
+        "description": "西行寺家的幽子，并非幽幽子大人",
+        "id": "2069870475124391936",
+        "location": "东方幻想乡",
+        "name": "西行寺幽幽子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069915933259526144/JIbUGbnu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 21,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "xxsyyz001",
+        "verified": false
+      }
+    ]
+  }
+}
