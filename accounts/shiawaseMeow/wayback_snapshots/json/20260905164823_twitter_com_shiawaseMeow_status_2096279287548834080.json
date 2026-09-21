@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096279157357637633",
+        "3_2096279157617688576",
+        "3_2096279157613408256",
+        "3_2096279157621895168"
+      ]
+    },
+    "author_id": "2603784802",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096279287548834080",
+    "created_at": "2026-09-05T16:48:23.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T17:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096279287548834080"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l7gVhsIydg",
+          "end": 26,
+          "expanded_url": "https://x.com/shiawaseMeow/status/2096279287548834080/photo/1",
+          "media_key": "3_2096279157357637633",
+          "start": 3,
+          "url": "https://t.co/l7gVhsIydg"
+        },
+        {
+          "display_url": "pic.x.com/l7gVhsIydg",
+          "end": 26,
+          "expanded_url": "https://x.com/shiawaseMeow/status/2096279287548834080/photo/1",
+          "media_key": "3_2096279157617688576",
+          "start": 3,
+          "url": "https://t.co/l7gVhsIydg"
+        },
+        {
+          "display_url": "pic.x.com/l7gVhsIydg",
+          "end": 26,
+          "expanded_url": "https://x.com/shiawaseMeow/status/2096279287548834080/photo/1",
+          "media_key": "3_2096279157613408256",
+          "start": 3,
+          "url": "https://t.co/l7gVhsIydg"
+        },
+        {
+          "display_url": "pic.x.com/l7gVhsIydg",
+          "end": 26,
+          "expanded_url": "https://x.com/shiawaseMeow/status/2096279287548834080/photo/1",
+          "media_key": "3_2096279157621895168",
+          "start": 3,
+          "url": "https://t.co/l7gVhsIydg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096279287548834080",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2096279157357637633"
+      },
+      {
+        "media_key": "3_2096279157617688576"
+      },
+      {
+        "media_key": "3_2096279157613408256"
+      },
+      {
+        "media_key": "3_2096279157621895168"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近 https://t.co/l7gVhsIydg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 942,
+        "media_key": "3_2096279157357637633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRd6yXxbcAEhQwj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 942,
+        "media_key": "3_2096279157617688576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRd6yYvbgAAEwTY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2096279157613408256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRd6yYuaMAA7QCF.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096279157621895168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRd6yYwbsAAmGID.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096279157357637633",
+            "3_2096279157617688576",
+            "3_2096279157613408256",
+            "3_2096279157621895168"
+          ]
+        },
+        "author_id": "2603784802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096279287548834080",
+        "created_at": "2026-09-05T16:48:23.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096279287548834080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7gVhsIydg",
+              "end": 26,
+              "expanded_url": "https://x.com/shiawaseMeow/status/2096279287548834080/photo/1",
+              "media_key": "3_2096279157357637633",
+              "start": 3,
+              "url": "https://t.co/l7gVhsIydg"
+            },
+            {
+              "display_url": "pic.x.com/l7gVhsIydg",
+              "end": 26,
+              "expanded_url": "https://x.com/shiawaseMeow/status/2096279287548834080/photo/1",
+              "media_key": "3_2096279157617688576",
+              "start": 3,
+              "url": "https://t.co/l7gVhsIydg"
+            },
+            {
+              "display_url": "pic.x.com/l7gVhsIydg",
+              "end": 26,
+              "expanded_url": "https://x.com/shiawaseMeow/status/2096279287548834080/photo/1",
+              "media_key": "3_2096279157613408256",
+              "start": 3,
+              "url": "https://t.co/l7gVhsIydg"
+            },
+            {
+              "display_url": "pic.x.com/l7gVhsIydg",
+              "end": 26,
+              "expanded_url": "https://x.com/shiawaseMeow/status/2096279287548834080/photo/1",
+              "media_key": "3_2096279157621895168",
+              "start": 3,
+              "url": "https://t.co/l7gVhsIydg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096279287548834080",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096279157357637633"
+          },
+          {
+            "media_key": "3_2096279157617688576"
+          },
+          {
+            "media_key": "3_2096279157613408256"
+          },
+          {
+            "media_key": "3_2096279157621895168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近 https://t.co/l7gVhsIydg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "我是姬和酱呀♡\n盗用禁止🚫",
+        "id": "2603784802",
+        "is_identity_verified": false,
+        "location": "🚪188/288/520/1314好友位88",
+        "most_recent_tweet_id": "2096279287548834080",
+        "name": "姬和酱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2603784802/1725375976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068649812048982016/TTM5l_or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16158,
+          "following_count": 163,
+          "like_count": 2204,
+          "listed_count": 32,
+          "media_count": 366,
+          "tweet_count": 1548
+        },
+        "url": "",
+        "username": "shiawaseMeow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

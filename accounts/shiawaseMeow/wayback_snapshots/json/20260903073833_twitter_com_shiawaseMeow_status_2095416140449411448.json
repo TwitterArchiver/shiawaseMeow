@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2603784802",
+    "conversation_id": "2095416140449411448",
+    "created_at": "2026-09-03T07:38:33.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T08:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095416140449411448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1686998975352881152",
+          "start": 3,
+          "username": "Birthr1ght"
+        },
+        {
+          "end": 26,
+          "id": "2052109605317275649",
+          "start": 16,
+          "username": "YeShu1796"
+        },
+        {
+          "end": 40,
+          "id": "2603784802",
+          "start": 27,
+          "username": "shiawaseMeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095416140449411448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095065918250643910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Birthr1ght: @YeShu1796 @shiawaseMeow 鸡巴会不会玩？立直自摸断幺宝牌二五番 满贯!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2603784802",
+        "conversation_id": "2095416140449411448",
+        "created_at": "2026-09-03T07:38:33.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T08:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095416140449411448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1686998975352881152",
+              "start": 3,
+              "username": "Birthr1ght"
+            },
+            {
+              "end": 26,
+              "id": "2052109605317275649",
+              "start": 16,
+              "username": "YeShu1796"
+            },
+            {
+              "end": 40,
+              "id": "2603784802",
+              "start": 27,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095416140449411448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095065918250643910",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Birthr1ght: @YeShu1796 @shiawaseMeow 鸡巴会不会玩？立直自摸断幺宝牌二五番 满贯!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686998975352881152",
+        "conversation_id": "2087870321009545253",
+        "created_at": "2026-09-02T08:26:54.000Z",
+        "display_text_range": [
+          25,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T09:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095065918250643910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2052109605317275649",
+              "start": 0,
+              "username": "YeShu1796"
+            },
+            {
+              "end": 24,
+              "id": "2603784802",
+              "start": 11,
+              "username": "shiawaseMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095065918250643910",
+        "in_reply_to_user_id": "2052109605317275649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087953771473392042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeShu1796 @shiawaseMeow 鸡巴会不会玩？立直自摸断幺宝牌二五番 满贯!"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "我是姬和酱呀♡\n盗用禁止🚫",
+        "id": "2603784802",
+        "is_identity_verified": false,
+        "location": "🚪188/288/520/1314好友位88",
+        "most_recent_tweet_id": "2095416140449411448",
+        "name": "姬和酱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2603784802/1725375976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068649812048982016/TTM5l_or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16158,
+          "following_count": 164,
+          "like_count": 2203,
+          "listed_count": 33,
+          "media_count": 365,
+          "tweet_count": 1547
+        },
+        "url": "",
+        "username": "shiawaseMeow",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-03T07:14:42.000Z",
+        "description": "",
+        "id": "1686998975352881152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095366534873170338",
+        "name": "张凡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686998975352881152/1747850643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925250532975026180/tCQWG35__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 44,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 251
+        },
+        "url": "",
+        "username": "Birthr1ght",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-06T19:34:07.000Z",
+        "description": "",
+        "id": "2052109605317275649",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095056851088056617",
+        "name": "一页纸书",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052109677660717056/bZ1ctKlK_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 205,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 354
+        },
+        "url": "",
+        "username": "YeShu1796",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

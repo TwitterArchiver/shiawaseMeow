@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2094746041040175104"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "2094746138486382666",
+    "created_at": "2026-09-01T11:16:12.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T12:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094746138486382666"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zzA8NMSI38",
+          "end": 31,
+          "expanded_url": "https://x.com/shiawaseMeow/status/2094746138486382666/video/1",
+          "media_key": "13_2094746041040175104",
+          "start": 8,
+          "url": "https://t.co/zzA8NMSI38"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094746138486382666",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2094746041040175104"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还是我比较可爱 https://t.co/zzA8NMSI38"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10366,
+        "height": 3840,
+        "media_key": "13_2094746041040175104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094746041040175104/img/Si00mOAS58MzeTX3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094746041040175104/vid/avc1/320x568/6FbsuXqv_qNh68Ze.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094746041040175104/vid/avc1/480x852/4rJ0TIjH5IDpFYUi.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094746041040175104/vid/avc1/720x1280/35GOK2Du4Jwojr62.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094746041040175104/pl/p-BYjP4QLHBBaWHo.m3u8?tag=14"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094746041040175104"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "2094746138486382666",
+        "created_at": "2026-09-01T11:16:12.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094746138486382666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zzA8NMSI38",
+              "end": 31,
+              "expanded_url": "https://x.com/shiawaseMeow/status/2094746138486382666/video/1",
+              "media_key": "13_2094746041040175104",
+              "start": 8,
+              "url": "https://t.co/zzA8NMSI38"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094746138486382666",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2094746041040175104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是我比较可爱 https://t.co/zzA8NMSI38"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "我是姬和酱呀♡\n盗用禁止🚫",
+        "id": "2603784802",
+        "is_identity_verified": false,
+        "location": "🚪188/288/520/1314好友位88",
+        "most_recent_tweet_id": "2094746138486382666",
+        "name": "姬和酱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2603784802/1725375976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068649812048982016/TTM5l_or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16064,
+          "following_count": 164,
+          "like_count": 2202,
+          "listed_count": 33,
+          "media_count": 365,
+          "tweet_count": 1546
+        },
+        "url": "",
+        "username": "shiawaseMeow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
