@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106312841456476160"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "2106312999401349559",
+    "created_at": "2026-10-03T09:18:47.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T10:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106312999401349559"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JbCodVMCxo",
+          "end": 28,
+          "expanded_url": "https://x.com/shiawaseMeow/status/2106312999401349559/photo/1",
+          "media_key": "3_2106312841456476160",
+          "start": 5,
+          "url": "https://t.co/JbCodVMCxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106312999401349559",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2106312841456476160"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不太淑女 https://t.co/JbCodVMCxo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106312841456476160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsgXpzbYAA-z1I.jpg",
+        "width": 1148
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106312841456476160"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "2106312999401349559",
+        "created_at": "2026-10-03T09:18:47.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106312999401349559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JbCodVMCxo",
+              "end": 28,
+              "expanded_url": "https://x.com/shiawaseMeow/status/2106312999401349559/photo/1",
+              "media_key": "3_2106312841456476160",
+              "start": 5,
+              "url": "https://t.co/JbCodVMCxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106312999401349559",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106312841456476160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不太淑女 https://t.co/JbCodVMCxo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "我是姬和酱呀♡\n盗用禁止🚫",
+        "id": "2603784802",
+        "is_identity_verified": false,
+        "location": "🚪188/288/520/1314好友位88",
+        "most_recent_tweet_id": "2106312999401349559",
+        "name": "姬和酱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2603784802/1725375976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068649812048982016/TTM5l_or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16240,
+          "following_count": 163,
+          "like_count": 2140,
+          "listed_count": 33,
+          "media_count": 371,
+          "tweet_count": 1557
+        },
+        "url": "",
+        "username": "shiawaseMeow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

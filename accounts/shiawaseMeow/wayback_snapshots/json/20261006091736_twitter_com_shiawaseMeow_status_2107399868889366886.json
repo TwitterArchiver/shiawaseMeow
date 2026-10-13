@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2107399155119497216"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "2107399868889366886",
+    "created_at": "2026-10-06T09:17:36.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T10:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107399868889366886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m3LhQ6IhhE",
+          "end": 51,
+          "expanded_url": "https://x.com/shiawaseMeow/status/2107399868889366886/video/1",
+          "media_key": "13_2107399155119497216",
+          "start": 28,
+          "url": "https://t.co/m3LhQ6IhhE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107399868889366886",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2107399155119497216"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一次去漫展被集邮了20多次，好感动！车万人都太好了～ https://t.co/m3LhQ6IhhE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12861,
+        "height": 1920,
+        "media_key": "13_2107399155119497216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107399155119497216/img/y8JBs4Cs8PIjPfya.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107399155119497216/vid/avc1/320x568/LkYUl-kLG9uIb5Nx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107399155119497216/vid/avc1/480x852/Xgx65-OzVJO4iWv4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107399155119497216/vid/avc1/720x1280/fMBKrb9P7ylKLFWJ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107399155119497216/pl/96Y2kGPhvLrBjfq3.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107399155119497216"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "2107399868889366886",
+        "created_at": "2026-10-06T09:17:36.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T10:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107399868889366886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m3LhQ6IhhE",
+              "end": 51,
+              "expanded_url": "https://x.com/shiawaseMeow/status/2107399868889366886/video/1",
+              "media_key": "13_2107399155119497216",
+              "start": 28,
+              "url": "https://t.co/m3LhQ6IhhE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107399868889366886",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2107399155119497216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次去漫展被集邮了20多次，好感动！车万人都太好了～ https://t.co/m3LhQ6IhhE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "我是姬和酱呀♡\n盗用禁止🚫",
+        "id": "2603784802",
+        "is_identity_verified": false,
+        "location": "🚪188/288/520/1314好友位88",
+        "most_recent_tweet_id": "2107399868889366886",
+        "name": "姬和酱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2603784802/1725375976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068649812048982016/TTM5l_or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16230,
+          "following_count": 160,
+          "like_count": 2138,
+          "listed_count": 33,
+          "media_count": 372,
+          "tweet_count": 1558
+        },
+        "url": "",
+        "username": "shiawaseMeow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1842214297033904129"
+      ]
+    },
+    "author_id": "2603784802",
+    "conversation_id": "1842214462734127281",
+    "created_at": "2024-10-04T14:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T15:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1842214462734127281"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3FwfmKS872",
+          "end": 29,
+          "expanded_url": "https://x.com/shiawaseMeow/status/1842214462734127281/video/1",
+          "media_key": "7_1842214297033904129",
+          "start": 6,
+          "url": "https://t.co/3FwfmKS872"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842214462734127281",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我跳手势舞 https://t.co/3FwfmKS872"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14170,
+        "height": 3840,
+        "media_key": "7_1842214297033904129",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1842214297033904129/pu/img/Dd7Hx0pKocGGWyG3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1842214297033904129/pu/vid/avc1/320x568/OdcA-PxQUiGSv7tN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1842214297033904129/pu/vid/avc1/480x852/xu-bSh9G3Mu25RCp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1842214297033904129/pu/vid/avc1/720x1280/cmo-V-MhCHD5lFcD.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1842214297033904129/pu/pl/2s0e0oJjlrRn3lnd.m3u8?tag=12"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1842214297033904129"
+          ]
+        },
+        "author_id": "2603784802",
+        "conversation_id": "1842214462734127281",
+        "created_at": "2024-10-04T14:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T15:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842214462734127281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3FwfmKS872",
+              "end": 29,
+              "expanded_url": "https://x.com/shiawaseMeow/status/1842214462734127281/video/1",
+              "media_key": "7_1842214297033904129",
+              "start": 6,
+              "url": "https://t.co/3FwfmKS872"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842214462734127281",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我跳手势舞 https://t.co/3FwfmKS872"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2014-06-12T12:55:11.000Z",
+        "description": "世界も涙も強さも忘れて",
+        "id": "2603784802",
+        "location": "🚪288/520/1314",
+        "name": "hiyorin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830985323037458432/x_ZoyOjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 70,
+          "like_count": 273,
+          "listed_count": 0,
+          "tweet_count": 295
+        },
+        "username": "shiawaseMeow",
+        "verified": false
+      }
+    ]
+  }
+}
