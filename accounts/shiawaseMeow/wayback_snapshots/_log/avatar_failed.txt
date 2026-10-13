@@ -34,7 +34,6 @@ https://pbs.twimg.com/profile_images/1841881020427374592/TtvPTRJm_normal.jpg
 https://pbs.twimg.com/profile_images/1849874705718886400/eQArTomy_normal.jpg
 https://pbs.twimg.com/profile_images/1838947042334486528/LXUKJSLc_normal.jpg
 https://pbs.twimg.com/profile_images/1829546091798528000/2N3kO7u8_normal.jpg
-https://pbs.twimg.com/profile_images/1845026694765346817/mJG2NgwD_normal.jpg
 https://pbs.twimg.com/profile_images/1838111071372263425/BgCXIvrw_normal.jpg
 https://pbs.twimg.com/profile_images/1721190483547115520/mwngiz8e_normal.jpg
 https://pbs.twimg.com/profile_images/1835249258871889920/lSw-mh-3_normal.jpg
@@ -69,7 +68,6 @@ https://pbs.twimg.com/profile_images/1868271770027057152/4DHaBiqW_normal.jpg
 https://pbs.twimg.com/profile_images/1891333455692312576/mo5q6mxe_normal.jpg
 https://pbs.twimg.com/profile_images/1890298537440866304/AQyIe0dy_normal.jpg
 https://pbs.twimg.com/profile_images/1603585208921468929/-8fzlvpd_normal.jpg
-https://pbs.twimg.com/profile_images/1895357639879524352/W86f868N_normal.jpg
 https://pbs.twimg.com/profile_images/1877068553326563328/IxHYhiqL_normal.jpg
 https://pbs.twimg.com/profile_images/1878073456056819712/0Ffu3rwd_normal.jpg
 https://pbs.twimg.com/profile_images/1902545039974359040/0hgOij4X_normal.jpg
@@ -80,14 +78,10 @@ https://pbs.twimg.com/profile_images/1888594963941998592/9qBZfJN5_normal.jpg
 https://pbs.twimg.com/profile_images/1890786466504011776/x3kHZZpp_normal.jpg
 https://pbs.twimg.com/profile_images/1879233154609025024/rerGGMgi_normal.jpg
 https://pbs.twimg.com/profile_images/1884084615327227904/QbRY_S4__normal.jpg
-https://pbs.twimg.com/profile_images/1895587607691558912/eC2VUukz_normal.jpg
 https://pbs.twimg.com/profile_images/1887929436013740032/VRIsoYji_normal.jpg
-https://pbs.twimg.com/profile_images/1795787762790236160/oOng3Hy1_normal.jpg
-https://pbs.twimg.com/profile_images/1876536830033817600/bOYse8gn_normal.jpg
 https://pbs.twimg.com/profile_images/1905542012759326720/rS4uRjkg_normal.jpg
 https://pbs.twimg.com/profile_images/1900891653994680321/rohUdC_I_normal.jpg
 https://pbs.twimg.com/profile_images/1903618459810086912/964ZFWNK_normal.jpg
-https://pbs.twimg.com/profile_images/1903606963944202240/zl5kP_Ac_normal.jpg
 https://pbs.twimg.com/profile_images/1888616491790303233/d__1pxJx_normal.jpg
 https://pbs.twimg.com/profile_images/1873089073230880768/s3ZWWGcf_normal.jpg
 https://pbs.twimg.com/profile_images/1909455569213423616/mUbzVF7R_normal.jpg
@@ -104,7 +98,6 @@ https://pbs.twimg.com/profile_images/1900614792823664641/2fSPs8tT_normal.jpg
 https://pbs.twimg.com/profile_images/1911653391895310336/0UyP0pi2_normal.jpg
 https://pbs.twimg.com/profile_images/1923997754843385856/fEbnsOoR_normal.jpg
 https://pbs.twimg.com/profile_images/1885773795962863616/vE57uM91_normal.jpg
-https://pbs.twimg.com/profile_images/1894709081585119232/gtA-7aZk_normal.jpg
 https://pbs.twimg.com/profile_images/1919960401644814337/fb3S114u_normal.jpg
 https://pbs.twimg.com/profile_images/1918366389150334976/MDEnwIqk_normal.jpg
 https://pbs.twimg.com/profile_images/1930285563711762438/JV1uF0he_normal.jpg
@@ -129,7 +122,6 @@ https://pbs.twimg.com/profile_images/1942869238462517248/n6B-64Zm_normal.jpg
 https://pbs.twimg.com/profile_images/1860172513160077312/Ltkes-A3_normal.jpg
 https://pbs.twimg.com/profile_images/1496809007721312256/FPQmA4Gl_normal.jpg
 https://pbs.twimg.com/profile_images/1919692132044177410/j80e0ycj_normal.jpg
-https://pbs.twimg.com/profile_images/1897408469566734336/KQ-NlvGP_normal.jpg
 https://pbs.twimg.com/profile_images/1932757976177397760/wbaLXg1p_normal.jpg
 https://pbs.twimg.com/profile_images/1946234897053392896/ThvuFf7h_normal.jpg
 https://pbs.twimg.com/profile_images/1952777774772506625/OES61DyF_normal.jpg
@@ -150,3 +142,4 @@ https://pbs.twimg.com/profile_images/2027584058662985728/KOclE0xY_normal.jpg
 https://pbs.twimg.com/profile_images/2029780028050001923/f_kmTgFV_normal.jpg
 https://pbs.twimg.com/profile_images/1835173741841838080/ns-MpSMw_normal.jpg
 https://pbs.twimg.com/profile_images/1906941734468403200/66gaOv0E_normal.jpg
+https://pbs.twimg.com/profile_images/1837107888042508288/Qj8Oze4t_normal.jpg
